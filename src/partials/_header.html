@@ -1,0 +1,11 @@
+{% set navigation_bar = [
+('/eat/', 'eat'),
+('/move/', 'move'),
+('/read/', 'read'),
+('/write/', 'write')
+] -%}
+
+{% set active_page = active_page|default('home') -%}
+<header>
+    <h1>davidwatson<a href="/">●</a>org</h1>
+</header>

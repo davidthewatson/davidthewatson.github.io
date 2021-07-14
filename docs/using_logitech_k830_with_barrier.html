@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="davidwatson.org">
+<title></title>
+<link rel="stylesheet" href="/css/water.min.css">
+
+
+</head>
+
+<body>
+  <header>
+    <h1>davidwatson<a href="/">●</a>org</h1>
+</header>
+  
+        <h2>Using Logitech K830 with Barrier</h2>
+<p>If you're like me, you juggle computers, frequently using more than one computer at-a-time. 
+  <p>And you control those computers with a single keyboard and touchpad, which brings us to the subject of software KVM - the ability to control multiple physical GUI computers with a single keyboard and mouse shared over the network.</p>
+  <p>I've been running this way for so long that it's hard to imagine a more optimal way to work on more than one GUI machine that is not virtual, rather physical.</p>
+<p>Which brings me to barrier. Barrier is what synergy used to be: awesome and free, enabling me to run in exactly the three laptop setup that I did when I ran synergy years ago: Windows, MacOS, and Linux with a single shared keyboard and touchpad.</p>
+<p>But there's only one problem.</p>
+<p>The K830 for all of it's design brilliance has one near-fatal flaw: it cannot be configured for natural scroll out of the box in any easy way, like a preferences or settings GUI until very recently. Literally, you could not configure this touchpad to do natural scorlling on Windows prior to 2020 without resorting to a registry edit. And not just any registry edit - one that is so complex it may win an award for <a href="https://superuser.com/questions/775654/can-i-reverse-my-logitech-keyboards-touchpad-scroll-direction">configuration complexity</a>.</p>
+<p>The good news is that there is a fix: Logitech Options got this capability in 2020 but there is a bug to note relative to Logitech Options use with Barrier. That is, if you turn on <em>Content tracks fingers</em> under Point&amp;Scroll in Logitech Options the touchpad will cease to function over Barrier on the client computers. I run barrier server on Windows so in my setup this was Mac and Linux that got a dead touchpad. However, this is easily solved by simply <em>disabling Smooth Scrolling in Logitech Options</em> and restarting.</p>
+
+  <footer>
+        <p>&copy; 2021 David Watson</p>
+    </footer>
+    
+
+  
+</body>
+
+</html>
