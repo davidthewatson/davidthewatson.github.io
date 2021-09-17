@@ -70,7 +70,7 @@ and reflection to improve.
 
 ### Programmer-Analyst, _USX_ 1990-1992
 
-  * Implemented C/C++ HLLAPI programs on OS/2 to automate data center operations from a remote networked PC 
+  * Implemented C/C++ HLLAPI programs on OS/2 to automate data center ops from a networked PC 
 
 ## Education
 

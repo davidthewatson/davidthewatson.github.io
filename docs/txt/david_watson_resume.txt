@@ -66,7 +66,7 @@ Wrote C++ on OS/2 for Executive Workbench asset management product
 
 Programmer-Analyst, USX 1990-1992
 
-Implemented C/C++ HLLAPI programs on OS/2 to automate data center operations from a remote networked PC 
+Implemented C/C++ HLLAPI programs on OS/2 to automate data center ops from a networked PC 
 
 Education
 
