@@ -1,15 +1,16 @@
 David Watson david@davidwatson.org
 Summary
-I help teams design, develop, and deploy software from containers to cloud and
-beyond.
+I help teams design, develop, and deploy software using automation, iteration,
+and reflection to improve.
 Experience
-Software Engineering Specialist, Caterpillar 2018-present
+Software Engineering Specialist, Consultant, Caterpillar 2018-2020,
+2021-present
 
-DevOps, on terrain visualization, CVAT and ingestion on Kubernetes for Autonomy Group
+Prototyped ingestion, storage, and annotation as well as terrain visualization for Autonomy Group
 
 Member of Technical Staff, Carnegie Mellon University 2020
 
-Emerging Technology Center (ETC) works on high performance computing, ML, and HCI
+Researched high performance computing, ML, and HCI for Emerging Technology Center (ETC)
 
 Senior Software Developer, Realpage 2016 - 2018
 
@@ -25,7 +26,7 @@ Led engineering team through refactoring Python, Django, and PostgreSQL stack
 
 Senior Software Developer, Forever 2013 - 2014
 
-Wrote Python/Flask/MongoDB prototype, ported to Ruby/Rails/PostgreSQL
+Wrote Python, Flask, MongoDB prototype, ported to Ruby on Rails, PostgreSQL
 
 Senior Engineer, Smash 2011 - 2012
 
@@ -37,7 +38,7 @@ Led DevOps approach to Selenium (CI) and Capistrano (CD)
 
 Project Engineer, Applied Perception 2008-2009
 
-Visualized XML sonar data in python, ported Microsoft C#.net GUI to C++/Qt/Linux
+Visualized XML sonar data in python, ported Microsoft C#.net Windows GUI to C++/Qt/Linux
 
 UI Software Engineer, Nomos 2006 - 2007
 
@@ -45,12 +46,28 @@ Prototyped wireframes and storyboards in C++/Qt for adaptive 4D treatment planni
 
 Software Design Engineer, MAYA 2004 - 2006
 
-Implemented web-based systems in python and a wireless lighting system in for Philips
+Implemented AJAX backends in python/non-relational DB and a wireless lighting system in C# for Philips
 
 Co-Founder, Cobind 2003 - 2004
 
-Co-founded custom Linux startup after winning Idea Foundry Fellowship
+Co-founded custom Linux tools startup after winning Idea Foundry Fellowship
+
+Senior Software Engineer, Management Science Associates 2000-2003
+
+Implemented product import systems providing Excel VBA API from spreadsheet to database 
+
+Member of Technical Staff, CA 1995-2000
+
+Coded C++ on Automation Point, Raveler, and Unicenter at Legent, Platinum, and CA, respectively 
+
+Programmer-Analyst, Mellon 1992-1995
+
+Wrote C++ on OS/2 for Executive Workbench asset management product 
+
+Programmer-Analyst, USX 1990-1992
+
+Implemented C/C++ HLLAPI programs on OS/2 to automate data center operations from a remote networked PC 
 
 Education
 
-Bachelor of Science, Duquesne University
+Bachelor of Science, Duquesne University 1991
