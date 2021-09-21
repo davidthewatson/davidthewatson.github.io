@@ -23,12 +23,28 @@ def render_md(site, template, **kwargs):
     os.makedirs(out.parent, exist_ok=True)
     site.get_template("_post.html").stream(**kwargs).dump(str(out), encoding="utf-8")
 
+def render_resume(site, template, **kwargs):
+    # i.e. posts/post1.md -> build/posts/post1.html
+    out = site.outpath / Path(template.name).with_suffix(".html")
+
+    # Compile and stream the result
+    os.makedirs(out.parent, exist_ok=True)
+    site.get_template("_resume_base.html").stream(**kwargs).dump(str(out), encoding="utf-8")
 
 site = Site.make_site(
     searchpath="src",
-    outpath="build",
+    outpath="docs",
     contexts=[(r".*\.md", md_context)],
     rules=[(r".*\.md", render_md)],
 )
 
 site.render()
+
+resume = Site.make_site(
+    searchpath="resume",
+    outpath="docs/resume",
+    contexts=[(r".*\.md", md_context)],
+    rules=[(r".*\.md", render_resume)],
+)
+
+resume.render()

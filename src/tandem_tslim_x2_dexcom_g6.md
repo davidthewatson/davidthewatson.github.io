@@ -7,7 +7,7 @@ worked in medical devices and digital health.
 ## Diabetes Technology Ecosystem ##
 Any discussion of insulin pumps owes a debt of gratitude to Dean_Kamen. We are
 standing_on_the_shoulders_of_giants.
-
+nnnn
 I also owe a debt of gratitude to a number of great endocrinologists from the
 University of Pittsburgh and the certified diabetes educators who have helped
 me over the years.
@@ -23,7 +23,7 @@ Without the helpers, I'd never be able to produce the results that I
 demonstrate below, particularly given that I am highly active and fast
 regularly, meaning that my basal rates have to be finely tuned or my diet,
 exercise, and sleep become difficult to manage quickly. I have used 1, 2, and 3
-day fasts for almost 15 years to tune my basal rates as it is an effective
+day fasts for almost 15 years to tune my basal rnates as it is an effective
 technique that is not difficult for me to manage, despite complaints from
 doctors, dieticians, and CDEs. Fasting works, as Valter_Longo_and_others_have
 demonstrated_with_fast-mimicking_diets.

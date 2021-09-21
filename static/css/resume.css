@@ -1,0 +1,101 @@
+h2 {
+  padding-left: .5em;
+}
+
+h3 {
+  padding-left: 1.5em;
+}
+h4 {
+  padding-left: 2.5em;
+  margin: .5em auto;
+}
+
+h5 {
+  padding-left: 3.5em;
+}
+
+small {
+  color: #888;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-left: 3.5em;
+  padding-right: 3.5em;
+  margin: 0 auto;
+}
+
+.list {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-left: 4.5em;
+  margin: .5em auto;
+}
+
+.content {
+  padding: 2em 2em 2em;
+}
+
+.skill-label {
+  padding-left: 3.5em;
+  font-weight: bold;
+}
+
+.skill {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding-left: 4.5em;
+}
+
+.image-box {
+  padding-left: 0em;
+  padding-right: .5em;
+}
+
+.text-box {
+  padding-left: 0em;
+  padding-right: .5em;
+}
+
+.pure-menu-heading {
+  text-transform: initial;
+  font-weight: bold;
+}
+
+.pure-menu-selected {
+  font-weight: bold;
+}
+
+.ome-menu,
+.pure-menu,
+.pure-menu-horizontal,
+.pure-menu-fixed {
+  background-color: #eee;
+}
+
+@media print {
+  #pdf {
+    display: none;
+  }
+
+  .header {
+    display: none;
+  }
+
+  .footer {
+    display: none;
+  }
+
+  p {
+    page-break-inside: avoid;
+  }
+
+  #experience {
+    page-break-before: always;
+  }
+
+  @page {
+    margin-top: 1.27cm;
+    margin-bottom: 1.27cm;
+    margin-left: 1.27cm;
+    margin-right: 1.27cm;
+  }
+}
