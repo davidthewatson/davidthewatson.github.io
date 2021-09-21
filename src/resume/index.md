@@ -1,7 +1,3 @@
-{% extends '_base.html' %}
-{% set active_page = "resume" %}
-{% block title %}davidwatson.org: about{% endblock %}
-{% block body %}
 <h2>resume</h2>
 <ul>
   <li>
@@ -14,4 +10,3 @@
     <a href="/txt/david_watson_resume.txt">TXT</a>
   </li>
 </ul>
-{% endblock %}

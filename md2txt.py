@@ -30,7 +30,7 @@ def unmark(text):
 
 
 def main():
-    md_file = open('docs/txt/david_watson_resume.md')
+    md_file = open('src/resume/david_watson_resume.md')
     txt = md_file.read()
     plain_txt = unmark(txt)
     n = open('docs/txt/david_watson_resume.txt', 'w')

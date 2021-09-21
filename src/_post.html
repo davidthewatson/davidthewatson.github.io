@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  {% include 'partials/_head.html' %}
+</head>
+
+<body>
+  {% include 'partials/_header.html' %}
+  {{ post_content_html }}
+  {% include 'partials/_footer.html' %}
+
+  {% block footer_js %}{% endblock %}
+</body>
+
+</html>
