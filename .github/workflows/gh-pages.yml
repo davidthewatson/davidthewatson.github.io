@@ -44,25 +44,6 @@ jobs:
 
       - run: ./build_gh_pages.sh
 
-      name: Push commit
-      on: push
-      jobs:
-        report:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: actions/checkout@v1
-            - name: commit docs directory for deploy
-              run: ls
-            - name: add docs directory
-              run: |
-                git config --global user.name 'david watson'
-                git config --global user.email 'davidthewatson@users.noreply.github.com'
-                git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
-                git checkout "${GITHUB_REF:11}"
-                git add -A
-                git commit -am "Add docs directory"
-                git push
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
