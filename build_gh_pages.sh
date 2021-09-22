@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
  
+mkdir docs
 ./make_index.py
 ./md2html.py
+./render_resume.py
 rm src/index.md
 cp -rf static/* docs/.
 mkdir -p docs/pdf
