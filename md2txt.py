@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 
 # Convert markdown to plain text from https://stackoverflow.com/a/54923798
