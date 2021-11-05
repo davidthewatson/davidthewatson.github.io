@@ -2,74 +2,77 @@
 
 ## Summary
 
-I help teams design, develop, and deploy software by iterating, automating, and reflecting.
+I help teams design, develop, and deploy commercial software. That software has spanned proprietary and open source approaches to content management systems, data center automation, enterprise software, and systems management. 
+
+My teams have shipped products by starting with a process of defining, prototyping, and iterating followed by reflecting, automating, and evolving. I enjoy working with small teams on emergent technology stacks that cannot be fully understood without a multidisciplinary, sensemaking approach.
+
+When I'm not working, I like to I like to be active, outside, with my dog. In 2021, I finished two 5Ks, one 10K, and a half-marathon - the latter of which I medaled in my age group. I'm a competive person.
 
 ## Experience
 
-### Software Engineering Specialist, Consultant, _Caterpillar_ 2018-2020,
-2021-present
-
-  * Prototyped ingestion, storage, and annotation as well as terrain visualization for Autonomy Group
+### Software Engineering Consultant, _Caterpillar_ 2018-2020, 2021-present
+  * Contributed code and process to multiple projects within autonomy groups
+  * Prototyped ingestion, storage, and annotation of CV and ML data
 
 ### Member of Technical Staff, _Carnegie Mellon University_ 2020
-
-  * Researched high performance computing, ML, and HCI for Emerging Technology Center (ETC)
+  * Contributed to Emerging Technology Center within Software Engineering Institute
+  * Work included high performance computing, ML, and HCI
 
 ### Senior Software Developer, _Realpage_ 2016 - 2018
-
+  * Contributed code and process to software engineering team
   * Implemented crawler data pipeline using Python, PostgreSQL, Docker, and Kubernetes
 
 ### VP Product Development, _Wellbridge Health_ 2015 - 2016
-
-  * Led design of Django REST JSON API using PostgreSQL to Ember Data on web and mobile
+  * Led development group through replacement of legacy prototype with usable product 
+  * Designed and implemented REST API using DRF and PostgreSQL on web and mobile
 
 ### VP Engineering, _Hire an Esquire_ 2014
-
-  * Led engineering team through refactoring Python, Django, and PostgreSQL stack
+  * Led engineering team from rough prototype to mature product 
+  * Refactored Python, Django, and PostgreSQL stack
 
 ### Senior Software Developer, _Forever_ 2013 - 2014
-
+  * Contributed code from prototype to product
   * Wrote Python, Flask, MongoDB prototype, ported to Ruby on Rails, PostgreSQL
 
 ### Senior Engineer, _Smash_ 2011 - 2012
-
+  * Contributed code to internal systems supporting daily operations
   * Designed and implemented conversational text systems and REST interfaces in python
 
 ### Software Development Manager, _Wellspring_ 2010 - 2011
-
-  * Led DevOps approach to Selenium (CI) and Capistrano (CD)
+  * Led development team from legacy data center to SaaS virtualization
+  * Prototyped DevOps (CI/CD) approach using Capistrano, Mechanize, and Selenium
 
 ### Project Engineer, _Applied Perception_ 2008-2009
-
+  * Contributed code to teams working on military robotics projects (DARPA)
   * Visualized XML sonar data in python, ported Microsoft C#.net Windows GUI to C++/Qt/Linux
 
 ### UI Software Engineer, _Nomos_ 2006 - 2007
-
+  * Contributed code, tests, and review to several radiation oncology software products
   * Prototyped wireframes and storyboards in C++/Qt for adaptive 4D treatment planning
 
 ### Software Design Engineer, _MAYA_ 2004 - 2006
-
-  * Implemented AJAX backends in python/non-relational DB and a wireless lighting system in C# for Philips
+  * Contributed design, analysis, and code across numerous consulting projects
+  * Coded AJAX backends in python and a wireless lighting system in C# for Philips
 
 ### Co-Founder, _Cobind_ 2003 - 2004
-
-  * Co-founded custom Linux tools startup after winning Idea Foundry Fellowship
+  * Partnered on vision and execution of startup
+  * Delivered custom Linux tools after winning Idea Foundry Fellowship
 
 ### Senior Software Engineer, _Management Science Associates_ 2000-2003
-
+  * Contributed code, data, and deployment before and after startup acquisition
   * Implemented product import systems providing Excel VBA API from spreadsheet to database 
 
 ### Member of Technical Staff, _CA_ 1995-2000
-
-  * Coded C++ on Automation Point, Raveler, and Unicenter at Legent, Platinum, and CA, respectively 
+  * Contributed code to Automation Point, Raveler, and CA-Unicenter products
+  * Coded C++ GUI code for Legent and Platinum, before and after CA acquisition 
 
 ### Programmer-Analyst, _Mellon_ 1992-1995
-
-  * Wrote C++ on OS/2 for Executive Workbench asset management product 
+  * Contributed code to Executive Workbench asset management product
+  * Implemented multi-threaded, event-driven C++ GUI code on OS/2 
 
 ### Programmer-Analyst, _USX_ 1990-1992
-
-  * Implemented C/C++ HLLAPI programs on OS/2 to automate data center ops from a networked PC 
+  * Contributed code to internal data center systems automation effort
+  * Automated data center operations in C and HLLAPI on OS/2 from a networked PC 
 
 ## Education
 
