@@ -2,8 +2,7 @@
 
 ## Summary
 
-I help teams design, develop, and deploy software using automation, iteration,
-and reflection to improve.
+I help teams design, develop, and deploy software by iterating, automating, and reflecting.
 
 ## Experience
 
