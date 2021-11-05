@@ -2,11 +2,11 @@
 
 ## Summary
 
-I help teams design, develop, and deploy commercial software. That software has spanned proprietary and open source approaches to content management systems, data center automation, enterprise software, and systems management. 
+I help teams design, develop, and deploy software. I've evolved the process from years of proprietary and open source work in R&D labs and startups from data centers to cloud native. 
 
-My teams have shipped products by starting with a process of defining, prototyping, and iterating followed by reflecting, automating, and evolving. I enjoy working with small teams on emergent technology stacks that cannot be fully understood without a multidisciplinary, sensemaking approach.
+My teams have shipped products by defining, designing, and reflecting, then iterating, evolving, and automating until shipping a complete product begins the product lifecycle anew. 
 
-When I'm not working, I like to I like to be active, outside, with my dog. In 2021, I finished two 5Ks, one 10K, and a half-marathon - the latter of which I medaled in my age group. I'm a competive person.
+I enjoy working with small, peer teams on emergent technology whose organic complexity is high enough that the team's role is to reduce synthetic complexity through design. 
 
 ## Experience
 
@@ -55,10 +55,10 @@ When I'm not working, I like to I like to be active, outside, with my dog. In 20
   * Coded AJAX backends in python and a wireless lighting system in C# for Philips
 
 ### Co-Founder, _Cobind_ 2003 - 2004
-  * Partnered on vision and execution of startup
+  * Partnered on ideation, vision and execution of startup
   * Delivered custom Linux tools after winning Idea Foundry Fellowship
 
-### Senior Software Engineer, _Management Science Associates_ 2000-2003
+### Senior Software Engineer, _MSA_ 2000-2003
   * Contributed code, data, and deployment before and after startup acquisition
   * Implemented product import systems providing Excel VBA API from spreadsheet to database 
 
