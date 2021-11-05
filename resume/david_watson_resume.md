@@ -2,28 +2,28 @@
 
 ## Summary
 
-I help teams design, develop, and deploy software. I've evolved the process from years of proprietary and open source work in R&D labs and startups from data centers to cloud native. 
+I help teams design, develop, and deploy software. I've evolved the process from years of proprietary and open source work in R&D labs and startups from data center to virtualization to cloud native. 
 
-My teams have shipped products by defining, designing, and reflecting, then iterating, evolving, and automating until shipping a complete product begins the product lifecycle anew. 
+My teams have shipped products by defining, designing, and reflecting, then iterating, evolving, and automating until shipping tags a complete product and the process begins again. 
 
-I enjoy working with small, peer teams on emergent technology whose organic complexity is high enough that the team's role is to reduce synthetic complexity through design. 
+I enjoy working with small, peer teams on emergent technology where organic complexity is high enough that the team's only choice is to reduce synthetic complexity through thoughtful design choices. 
 
 ## Experience
 
 ### Software Engineering Consultant, _Caterpillar_ 2018-2020, 2021-present
-  * Contributed code and process to multiple projects within autonomy groups
-  * Prototyped ingestion, storage, and annotation of CV and ML data
+  * Contributed code and process to multiple projects within autonomy group
+  * Designed and developed ingestion, storage, and annotation of CV and ML data
 
 ### Member of Technical Staff, _Carnegie Mellon University_ 2020
   * Contributed to Emerging Technology Center within Software Engineering Institute
-  * Work included high performance computing, ML, and HCI
+  * Work included HPC, ML, and HCI
 
 ### Senior Software Developer, _Realpage_ 2016 - 2018
   * Contributed code and process to software engineering team
   * Implemented crawler data pipeline using Python, PostgreSQL, Docker, and Kubernetes
 
 ### VP Product Development, _Wellbridge Health_ 2015 - 2016
-  * Led development group through replacement of legacy prototype with usable product 
+  * Led development team through replacement of legacy prototype with new product 
   * Designed and implemented REST API using DRF and PostgreSQL on web and mobile
 
 ### VP Engineering, _Hire an Esquire_ 2014
@@ -32,7 +32,7 @@ I enjoy working with small, peer teams on emergent technology whose organic comp
 
 ### Senior Software Developer, _Forever_ 2013 - 2014
   * Contributed code from prototype to product
-  * Wrote Python, Flask, MongoDB prototype, ported to Ruby on Rails, PostgreSQL
+  * Wrote Python, Flask, MongoDB prototype, productionized Ruby on Rails, PostgreSQL
 
 ### Senior Engineer, _Smash_ 2011 - 2012
   * Contributed code to internal systems supporting daily operations
@@ -55,8 +55,8 @@ I enjoy working with small, peer teams on emergent technology whose organic comp
   * Coded AJAX backends in python and a wireless lighting system in C# for Philips
 
 ### Co-Founder, _Cobind_ 2003 - 2004
-  * Partnered on ideation, vision and execution of startup
-  * Delivered custom Linux tools after winning Idea Foundry Fellowship
+  * Partnered on ideation, vision, and execution of custom Linux Tools startup
+  * Received wide press acclaim around products after winning Idea Foundry Fellowship
 
 ### Senior Software Engineer, _MSA_ 2000-2003
   * Contributed code, data, and deployment before and after startup acquisition
@@ -71,8 +71,8 @@ I enjoy working with small, peer teams on emergent technology whose organic comp
   * Implemented multi-threaded, event-driven C++ GUI code on OS/2 
 
 ### Programmer-Analyst, _USX_ 1990-1992
-  * Contributed code to internal data center systems automation effort
-  * Automated data center operations in C and HLLAPI on OS/2 from a networked PC 
+  * Contributed code to internal data center systems automation
+  * Automated data center operations in C/HLLAPI on OS/2 from a networked PC 
 
 ## Education
 
