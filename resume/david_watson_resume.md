@@ -4,7 +4,7 @@
 
 I help teams design, develop, and deploy software using lightweight process and modern tooling on emergent technology. My work spans desktop, data center, and cloud in medicine, robotics, and other domains.
 
-When I'm not working, I like to move through space and time outside on two feet or two wheels.
+When I'm not working, I like to move outside on two feet or two wheels.
 
 ## Experience
 
