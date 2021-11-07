@@ -15,8 +15,8 @@ def main():
         print(title)
         lis.append(f'<li><a href="{md[:-3]}.html">{title}</a></li>')
     lis.sort()
-    for li in lis:
-        html += f'<ul>{li}</ul>'
+    ul = ''.join(lis)
+    html = f'<ul>{ul}</ul>'
     f = open('index.md', 'w')
     f.writelines(html)
     f.close()
