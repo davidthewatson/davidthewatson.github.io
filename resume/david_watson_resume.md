@@ -2,13 +2,13 @@
 
 ## Summary
 
-I help teams design, develop, and deploy software. 
+I help teams design, develop, and deploy software. I'm comfortable working alone, in pairs, or groups establishing consensus among competing constraints.
 
 My work has spanned desktop to data center and mobile to cloud in a variety of business domains from startups to small research labs. 
 
-Working primarily in C++ and Python on Linux, Mac, and Windows, but using a variety of tools such as Docker, Kubernetes, and PostgreSQL provides teams with a common foundation for building software. 
+I've worked primarily in C++ and Python on Linux, Mac, and Windows. 
 
-By automating the efficient part (CI/CD) and focusing design-development teams on the inefficient part, provides better results faster. 
+Using a variety of tools such as Docker, Kubernetes, and PostgreSQL provides teams with a common foundation for building software.
 
 When I'm not working, I like to bike, run, and ski. I relax by reading, writing, and reflecting.
 
@@ -78,7 +78,10 @@ When I'm not working, I like to bike, run, and ski. I relax by reading, writing,
   * Contributed code to internal data center systems automation
   * Automated data center operations in C/HLLAPI on OS/2 from a networked PC 
 
+## Sites
+  * [GitHub](https://github.com/davidthewatson/)
+  * [LinkedIn](https://www.linkedin.com/in/davidthewatson/)
+
 ## Education
 
   * Bachelor of Science, _Duquesne University 1991_
-
