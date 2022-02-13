@@ -1,10 +1,14 @@
-David Watson david@davidwatson.org
-Summary
-I help teams design, develop, and deploy software. I'm comfortable working alone, in pairs, or groups establishing consensus among competing constraints.
-My work has spanned desktop to data center and mobile to cloud in a variety of business domains from startups to small research labs. 
-I've worked primarily in C++ and Python on Linux, Mac, and Windows. 
-Using a variety of tools such as Docker, Kubernetes, and PostgreSQL provides teams with a common foundation for building software.
-When I'm not working, I like to bike, run, and ski. I relax by reading, writing, and reflecting.
+David Watson GitHub LinkedIn
+Summary and Skills
+I help teams design, develop, and deploy software. My work has ranged from desktop to data center, mobile to cloud, and startups to research labs. I'm comfortable working alone, in pairs, or in teams; private or shared office; hybrid or remote, home or coworking space. I began working remotely in 1999, from Boston to Seattle.
+Operating Systems and Programming Languages
+I'm productive working on Linux, MacOS, and Windows. I just need a Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) qualify. 
+Since 2005, I've worked primarily in Python, secondarily in C++. Prior to 2005 I've worked primarily in C++, secondarily in Python.
+Containerization and Virtualization
+I've used containerization tools like Docker since 2015, Orchestration tools like Kubernetes since 2017, and virtualization tools like VMWare since 2000. 
+Databases and Methods
+PostgreSQL has been my goto database environment since 2010, since it has managed both structured and unstructured data for years.
+I work in an iterative style, from napkin sketch to provisional prototype, reflecting on design and engineering, shipping, and repeating the process.
 Experience
 Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;Caterpillar&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
 
@@ -85,11 +89,6 @@ Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;USX&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
 
 Contributed code to internal data center systems automation
 Automated data center operations in C/HLLAPI on OS/2 from a networked PC 
-
-Sites
-
-GitHub
-LinkedIn
 
 Education
 
