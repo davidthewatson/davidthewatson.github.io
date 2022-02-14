@@ -1,71 +1,71 @@
-## [David Watson](mailto:david@davidwatson.org) [GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/)
+## [David Watson](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/)</small>
 
 
-### Summary and Skills
+### Summary & Skills
 
-I help teams design, develop, and deploy software. My work has ranged from desktop to data center, mobile to cloud, and startups to research labs. I'm comfortable working alone, in pairs, or in teams; private or shared office; hybrid or remote, home or coworking space. I began working remotely in 1999, from Boston to Seattle.
+Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 
-#### Operating Systems and Programming Languages
+#### Operating Systems & Programming Languages
 
-I'm productive working on Linux, MacOS, and Windows. I just need a Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) qualify. 
+Productive working on Linux, MacOS, and Windows. Just need a Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) qualify.
 
-Since 2005, I've worked primarily in Python, secondarily in C++. Prior to 2005 I've worked primarily in C++, secondarily in Python.
+Since 2005, worked mostly in Python, occasionally in C++ or Ruby. Prior to 2005 worked mostly in C++, occasionally in Perl, Python, or Ruby.
 
-#### Containerization and Virtualization
+#### Containerization & Virtualization
 
-I've used containerization tools like Docker since 2015, Orchestration tools like Kubernetes since 2017, and virtualization tools like VMWare since 2000. 
+Used containerization tools like Docker since 2015, Orchestration stacks like Kubernetes since 2017, and virtualization products like VMWare since 2000. 
 
-#### Databases and Methods
+#### Databases & Methods
 
-PostgreSQL has been my goto database environment since 2010, since it has managed both structured and unstructured data for years.
+PostgreSQL has been my defacto database since I saw Michael Stonebraker speak at MIT a decade ago.
 
-I work in an iterative style, from napkin sketch to provisional prototype, reflecting on design and engineering, shipping, and repeating the process.
+My teams have worked iteratively, from whiteboard sketch to provisional prototype, while reflecting on design, documenting, testing, shipping, and repeating the process weekly. The key is to recognize that automation works for efficient processes like CI/CD, but not for inefficient processes like reaching design or engineering consensus.
 
 ### Experience
 
 #### Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;_Caterpillar_&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
-  * Contributed code and review to multiple projects within autonomy group
-  * Consulted with several groups on their use of docker containers and CI/CD
+  * Reviewed and profiled C++ code for Autonomy Group's Remote Control Terrain Visualization
+  * Wrote company-wide directives on docker containers around build engineering and CI/CD on Azure
 
 #### Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;_Carnegie Mellon University_&nbsp;&nbsp;&nbsp;&nbsp;2020
   * Contributed to Emerging Technology Center within Software Engineering Institute
-  * Work included High Performance Computing, data engineering, and Human Computer Interaction
+  * Worked on MLPerf (HPC), AI Task Force (MLOps), and ATAK (HCI)
 
 #### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;_Realpage_&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018
-  * Contributed code and process to software engineering team
-  * Implemented crawler data pipeline using Python, PostgreSQL, Docker, and Kubernetes
+  * Led weekly retrospectives to improve cadence, velocity, and teamwork
+  * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes on AWS
 
 #### VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;_Wellbridge Health_&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016
-  * Led development team through replacement of legacy prototype with new product 
-  * Designed and implemented REST API using DRF and PostgreSQL on web and mobile
+  * Led development team through replacement of HIPAA-compliant MVP with fresh design from MAYA
+  * Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
 
 #### VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;_Hire an Esquire_&nbsp;&nbsp;&nbsp;&nbsp;2014
-  * Led engineering team from rough prototype to mature product 
-  * Refactored Python, Django, and PostgreSQL stack
+  * Led engineering team to reduce technical debt, simplify, and skin MVP  
+  * Refactored Python, Django, and PostgreSQL stack with _vanilla_ Django and Bootstrap frontend
 
 #### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;_Forever_&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
-  * Contributed code from prototype to product
-  * Wrote Python, Flask, MongoDB prototype, productionized Ruby on Rails, PostgreSQL
+  * Wrote Python, Flask, MongoDB proof-of-concept demonstrating photo sharing and storage on Heroku
+  * Productionized design using Ruby on Rails, PostgreSQL, AWS
 
 #### Senior Engineer&nbsp;&nbsp;&nbsp;&nbsp;_Smash_&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012
-  * Contributed code to internal systems supporting daily operations
-  * Designed and implemented conversational text systems and REST interfaces in python
+  * Contributed python, postgreSQL code to internal systems supporting daily operations
+  * Designed and implemented conversational text systems (like twilio) and REST interfaces in python
 
 #### Software Development Manager&nbsp;&nbsp;&nbsp;&nbsp;_Wellspring_&nbsp;&nbsp;&nbsp;&nbsp;2010 - 2011
-  * Led development team from legacy data center to SaaS virtualization
-  * Prototyped DevOps (CI/CD) approach using Capistrano, Mechanize, and Selenium
+  * Led devops from legacy data center to SaaS VMWare deployment
+  * Prototyped CI/CD approach using Capistrano (Ruby), Mechanize (Python), and Selenium
 
 #### Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;_Applied Perception_&nbsp;&nbsp;&nbsp;&nbsp;2008-2009
-  * Contributed code to teams working on military robotics projects (DARPA)
-  * Visualized XML sonar data in python, ported Microsoft C#.net Windows GUI to C++/Qt/Linux
+  * Visualized XML sonar data in python, consumed by C++ GUI application on Windows 
+  * Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment
 
 #### UI Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;_Nomos_&nbsp;&nbsp;&nbsp;&nbsp;2006 - 2007
-  * Contributed code, tests, and review to several radiation oncology software products
-  * Prototyped wireframes and storyboards in C++/Qt for adaptive 4D treatment planning
+  * Contributed C++ QA tests and code reviews to several FDA-regulated radiation oncology products
+  * Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
 #### Software Design Engineer&nbsp;&nbsp;&nbsp;&nbsp;_MAYA Design_&nbsp;&nbsp;&nbsp;&nbsp;2004 - 2006
-  * Contributed design, analysis, and code across numerous consulting projects
-  * Coded AJAX backends in python and a wireless lighting system in C# for Philips
+  * Coded REST backends in python emitting JSON for consumption by proprietary AJAX frontends
+  * Implemented a Zigbee wireless lighting system in C# on Windows for Philips
 
 #### Co-Founder&nbsp;&nbsp;&nbsp;&nbsp;_Cobind_&nbsp;&nbsp;&nbsp;&nbsp;2003 - 2004
   * Partnered on ideation, vision, and execution of custom Linux Tools startup
@@ -76,17 +76,17 @@ I work in an iterative style, from napkin sketch to provisional prototype, refle
   * Implemented product import systems providing Excel VBA API from spreadsheet to database 
 
 #### Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;_CA_&nbsp;&nbsp;&nbsp;&nbsp;1995-2000
-  * Contributed code to Automation Point, Raveler, and CA-Unicenter products
-  * Coded C++ GUI code for Legent and Platinum, before and after CA acquisition 
+  * Coded C++ GUI code for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
+  * Contributed C++ code to CA-Unicenter products after CA acquisition
 
 #### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;_Mellon_&nbsp;&nbsp;&nbsp;&nbsp;1992-1995
-  * Contributed code to Executive Workbench asset management product
+  * Implemented C++ code to Executive Workbench asset management product
   * Implemented multi-threaded, event-driven C++ GUI code on OS/2 
 
 #### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;_USX_&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
-  * Contributed code to internal data center systems automation
-  * Automated data center operations in C/HLLAPI on OS/2 from a networked PC 
+  * Automated data center operations in BASIC and C over HLLAPI on OS/2 from a networked PC 
 
 ### Education
 
-  * Bachelor of Science, _Duquesne University 1991_
+  * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, Computer Science, and Music&nbsp;&nbsp;&nbsp;&nbsp;_Duquesne University_&nbsp;&nbsp;&nbsp;&nbsp;1991
+  * RDBMS and Internet Application Programming&nbsp;&nbsp;&nbsp;&nbsp;Phillip Greenspun and Michael Stonebraker&nbsp;&nbsp;&nbsp;&nbsp;_MIT_&nbsp;&nbsp;&nbsp;&nbsp;2012
