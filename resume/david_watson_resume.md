@@ -1,4 +1,4 @@
-## [David Watson](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/) [Stack Overflow](https://stackoverflow.com/users/173308/david-watson)</small>
+## [David Watson](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/) [StackOverflow](https://stackoverflow.com/users/173308/david-watson)</small>
 
 
 ### Summary & Skills
