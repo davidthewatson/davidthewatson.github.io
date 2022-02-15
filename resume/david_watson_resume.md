@@ -87,5 +87,5 @@ Used an agile style from ideas like [agile as a sensemaking platform](https://me
 
 ### Education
 
-  * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, Computer Science, and Music&nbsp;&nbsp;&nbsp;&nbsp;_Duquesne University_&nbsp;&nbsp;&nbsp;&nbsp;1991
+  * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, CS, and Music&nbsp;&nbsp;&nbsp;&nbsp;_Duquesne University_&nbsp;&nbsp;&nbsp;&nbsp;1991
   * RDBMS and Internet Application Programming&nbsp;&nbsp;&nbsp;&nbsp;Phillip Greenspun and Michael Stonebraker&nbsp;&nbsp;&nbsp;&nbsp;_MIT_&nbsp;&nbsp;&nbsp;&nbsp;2012

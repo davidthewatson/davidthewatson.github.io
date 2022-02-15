@@ -90,5 +90,5 @@ Automated data center ops in BASIC and C by building a CLI over HLLAPI on OS/2 f
 
 Education
 
-Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, Computer Science, and Music&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
+Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, CS, and Music&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
 RDBMS and Internet Application Programming&nbsp;&nbsp;&nbsp;&nbsp;Phillip Greenspun and Michael Stonebraker&nbsp;&nbsp;&nbsp;&nbsp;MIT&nbsp;&nbsp;&nbsp;&nbsp;2012
