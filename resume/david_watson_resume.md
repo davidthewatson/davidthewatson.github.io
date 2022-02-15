@@ -3,11 +3,11 @@
 
 ### Summary & Skills
 
-Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
+Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortabljkjke working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux, MacOS, and Windows. Just need a Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) qualify.
+Productive working on Linux, MacOS, and Windows. Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) suffice.
 
 Since 2005, worked mostly in Python, occasionally in C++ or Ruby. Prior to 2005 worked mostly in C++, occasionally in Perl, Python, or Ruby.
 
@@ -17,19 +17,19 @@ Used containerization tools like Docker since 2015, Orchestration stacks like Ku
 
 #### Databases & Methods
 
-PostgreSQL has been my defacto database since I saw Michael Stonebraker speak at MIT a decade ago.
+Used PostgreSQL for more than a decade for its support for structured data, unstructured data, and numerous added value extensions plus a wide variety of cloud container deployments that make dev-prod parity straightforward.
 
-My teams have worked iteratively, from whiteboard sketch to provisional prototype, while reflecting on design, documenting, testing, shipping, and repeating the process weekly. The key is to recognize that automation works for efficient processes like CI/CD, but not for inefficient processes like reaching design or engineering consensus.
+Used an agile style from ideas like [agile as a sensemaking platform](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a). Weekly product rhythm is established by decision-making (roadmap) Monday, touching base loosely mid-week, and sense-making (reflection) on Friday.
 
 ### Experience
 
 #### Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;_Caterpillar_&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
-  * Reviewed and profiled C++ code for Autonomy Group's Remote Control Terrain Visualization
-  * Wrote company-wide directives on docker containers around build engineering and CI/CD on Azure
+  * Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM FPGA for RC Terrain Visualization
+  * Guided company-wide directives on docker container usage for build engineering and CI/CD on Azure
 
 #### Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;_Carnegie Mellon University_&nbsp;&nbsp;&nbsp;&nbsp;2020
   * Contributed to Emerging Technology Center within Software Engineering Institute
-  * Worked on MLPerf (HPC), AI Task Force (MLOps), and ATAK (HCI)
+  * Worked on HPC, MLOps, and HCI in concert with National Robotics Engineering Center
 
 #### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;_Realpage_&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018
   * Led weekly retrospectives to improve cadence, velocity, and teamwork
@@ -64,7 +64,7 @@ My teams have worked iteratively, from whiteboard sketch to provisional prototyp
   * Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
 #### Software Design Engineer&nbsp;&nbsp;&nbsp;&nbsp;_MAYA Design_&nbsp;&nbsp;&nbsp;&nbsp;2004 - 2006
-  * Coded REST backends in python emitting JSON for consumption by proprietary AJAX frontends
+  * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
   * Implemented a Zigbee wireless lighting system in C# on Windows for Philips
 
 #### Co-Founder&nbsp;&nbsp;&nbsp;&nbsp;_Cobind_&nbsp;&nbsp;&nbsp;&nbsp;2003 - 2004
@@ -76,15 +76,14 @@ My teams have worked iteratively, from whiteboard sketch to provisional prototyp
   * Implemented product import systems providing Excel VBA API from spreadsheet to database 
 
 #### Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;_CA_&nbsp;&nbsp;&nbsp;&nbsp;1995-2000
-  * Coded C++ GUI code for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
-  * Contributed C++ code to CA-Unicenter products after CA acquisition
+  * Built C++ GUI for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
+  * Wrote C++ code for CA-Unicenter products after CA acquisition
 
 #### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;_Mellon_&nbsp;&nbsp;&nbsp;&nbsp;1992-1995
-  * Implemented C++ code to Executive Workbench asset management product
-  * Implemented multi-threaded, event-driven C++ GUI code on OS/2 
-
+  * Wrote multi-threaded, event-driven, C++ GUI for Executive Workbench asset management product
+  
 #### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;_USX_&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
-  * Automated data center operations in BASIC and C over HLLAPI on OS/2 from a networked PC 
+  * Automated data center ops in BASIC and C by building a CLI over HLLAPI on OS/2 from a networked PC 
 
 ### Education
 
