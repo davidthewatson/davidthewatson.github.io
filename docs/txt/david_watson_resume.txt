@@ -1,4 +1,4 @@
-David Watson <small>GitHub LinkedIn</small>
+David Watson <small>GitHub LinkedIn Stack Overflow</small>
 Summary & Skills
 Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortabljkjke working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 Operating Systems & Programming Languages
@@ -8,7 +8,7 @@ Containerization & Virtualization
 Used containerization tools like Docker since 2015, Orchestration stacks like Kubernetes since 2017, and virtualization products like VMWare since 2000. 
 Databases & Methods
 Used PostgreSQL for more than a decade for its support for structured data, unstructured data, and numerous added value extensions plus a wide variety of cloud container deployments that make dev-prod parity straightforward.
-Used an agile style from ideas like agile as a sensemaking platform. Weekly product rhythm is established by decision-making (roadmap) Monday, touching base loosely mid-week, and sense-making (reflection) on Friday.
+Tailored agile from a synthesis of ideas like agile as a sensemaking platform where weekly product rhythm is established by planning Monday, product touch-point mid-week, and sense-making Friday.
 Experience
 Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;Caterpillar&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
 
@@ -50,14 +50,14 @@ Software Development Manager&nbsp;&nbsp;&nbsp;&nbsp;Wellspring&nbsp;&nbsp;&nbsp;
 Led devops from legacy data center to SaaS VMWare deployment
 Prototyped CI/CD approach using Capistrano (Ruby), Mechanize (Python), and Selenium
 
-Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;Applied Perception&nbsp;&nbsp;&nbsp;&nbsp;2008-2009
+Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;Qinetiq&nbsp;&nbsp;&nbsp;&nbsp;2008-2009
 
 Visualized XML sonar data in python, consumed by C++ GUI application on Windows 
 Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment
 
 UI Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;Nomos&nbsp;&nbsp;&nbsp;&nbsp;2006 - 2007
 
-Contributed C++ QA tests and code reviews to several FDA-regulated radiation oncology products
+Contributed C++ QA tests and code reviews to CORVUS FDA-regulated radiation oncology product
 Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
 Software Design Engineer&nbsp;&nbsp;&nbsp;&nbsp;MAYA Design&nbsp;&nbsp;&nbsp;&nbsp;2004 - 2006
@@ -73,7 +73,7 @@ Received wide press acclaim around custom Linux products after winning Idea Foun
 Senior Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;MSA&nbsp;&nbsp;&nbsp;&nbsp;2000-2003
 
 Contributed code, data, and deployment before and after startup acquisition
-Implemented product import systems providing Excel VBA API from spreadsheet to database 
+Implemented backend product import systems providing Excel VBA API from spreadsheet to database 
 
 Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;CA&nbsp;&nbsp;&nbsp;&nbsp;1995-2000
 
@@ -82,9 +82,9 @@ Wrote C++ code for CA-Unicenter products after CA acquisition
 
 Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;Mellon&nbsp;&nbsp;&nbsp;&nbsp;1992-1995
 
-Wrote multi-threaded, event-driven, C++ GUI for Executive Workbench asset management product
+Wrote multi-threaded, event-driven, C++ GUI on OS/2 for Executive Workbench asset management product
 
-Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;USX&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
+Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;United States Steel&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
 
 Automated data center ops in BASIC and C by building a CLI over HLLAPI on OS/2 from a networked PC 
 
