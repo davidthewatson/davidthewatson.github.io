@@ -15,7 +15,6 @@ database backed web stacks, and re-purposes it for static content in batch mode
 - like jekyll but radically simpler while retaining much of the power that
 makes static site generators such force multipliers.
 
-  {% raw %}
       <!doctype html>
       <html lang="en">
 
@@ -31,7 +30,6 @@ makes static site generators such force multipliers.
         {% block footer_js %}{% endblock %}
       </body>
       </html>
-      {% endraw %}
 ## bash ##
 Bash provides the unix pipe for our code to go from user-contributed src to
 generated docs for publishing. There are four steps in the process:
