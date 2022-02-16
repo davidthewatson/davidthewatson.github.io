@@ -5,8 +5,8 @@ honest review by a type 1 diabetic, including decades of day-to-day with
 insulin pumps and years with Continuous Glucose Monitors (CGM). I've also
 worked in medical devices and digital health.
 ## Diabetes Technology Ecosystem ##
-Any discussion of insulin pumps owes a debt of gratitude to Dean_Kamen. We are
-standing_on_the_shoulders_of_giants.
+Any discussion of insulin pumps owes a debt of gratitude to Dean Kamen. We are
+standing on the shoulders of giants.
 nnnn
 
 I also owe a debt of gratitude to a number of great endocrinologists from the
@@ -27,8 +27,8 @@ regularly, meaning that my basal rates have to be finely tuned or my diet,
 exercise, and sleep become difficult to manage quickly. I have used 1, 2, and 3
 day fasts for almost 15 years to tune my basal rnates as it is an effective
 technique that is not difficult for me to manage, despite complaints from
-doctors, dieticians, and CDEs. Fasting works, as Valter_Longo_and_others_have
-demonstrated_with_fast-mimicking_diets.
+doctors, dieticians, and CDEs. Fasting works, as Valter Longo and others have
+demonstrated with fast-mimicking diets.
 
 Before I discuss the Tandem T-Slim X2 and Dexcom G6, a little background:
 I was diagnosed with Type 1 diabetes as a child. While my disease is easier to
@@ -90,7 +90,7 @@ exercise.
 
 I can usually leave the pump on the default Control-IQ mode and get good but
 not perfect results most of the time assuming no exercise and normal diet, but
-the best results come from a_hack_that_I_learned_watching_a_youtube_video. That
+the best results come from a hack that I learned watching a youtube video. That
 is, use sleep mode to impose a lower target and more aggressive algorithmic
 behavior to reach that 110 target. I leave the pump in sleep mode most of the
 time. I get the best results when I use sleep mode 24x7x365, even when
@@ -124,8 +124,8 @@ One thing that took me a few months to learn is that some of this software
 ecosystem is free, open source, and of excellent quality while improving the
 day-to-day disease management.
 
-The ecosystem around DIY_Artificial_Pancreas_Systems_(APS) and Automated
-Insulin_Delivery_(AID) is beyond the scope of this document, but this activity
+The ecosystem around DIY Artificial Pancreas Systems (APS) and Automated
+Insulin Delivery (AID) is beyond the scope of this document, but this activity
 has been evolving for several years and there is considerable tension between
 regulators and the open source community.
 
@@ -133,8 +133,8 @@ The first insight for me when I got the X2:G6 combo was that it was tiresome to
 reach for the pump frequently just to check my blood glucose.
 Getting the BG from the Dexcom G6 on my phone took more effort because I have a
 Google Pixel 4a, which was not supported by Dexcom at the time. Luckily,
-there's a very capable individual doing custom_builds_of_the_Android_version_of
-the_Dexcom_app on the internet. Just go through the form and you'll receive an
+there's a very capable individual doing custom builds of the Android version of
+the Dexcom app on the internet. Just go through the form and you'll receive an
 APK build that can be loaded on an unsupported phone like my Pixel. It has
 worked perfectly for a year for me. That person deserves kudos!
 
@@ -148,12 +148,12 @@ phone.
 I was also concerned about the cost of the Apple ecosystem having used it
 previously.
 
-The real leap in learning came when I discovered an app_on_Github_that_runs_on
-Fitbit_Versa and similar devices. A quick trip to BestBuy and some
+The real leap in learning came when I discovered an app on Github that runs on
+Fitbit Versa and similar devices. A quick trip to BestBuy and some
 configuration meant that I could track my BG on my wrist while exercising for a
 little over $100. Glance has been a game changer for me since I use it daily
 when running or walking the dog and at-a-glance while sleeping has alerted me
-to problems that I otherwise would have missed. Kudos to Ryan_Mason!
+to problems that I otherwise would have missed. Kudos to Ryan Mason!
 Once you get past the excellent Dexcom Clarity app, the most well-designed of
 the apps available is SugarMate. I use it everyday for information-rich spot
 checks.Sugarmate joins the list of quick exit diabetes startups acquired by
@@ -190,17 +190,17 @@ integration with the insulin pump.
 I'm a big believer in evidence-based medicine. It's early but there's some
 interesting evidence available already. The easiest way to demonstrate the
 effectiveness of a medical device is 24x7x365 use for a year or so with
-results. That population suvey is n_of_1 or quantified_self, and there's more
+results. That population suvey is n of 1 or quantified self, and there's more
 to it than just the medical device (diet, exercise, and self-regulation);
 however, the medical device plays an outsized role in making good results
 possible, probable, and predictable, if not perfect.
 
 The gold standard of results in diabetes control is Hemoglobin A1c. My HbA1c
 was 8.9 prior to acquiring the Tandem t:slim X2 in the fall of 2019, and it
-tested in the same lab at 6.4 in February of 2020, below_the_diagnostic
-threshold_for_type_1_diabetes, after only 3 months with the X2, G6, and Basal
+tested in the same lab at 6.4 in February of 2020, below the diagnostic
+threshold for type 1 diabetes, after only 3 months with the X2, G6, and Basal
 IQ. I do not have a current result after my switch to Control IQ, but I expect
-it to be similar since the math estimates - Dexcom's Glucose_Management
+it to be similar since the math estimates - Dexcom's Glucose Management
 Indicator or GMI - essentially the variance of BG over time, show similar
 numbers. I've found GMI to be conservative, meaning that GMI is generally
 higher than my lab's HbA1c.
@@ -210,12 +210,12 @@ had no way of approaching perfect control, where perfect control is defined as
 100% in range for T1D which is is generally accepted as 70-180. Today, I
 routinely have days where my blood sugar is 100% in control and most days are
 above the 70% in control benchmark, regardless of diet or exercise.
-I owe a debt of gratitude to Keith_Runyan. His book has been helpful, though
+I owe a debt of gratitude to Keith Runyan. His book has been helpful, though
 more on diet and exercise than pumps or CGMs.
 
-I've also found Ian_Lake's_website and Zero_Five_100 to be helpful.
+I've also found Ian Lake's website and Zero Five 100 to be helpful.
 
-Finally, Matt_Vande_Vegte has incredible content and led me to much of the
+Finally, Matt Vande Vegte has incredible content and led me to much of the
 advice and conclusions that I mention here.
 
 ## Room for improvement ##
@@ -244,18 +244,18 @@ the market, but there are cracks in the safety armor.
 Almost a year ago, not long after I got the Dexcom G6, the blood glucose
 readouts and notifications that would typically show up on my watch or phone
 suddenly stopped and didn't start working for several days. This was widely
-reported on the internet and reached major news sites such as the Wall_Street
+reported on the internet and reached major news sites such as the Wall Street
 Journal.
 
 This situation raises the need for vigilance on the part of patients,
 caregivers, and everyone in the technology support system to be aware that the
 publish-subscribe system employed by Dexcom to publish bluetooth data
 originating from the sensor to it's subscribers (which may be everything from
-the patient's watch to a parent's smart phone or other_app) was dependent on a
+the patient's watch to a parent's smart phone or other app) was dependent on a
 single point of failure in the cloud.
 
 I believe Dexcom learned its lesson with crisis PR, as the company now has
-better_status_mechanisms in place, but there were a tense few days, not so much
+better status mechanisms in place, but there were a tense few days, not so much
 for people like me - I can live without my watch displaying blood glucose - but
 for parents with diabetic children or the like.
 Second, Tandem's software quality problems have played out slightly
