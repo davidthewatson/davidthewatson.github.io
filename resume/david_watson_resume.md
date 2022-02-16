@@ -2,7 +2,7 @@
 
 ### Summary & Skills
 
-Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortabljkjke working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
+Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 
 #### Operating Systems & Programming Languages
 
@@ -39,7 +39,7 @@ Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](
   * Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
 
 #### VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;[Hire an Esquire](https://hireanesquire.com/)&nbsp;&nbsp;&nbsp;&nbsp;2014
-  * Led engineering team to reduce technical debt, simplify, and skin MVP  
+  * Led engineering team to redesign and simplify Minimum Viable Product (MVP)  
   * Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
 #### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Forever](https://www.forever.com/)&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014

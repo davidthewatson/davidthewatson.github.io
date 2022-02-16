@@ -32,7 +32,7 @@ Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA
 
 VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;Hire an Esquire&nbsp;&nbsp;&nbsp;&nbsp;2014
 
-Led engineering team to reduce technical debt, simplify, and skin MVP  
+Led engineering team to redesign and simplify Minimum Viable Product (MVP)  
 Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
 Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;Forever&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
