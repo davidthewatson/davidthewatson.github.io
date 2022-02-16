@@ -1,5 +1,4 @@
-## [David Watson](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/) [StackOverflow](https://stackoverflow.com/users/173308/david-watson)</small>
-
+## [david@davidwatson.org](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/) [StackOverflow](https://stackoverflow.com/users/173308/david-watson)</small>
 
 ### Summary & Skills
 
@@ -47,7 +46,7 @@ Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](
   * Wrote Python, Flask, MongoDB proof-of-concept demonstrating photo sharing and storage on Heroku
   * Productionized design using Ruby on Rails, PostgreSQL, AWS
 
-#### Senior Engineer&nbsp;&nbsp;&nbsp;&nbsp;[Smash](https://www.mindmatrix.net/)&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012
+#### Senior Engineer&nbsp;&nbsp;&nbsp;&nbsp;[BrainStorm](https://www.mindmatrix.net/)&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012
   * Contributed python, postgreSQL code to internal systems supporting daily operations
   * Designed and implemented conversational text systems (like twilio) and REST interfaces in python
 
@@ -79,13 +78,6 @@ Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](
   * Built C++ GUI for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
   * Wrote C++ code for CA-Unicenter products after CA acquisition
 
-#### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;[Mellon](https://www.bnymellon.com/)&nbsp;&nbsp;&nbsp;&nbsp;1992-1995
-  * Wrote multi-threaded, event-driven, C++ GUI on OS/2 for Executive Workbench asset management product
-  
-#### Programmer-Analyst&nbsp;&nbsp;&nbsp;&nbsp;[United States Steel](https://www.ussteel.com/)&nbsp;&nbsp;&nbsp;&nbsp;1990-1992
-  * Automated data center ops in BASIC and C by building a CLI over HLLAPI on OS/2 from a networked PC 
-
 ### Education
 
   * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, CS, and Music&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
-  * RDBMS and Internet Application Programming&nbsp;&nbsp;&nbsp;&nbsp;Phillip Greenspun and Michael Stonebraker&nbsp;&nbsp;&nbsp;&nbsp;MIT&nbsp;&nbsp;&nbsp;&nbsp;2012

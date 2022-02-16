@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# build.py
 import os
 from pathlib import Path
 
