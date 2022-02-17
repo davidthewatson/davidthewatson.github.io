@@ -1,14 +1,14 @@
-david@davidwatson.org <small>GitHub LinkedIn StackOverflow</small>
+david@davidwatson.org <small>github linkedin stackoverflow</small>
 Summary & Skills
-Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
+Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or small teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 Operating Systems & Programming Languages
-Productive working on Linux, MacOS, and Windows. Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) suffice.
+Productive working on Linux, MacOS, and Windows -  since Unix-like, BSD and WSL2 are close enough, respectively.
 Since 2005, worked mostly in Python, occasionally in C++ or Ruby. Prior to 2005 worked mostly in C++, occasionally in Perl, Python, or Ruby.
 Containerization & Virtualization
 Used containerization tools like Docker since 2015, Orchestration stacks like Kubernetes since 2017, and virtualization products like VMWare since 2000. 
 Databases & Methods
-Used PostgreSQL for more than a decade for its support for structured data, unstructured data, and numerous added value extensions plus a wide variety of cloud container deployments that make dev-prod parity straightforward.
-Tailored agile from a synthesis of ideas like agile as a sensemaking platform where weekly product rhythm is established by planning Monday, product touch-point mid-week, and sense-making Friday.
+Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions (Citus, PostGIS, JSONB) plus a wide variety of cloud deployments that make dev-prod parity straightforward.
+Tailored agile based on a synthesis of research from Alistair Cockburn, Allen Holub, Bonnitta Roy, and Ron Westrum, where what matters is what works for the team, its culture and its unique idiosynchracies.
 Experience
 Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;Caterpillar&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
 
@@ -27,12 +27,14 @@ Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and 
 
 VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;Wellbridge Health&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016
 
-Led development team through replacement of HIPAA-compliant MVP with fresh design from MAYA
+Led development team through HIPAA-compliant MVP with SPA UX design from MAYA
 Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
+
+<div id="hae"></div>
 
 VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;Hire an Esquire&nbsp;&nbsp;&nbsp;&nbsp;2014
 
-Led engineering team to redesign and simplify Minimum Viable Product (MVP)  
+Led engineering team to redesign and simplify MVP  
 Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
 Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;Forever&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
@@ -48,7 +50,7 @@ Designed and implemented conversational text systems (like twilio) and REST inte
 Software Development Manager&nbsp;&nbsp;&nbsp;&nbsp;Wellspring&nbsp;&nbsp;&nbsp;&nbsp;2010 - 2011
 
 Led devops from legacy data center to SaaS VMWare deployment
-Prototyped CI/CD approach using Capistrano (Ruby), Mechanize (Python), and Selenium
+Built CI/CD systems using Capistrano (Ruby), Mechanize (Python), and Selenium
 
 Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;Qinetiq&nbsp;&nbsp;&nbsp;&nbsp;2008-2009
 

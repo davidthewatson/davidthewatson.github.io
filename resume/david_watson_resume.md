@@ -1,12 +1,12 @@
-## [david@davidwatson.org](mailto:david@davidwatson.org) <small>[GitHub](https://github.com/davidthewatson) [LinkedIn](https://www.linkedin.com/in/davidthewatson/) [StackOverflow](https://stackoverflow.com/users/173308/david-watson)</small>
+# [david@davidwatson.org](mailto:david@davidwatson.org) <small>[github](https://github.com/davidthewatson) [linkedin](https://www.linkedin.com/in/davidthewatson/) [stackoverflow](https://stackoverflow.com/users/173308/david-watson)</small>
 
 ### Summary & Skills
 
-Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
+Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or small teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux, MacOS, and Windows. Unix-like OS - Linux, MacOS (BSD) and Windows (WSL2) suffice.
+Productive working on Linux, MacOS, and Windows -  since Unix-like, BSD and WSL2 are close enough, respectively.
 
 Since 2005, worked mostly in Python, occasionally in C++ or Ruby. Prior to 2005 worked mostly in C++, occasionally in Perl, Python, or Ruby.
 
@@ -16,9 +16,9 @@ Used containerization tools like Docker since 2015, Orchestration stacks like Ku
 
 #### Databases & Methods
 
-Used PostgreSQL for more than a decade for its support for structured data, unstructured data, and numerous added value extensions plus a wide variety of cloud container deployments that make dev-prod parity straightforward.
+Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions ([Citus](https://github.com/citusdata/citus), [PostGIS](https://postgis.net/), [JSONB](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14)) plus a wide variety of cloud deployments that make [dev-prod parity](https://12factor.net/dev-prod-parity) straightforward.
 
-Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a) where weekly product rhythm is established by planning Monday, product touch-point mid-week, and sense-making Friday.
+Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a), and [Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf), where what matters is what works for the team, its culture and its unique idiosynchracies.
 
 ### Experience
 
@@ -35,11 +35,13 @@ Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](
   * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes on AWS
 
 #### VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;[Wellbridge Health](http://www.wellbridgehealth.com/)&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016
-  * Led development team through replacement of HIPAA-compliant MVP with fresh design from MAYA
-  * Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
+  * Led development team through HIPAA-compliant [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) with SPA UX design from MAYA
+  * Implemented REST API using Python/Django, [DRF](https://www.django-rest-framework.org/) and PostgreSQL serving EmberJS SPA on Aptible 
+
+<div id="hae"></div>
 
 #### VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;[Hire an Esquire](https://hireanesquire.com/)&nbsp;&nbsp;&nbsp;&nbsp;2014
-  * Led engineering team to redesign and simplify Minimum Viable Product (MVP)  
+  * Led engineering team to redesign and simplify [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)  
   * Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
 #### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Forever](https://www.forever.com/)&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
@@ -52,7 +54,7 @@ Tailored agile from a synthesis of ideas like [agile as a sensemaking platform](
 
 #### Software Development Manager&nbsp;&nbsp;&nbsp;&nbsp;[Wellspring](https://www.wellspring.com/)&nbsp;&nbsp;&nbsp;&nbsp;2010 - 2011
   * Led devops from legacy data center to SaaS VMWare deployment
-  * Prototyped CI/CD approach using Capistrano (Ruby), Mechanize (Python), and Selenium
+  * Built CI/CD systems using Capistrano (Ruby), Mechanize (Python), and Selenium
 
 #### Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;[Qinetiq](https://www.qinetiq.com/en/)&nbsp;&nbsp;&nbsp;&nbsp;2008-2009
   * Visualized XML sonar data in python, consumed by C++ GUI application on Windows 
