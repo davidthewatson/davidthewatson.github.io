@@ -44,15 +44,12 @@ Help a small team deliver reliable, usable, and valuable software continuously
 
 ##### <small><em> Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Realpage](https://www.realpage.com/)&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018 </em></small>
   * Led weekly retrospectives to improve cadence, velocity, and teamwork
-  * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes on AWS
+  * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes/AWS
 
 ##### <small><em> VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;[Wellbridge Health](http://www.wellbridgehealth.com/)&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016 </em></small>
   * Led development team through HIPAA-compliant [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) with SPA UX design from MAYA
   * Implemented REST API using Python/Django, [DRF](https://www.django-rest-framework.org/) and PostgreSQL serving EmberJS SPA on Aptible 
 
-<div id="hae"></div>
-
-#### Experience (continued)
 ##### <small><em> VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;[Hire an Esquire](https://hireanesquire.com/)&nbsp;&nbsp;&nbsp;&nbsp;2014 </em></small>
   * Led engineering team to redesign and simplify [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)  
   * Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend

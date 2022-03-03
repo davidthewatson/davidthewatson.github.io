@@ -29,16 +29,13 @@ Worked on HPC, MLOps, and HCI in concert with National Robotics Engineering Cent
 <small><em> Software Developer&nbsp;&nbsp;&nbsp;&nbsp;Realpage&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018 </em></small>
 
 Led weekly retrospectives to improve cadence, velocity, and teamwork
-Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes on AWS
+Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes/AWS
 
 <small><em> VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;Wellbridge Health&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016 </em></small>
 
 Led development team through HIPAA-compliant MVP with SPA UX design from MAYA
 Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
 
-<div id="hae"></div>
-
-Experience (continued)
 <small><em> VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;Hire an Esquire&nbsp;&nbsp;&nbsp;&nbsp;2014 </em></small>
 
 Led engineering team to redesign and simplify MVP  
