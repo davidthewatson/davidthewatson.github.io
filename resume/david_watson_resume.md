@@ -2,6 +2,10 @@
 ### <div style="margin-top: 0">[david@davidwatson.org](mailto:david@davidwatson.org) <small>[<i class="fa-brands fa-github" style="font-style: normal;"></i>](https://github.com/davidthewatson) [<i class="fa-brands fa-linkedin" style="font-style: normal;"></i>](https://www.linkedin.com/in/davidthewatson/) [<i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>](https://stackoverflow.com/users/173308/david-watson)
 </small></div>
 
+#### Objective
+
+Help a small team deliver reliable, usable, and valuable software using iterative, reflective, and lightweight process.
+
 #### Summary  
 
 Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
@@ -27,10 +31,6 @@ Prefer markup, markdown, or plain text for a variety of technical documentation,
 Used PostgreSQL since 2008 for its support for relational and schemaless data plus numerous extensions.
 
 Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), and [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a).
-
-#### Objective
-
-Help a small team deliver reliable, usable, and valuable software continuously
 
 #### Experience
 

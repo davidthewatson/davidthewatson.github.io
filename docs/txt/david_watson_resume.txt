@@ -1,5 +1,7 @@
 <div style="margin-top: 0">david@davidwatson.org <small><i class="fa-brands fa-github" style="font-style: normal;"></i> <i class="fa-brands fa-linkedin" style="font-style: normal;"></i> <i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>
 </small></div>
+Objective
+Help a small team deliver reliable, usable, and valuable software using iterative, reflective, and lightweight process.
 Summary
 Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
 Skills
@@ -13,8 +15,6 @@ Prefer markup, markdown, or plain text for a variety of technical documentation,
 <small><em> Databases & Methods</em></small>
 Used PostgreSQL since 2008 for its support for relational and schemaless data plus numerous extensions.
 Tailored agile based on a synthesis of research from Alistair Cockburn, Allen Holub, and Bonnitta Roy.
-Objective
-Help a small team deliver reliable, usable, and valuable software continuously
 Experience
 <small><em> Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;Caterpillar&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021 </em></small>
 
