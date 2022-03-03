@@ -1,5 +1,5 @@
 
-# [david@davidwatson.org](mailto:david@davidwatson.org) <small>[<i class="fa-brands fa-github" style="font-style: normal;"></i>](https://github.com/davidthewatson) [<i class="fa-brands fa-linkedin" style="font-style: normal;"></i>](https://www.linkedin.com/in/davidthewatson/) [<i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>](https://stackoverflow.com/users/173308/david-watson)
+### [david@davidwatson.org](mailto:david@davidwatson.org) <small>[<i class="fa-brands fa-github" style="font-style: normal;"></i>](https://github.com/davidthewatson) [<i class="fa-brands fa-linkedin" style="font-style: normal;"></i>](https://www.linkedin.com/in/davidthewatson/) [<i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>](https://stackoverflow.com/users/173308/david-watson)
 </small>
 
 ### Summary & Skills  
@@ -8,7 +8,7 @@ Helped design, develop, and deploy software across desktop, internet, and mobile
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2).
+Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2) because they have [tiling WM](https://en.wikipedia.org/wiki/Tiling_window_manager) and [CLI](https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line#:~:text=Was%20the%20Command%20Line%20is,%2C%20ISBN%20978%2D0380815937) in common.
 
 Since 2005, wrote Python daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ daily, Perl, Python, or Ruby occasionally.
 
@@ -18,25 +18,25 @@ Used containerization tools like Docker since 2015, Orchestration stacks like Ku
 
 #### Markup & Markdown
 
-Prefer markdown, plain text, or markup for a variety of technical documentation, including this resume.
+Prefer markup, markdown, or plain text for a variety of technical documentation, including this resume.
 
 #### Databases & Methods
 
-Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions ([Citus](https://github.com/citusdata/citus), [PostGIS](https://postgis.net/), [JSONB](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14)) plus a wide variety of cloud deployments that make&nbsp;&nbsp;[dev-prod parity](https://12factor.net/dev-prod-parity) straightforward.
+Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions (&nbsp;[Citus](https://github.com/citusdata/citus), [PostGIS](https://postgis.net/), [JSONB](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14)) plus a wide variety of cloud deployments that make&nbsp;&nbsp;[dev-prod parity](https://12factor.net/dev-prod-parity) straightforward.
 
 Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a), and [Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf), where what matters is what works for the team, its culture and its unique idiosynchracies.
 
 ### Experience
 
 #### Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;[Caterpillar](https://www.cat.com/enUS.html)&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021
-  * Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM FPGA for RC Terrain Visualization
+  * Built, reviewed and profiled C++ code on Linux from Intel x86 to Xilinx(ARM) FPGA for RC Terrain Visualization
   * Guided company-wide directives on docker container usage for build engineering and CI/CD on Azure
 
 #### Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;[Carnegie Mellon University](https://www.cmu.edu/)&nbsp;&nbsp;&nbsp;&nbsp;2020
   * Contributed to Emerging Technology Center within Software Engineering Institute
   * Worked on HPC, MLOps, and HCI in concert with National Robotics Engineering Center
 
-#### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Realpage](https://www.realpage.com/)&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018
+#### Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Realpage](https://www.realpage.com/)&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018
   * Led weekly retrospectives to improve cadence, velocity, and teamwork
   * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes on AWS
 
@@ -50,11 +50,11 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Led engineering team to redesign and simplify [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)  
   * Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
-#### Senior Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Forever](https://www.forever.com/)&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
+#### Software Developer&nbsp;&nbsp;&nbsp;&nbsp;[Forever](https://www.forever.com/)&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014
   * Wrote Python, Flask, MongoDB proof-of-concept demonstrating photo sharing and storage on Heroku
   * Productionized design using Ruby on Rails, PostgreSQL, AWS
 
-#### Senior Engineer&nbsp;&nbsp;&nbsp;&nbsp;[BrainStorm](https://www.mindmatrix.net/)&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012
+#### Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;[BrainStorm](https://www.mindmatrix.net/)&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012
   * Contributed python, postgreSQL code to internal systems supporting daily operations
   * Designed and implemented conversational text systems (like twilio) and REST interfaces in python
 
@@ -78,7 +78,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Partnered on ideation, vision, and execution of custom Linux Tools startup
   * Received wide press acclaim around custom Linux products after winning Idea Foundry Fellowship
 
-#### Senior Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;[MSA](https://www.msa.com/)&nbsp;&nbsp;&nbsp;&nbsp;2000-2003
+#### Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;[MSA](https://www.msa.com/)&nbsp;&nbsp;&nbsp;&nbsp;2000-2003
   * Contributed code, data, and deployment before and after startup acquisition
   * Implemented backend product import systems providing Excel VBA API from spreadsheet to database 
 
@@ -88,7 +88,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
 
 ### Role
 
-* Help a small team deliver impactful, high quality, and valuable software incrementally
+* Help a small team deliver reliable, usable, and valuable software continuously
 
 ### Education
 
