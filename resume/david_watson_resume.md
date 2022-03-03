@@ -1,22 +1,28 @@
-# [david@davidwatson.org](mailto:david@davidwatson.org) <small>[github](https://github.com/davidthewatson) [linkedin](https://www.linkedin.com/in/davidthewatson/) [stackoverflow](https://stackoverflow.com/users/173308/david-watson)</small>
 
-### Summary & Skills
+# [david@davidwatson.org](mailto:david@davidwatson.org) <small>[<i class="fa-brands fa-github" style="font-style: normal;"></i>](https://github.com/davidthewatson) [<i class="fa-brands fa-linkedin" style="font-style: normal;"></i>](https://www.linkedin.com/in/davidthewatson/) [<i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>](https://stackoverflow.com/users/173308/david-watson)
+</small>
 
-Help teams design, develop, and deploy software. Work has ranged from desktop to data center, mobile to cloud, startups to research labs. Comfortable working alone, in pairs, or small teams; private or shared office; hybrid or remote, home or coworking space. Began working remotely in 1999 - lived in Seattle, worked in Boston.
+### Summary & Skills  
+
+Helped design, develop, and deploy software across desktop, internet, and mobile platforms while soloing, pairing, or teaming in office, hybrid, or remote settings.
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux, MacOS, and Windows -  since Unix-like, BSD and WSL2 are close enough, respectively.
+Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2).
 
-Since 2005, worked mostly in Python, occasionally in C++ or Ruby. Prior to 2005 worked mostly in C++, occasionally in Perl, Python, or Ruby.
+Since 2005, wrote Python daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ daily, Perl, Python, or Ruby occasionally.
 
 #### Containerization & Virtualization
 
 Used containerization tools like Docker since 2015, Orchestration stacks like Kubernetes since 2017, and virtualization products like VMWare since 2000. 
 
+#### Markup & Markdown
+
+Prefer markdown, plain text, or markup for a variety of technical documentation, including this resume.
+
 #### Databases & Methods
 
-Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions ([Citus](https://github.com/citusdata/citus), [PostGIS](https://postgis.net/), [JSONB](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14)) plus a wide variety of cloud deployments that make [dev-prod parity](https://12factor.net/dev-prod-parity) straightforward.
+Used PostgreSQL since 2008 for its native support for structured and unstructured data and numerous extensions ([Citus](https://github.com/citusdata/citus), [PostGIS](https://postgis.net/), [JSONB](https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14)) plus a wide variety of cloud deployments that make&nbsp;&nbsp;[dev-prod parity](https://12factor.net/dev-prod-parity) straightforward.
 
 Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a), and [Ron Westrum](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf), where what matters is what works for the team, its culture and its unique idiosynchracies.
 
@@ -80,6 +86,10 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Built C++ GUI for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
   * Wrote C++ code for CA-Unicenter products after CA acquisition
 
+### Role
+
+* Help a small team deliver impactful, high quality, and valuable software incrementally
+
 ### Education
 
-  * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Concentration in Business, CS, and Music&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
+  * Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
