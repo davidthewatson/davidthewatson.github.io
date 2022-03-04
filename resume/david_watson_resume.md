@@ -50,6 +50,8 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Led development team through HIPAA-compliant [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) with SPA UX design from MAYA
   * Implemented REST API using Python/Django, [DRF](https://www.django-rest-framework.org/) and PostgreSQL serving EmberJS SPA on Aptible 
 
+<div id="hae"></div>
+
 ##### <small><em> VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;[Hire an Esquire](https://hireanesquire.com/)&nbsp;&nbsp;&nbsp;&nbsp;2014 </em></small>
   * Led engineering team to redesign and simplify [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)  
   * Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
@@ -76,7 +78,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
 
 ##### <small><em> Software Design Engineer&nbsp;&nbsp;&nbsp;&nbsp;[MAYA Design](https://maya.com/)&nbsp;&nbsp;&nbsp;&nbsp;2004 - 2006 </em></small>
   * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
-  * Implemented a Zigbee wireless lighting system in C# on Windows for Philips
+  * Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
 ##### <small><em> Co-Founder&nbsp;&nbsp;&nbsp;&nbsp;[Cobind](https://no.wikipedia.org/wiki/CobindDesktop)&nbsp;&nbsp;&nbsp;&nbsp;2003 - 2004 </em></small>
   * Partnered on ideation, vision, and execution of custom Linux Tools startup
