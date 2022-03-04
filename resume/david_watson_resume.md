@@ -4,7 +4,7 @@
 
 #### Objective
 
-Help a small team deliver reliable, usable, and valuable software using iterative, reflective, and lightweight process.
+Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
 
 #### Summary  
 

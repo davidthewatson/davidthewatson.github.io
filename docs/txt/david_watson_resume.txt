@@ -1,7 +1,7 @@
 <div style="margin-top: 0">david@davidwatson.org <small><i class="fa-brands fa-github" style="font-style: normal;"></i> <i class="fa-brands fa-linkedin" style="font-style: normal;"></i> <i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>
 </small></div>
 Objective
-Help a small team deliver reliable, usable, and valuable software using iterative, reflective, and lightweight process.
+Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
 Summary
 Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
 Skills
