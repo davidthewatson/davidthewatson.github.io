@@ -1,4 +1,4 @@
-# Using Logitech K830 with Barrier #
+### Using Logitech K830 with Barrier #
 If you're like me, you juggle computers, frequently using more than one
 computer at-a-time.
 

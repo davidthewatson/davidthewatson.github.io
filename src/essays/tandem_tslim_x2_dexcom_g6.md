@@ -1,10 +1,10 @@
-# Tandem t:slim X2 and Dexcom G6 #
-## Disclaimer ##
+### Tandem t:slim X2 and Dexcom G6 #
+#### Disclaimer ####
 I'm not a doctor and this essay should not be taken as medical advice. It is an
 honest review by a type 1 diabetic, including decades of day-to-day with
 insulin pumps and years with Continuous Glucose Monitors (CGM). I've also
 worked in medical devices and digital health.
-## Diabetes Technology Ecosystem ##
+#### Diabetes Technology Ecosystem ####
 Any discussion of insulin pumps owes a debt of gratitude to Dean Kamen. We are
 standing on the shoulders of giants.
 nnnn
@@ -35,7 +35,7 @@ I was diagnosed with Type 1 diabetes as a child. While my disease is easier to
 manage than most, my active lifestyle makes managing diabetes challenging due
 to glycemic swings.
 
-## You've Lost That Cyborg Feeling ##
+#### You've Lost That Cyborg Feeling ####
 
 It's hard to describe the visceral feeling that comes from being device-
 dependent when your life depends on it and the design and manufacturing of that
@@ -47,7 +47,7 @@ because my experience with Tandem and Dexcom has been overwhelmingly positive,
 despite challenges with complex digital diabetes ecosystem and supply chain
 issues.
 
-## Tandem t:slim X2 and Dexcom G6 ##
+#### Tandem t:slim X2 and Dexcom G6 ####
 
 I got the Tandem t:slim X2 and Dexcom G6 on November 11, 2019, so as of
 Veteran's Day 2020, I've spent a year with the device managing my day-to-day
@@ -99,7 +99,7 @@ with little rise or fall. That was never possible prior to my switch to using
 sleep mode to manage exercise. It may be an outlier, but it works for me and
 indeed, it's a game-changer.
 
-## Reservoirs and Infusion Sets ##
+#### Reservoirs and Infusion Sets ####
 
 A big difference between the Tandem/Dexcom ecosystem and Minimed/Medtronic
 ecosystem is disposable parts: reservoirs, infusion sets, sensors, and
@@ -115,7 +115,7 @@ the pump from waist high or caught the tubing on a door handle. I use 23"
 tubing which puts the pump about knee high when it drops, so no damage occurs
 from it hitting the floor.
 
-## Software ##
+#### Software ####
 
 The software ecosystem evolving around these devices is growing rapidly, as the
 devices have proliferated.
@@ -159,7 +159,7 @@ the apps available is SugarMate. I use it everyday for information-rich spot
 checks.Sugarmate joins the list of quick exit diabetes startups acquired by
 either Dexcom or Tandem, like TypeZero.
 
-## Usability ##
+#### Usability ####
 
 Tandem x2:slim has thoughtful design. The direct manipulation interface that
 Tandem presents on it's main screen is intuitive since you can just tap the 3
@@ -185,7 +185,7 @@ pharmacy. This is the best pricing I've found without US health insurance.
 There is competition in CGMs, but that competition is limited, given that
 integration with the insulin pump.
 
-## Results ##
+#### Results ####
 
 I'm a big believer in evidence-based medicine. It's early but there's some
 interesting evidence available already. The easiest way to demonstrate the
@@ -218,7 +218,7 @@ I've also found Ian Lake's website and Zero Five 100 to be helpful.
 Finally, Matt Vande Vegte has incredible content and led me to much of the
 advice and conclusions that I mention here.
 
-## Room for improvement ##
+#### Room for improvement ####
 
 Digital diabetes is a complex ecosystem owing to the integration of sensors and
 mobile devices via bluetooth plus mobile devices and cloud systems via the 4G
@@ -308,7 +308,7 @@ before their 90 day expiry and this has been resolved every time with a
 warranty replacement, and a sensor to account for the wasted sensor owing to
 the transmitter change.
 
-## Summary ##
+#### Summary ####
 
 The following recommendations are made with a year of experience in the Dexcom
 G6 integrated with Tandem t:slim X2.

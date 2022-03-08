@@ -1,5 +1,5 @@
-# Pipeline for Static Site Generation
-## architecture
+### Pipeline for Static Site Generation
+### architecture
 The pipeline that I use for static site generation produces three files from a
 single input:
    1. Plain Text
@@ -8,7 +8,7 @@ single input:
 Producing three output formats solves the problem of scaling the content from
 mobile to desktop to print, making reading as simple as possible. A simple,
 single file change affects all of the content at once.
-## staticjinja
+### staticjinja
 Jinja is the templating language for Python behind Flask. staticjinja takes the
 templating power of Jinja, where Flask targets dynamic web content like
 database backed web stacks, and re-purposes it for static content in batch mode
@@ -30,7 +30,7 @@ makes static site generators such force multipliers.
         {% block footer_js %}{% endblock %}
       </body>
       </html>
-## bash
+### bash
 Bash provides the unix pipe for our code to go from user-contributed src to
 generated docs for publishing. There are four steps in the process:
    1. Run staticjinja taking input templates from src and generating HTML at
@@ -47,7 +47,7 @@ generated docs for publishing. There are four steps in the process:
       html2text index.html >index.md
       python ./md2txt.py
 
-## python
+### python
 The python code just takes markdown as input, transforms the markdown to plain
 text using this patch from stackoverflow, and outputs plain text.
 
@@ -58,7 +58,7 @@ text using this patch from stackoverflow, and outputs plain text.
         n = open('index.txt', 'w')
         n.write(plain_txt)
 
-## design
+### design
 The presentation is simpflified by the use of a classless CSS framework called
 new.css, which makes achieving simple and clean output straightforward.
 I arrived at classless frameworks after years of working with bootstrap to
@@ -75,7 +75,7 @@ So if you look at a piece of HTML from my site, what you'll notice is not that
 there's a complete lack of CSS, but rather, the default CSS is so well-styled
 by the framework authors that no cascading style is necessary, even though it's
 readily available.
-## summary
+### summary
 Modeling the resume production problem this way has benefits for reader and
 writer.
 The design takes advantage of an automated data pipeline built on Unix pipes so
