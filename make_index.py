@@ -4,20 +4,21 @@ import os
 import glob
 
 def main():
-    os.chdir('src')
     s = ''
-    html = ''
+    html = '### essays\n\n'
     lis = []
-    for md in glob.glob('[!index]*.md'):
-        title_chunks = md[:-3].split('_') or md[:-3]
-        print(title_chunks)
+    for md in glob.glob('src/**/**[!404|!index|!.david_watson_resume]*.md', recursive=True):
+        title_chunks = md[11:-3].split('_') or md[:-3]
         title = ' '.join(title_chunks).title()
         print(title)
-        lis.append(f'<li><a href="{md[:-3]}.html">{title}</a></li>')
+        href= f'<li><a href="{md[3:-3].replace("src/", "")}.html">{title}</a></li>'
+        print(href)
+        lis.append(href)
     lis.sort()
     ul = ''.join(lis)
-    html = f'<ul>{ul}</ul>'
-    f = open('index.md', 'w')
+    print(ul)
+    html += f'<ul>{ul}</ul>'
+    f = open('src/essays/index.md', 'w')
     f.writelines(html)
     f.close()
 

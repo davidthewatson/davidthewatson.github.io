@@ -4,6 +4,8 @@
 
 from markdown import Markdown
 from io import StringIO
+import glob
+import html
 
 
 def unmark_element(element, stream=None):
@@ -29,12 +31,24 @@ def unmark(text):
 
 
 def main():
-    md_file = open('resume/david_watson_resume.md')
-    txt = md_file.read()
-    plain_txt = unmark(txt)
-    n = open('docs/txt/david_watson_resume.txt', 'w')
-    n.write(plain_txt)
+    print('Rendering plain text')
+    for md in glob.glob('src/**/**[!404]*.md', recursive=True):
+
+        print(md)
+        f = open(md, 'r')
+        txt = f.read()
+        # massive hack; must remove
+        if "david_watson_resume.md" in md:
+            print(md)
+            txt = txt[700:]
+            txt = f'david@davidwatson.org\n{txt}'
+        txt_with_html = unmark(txt)
+        txt_without_entities = html.unescape(txt_with_html)
+        new_name = md.replace('src', 'docs')
+        new_name = new_name.replace('md', 'txt')
+        print(new_name)
+        n = open(new_name, 'w')
+        n.write(txt_without_entities)
 
 if __name__ == '__main__':
     main()
-    
