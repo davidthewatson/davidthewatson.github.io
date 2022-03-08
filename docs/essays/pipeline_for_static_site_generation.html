@@ -2,17 +2,18 @@
 <html lang="en" data-theme="bootstrap">
 
 <head>
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="davidwatson.org">
-<title></title>
-<link rel="stylesheet" href="/css/classless.css">
-<link rel="stylesheet" href="/css/themes.css">
-<link rel="stylesheet" href="/css/style.css">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="davidwatson.org">
+  <title></title>
+  <link rel="stylesheet" href="/css/classless.css">
+  <link rel="stylesheet" href="/css/all.min.css">
+  <link rel="stylesheet" href="/css/themes.css">
+  <link rel="stylesheet" href="/css/style.css">
 
 
 </head>
@@ -23,24 +24,20 @@
       <li>
         <b><a href="/">davidwatson.org</a></b>
     </li>
-      <li class="float-right sticky"><a href="#">resume ▾</a>
-        <ul>
-            <li>
-                <a href="/resume/david_watson_resume.html">HTML</a>
-              </li>
-              <li>
-                <a href="/pdf/david_watson_resume.pdf">PDF</a>
-              </li>
-              <li>
-                <a href="/txt/david_watson_resume.txt">TXT</a>
-              </li>
-                    </ul>
-      </li>
-      <li class="float-right"><a href="/about/">about</a></li>
-    </ul>
+    <li>
+      <a href="/about/">about</a>
+    </li>
+    <li>
+      <a href="/essays/">essays</a>
+    </li>
+<li class="float-right">
+  <a href="/resume/david_watson_resume.html">resume</a>
+</li>
+  </ul>
   </nav>
-  <h1>Pipeline for Static Site Generation</h1>
-<h2>architecture</h2>
+  
+  <h3>Pipeline for Static Site Generation</h3>
+<h3>architecture</h3>
 <p>The pipeline that I use for static site generation produces three files from a
 single input:
    1. Plain Text
@@ -49,7 +46,7 @@ single input:
 Producing three output formats solves the problem of scaling the content from
 mobile to desktop to print, making reading as simple as possible. A simple,
 single file change affects all of the content at once.</p>
-<h2>staticjinja</h2>
+<h3>staticjinja</h3>
 <p>Jinja is the templating language for Python behind Flask. staticjinja takes the
 templating power of Jinja, where Flask targets dynamic web content like
 database backed web stacks, and re-purposes it for static content in batch mode
@@ -71,7 +68,7 @@ makes static site generators such force multipliers.</p>
   &lt;/body&gt;
   &lt;/html&gt;
 </code></pre>
-<h2>bash</h2>
+<h3>bash</h3>
 <p>Bash provides the unix pipe for our code to go from user-contributed src to
 generated docs for publishing. There are four steps in the process:
    1. Run staticjinja taking input templates from src and generating HTML at
@@ -87,7 +84,7 @@ generated docs for publishing. There are four steps in the process:
   html2text index.html &gt;index.md
   python ./md2txt.py
 </code></pre>
-<h2>python</h2>
+<h3>python</h3>
 <p>The python code just takes markdown as input, transforms the markdown to plain
 text using this patch from stackoverflow, and outputs plain text.</p>
 <pre><code>def main():
@@ -97,7 +94,7 @@ text using this patch from stackoverflow, and outputs plain text.</p>
     n = open('index.txt', 'w')
     n.write(plain_txt)
 </code></pre>
-<h2>design</h2>
+<h3>design</h3>
 <p>The presentation is simpflified by the use of a classless CSS framework called
 new.css, which makes achieving simple and clean output straightforward.
 I arrived at classless frameworks after years of working with bootstrap to
@@ -114,7 +111,7 @@ So if you look at a piece of HTML from my site, what you'll notice is not that
 there's a complete lack of CSS, but rather, the default CSS is so well-styled
 by the framework authors that no cascading style is necessary, even though it's
 readily available.</p>
-<h2>summary</h2>
+<h3>summary</h3>
 <p>Modeling the resume production problem this way has benefits for reader and
 writer.
 The design takes advantage of an automated data pipeline built on Unix pipes so
@@ -125,8 +122,8 @@ You get the rich content flow of a modern dynamic Content Management System
 (CMS), except there is no database and no application server, just a file
 system and some event-driven glue code, so it doesn't take an IT team to
 support it.</p>
+  
   <footer>
-        <p>&copy; 2021 David Watson</p>
     </footer>
     
 

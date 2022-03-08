@@ -1,93 +1,92 @@
-<div style="margin-top: 0">david@davidwatson.org <small><i class="fa-brands fa-github" style="font-style: normal;"></i> <i class="fa-brands fa-linkedin" style="font-style: normal;"></i> <i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>
-</small></div>
+david@davidwatson.org
 Objective
 Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
 Summary
 Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
 Skills
-<small><em>Operating Systems & Programming Languages</em></small>
-Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2) since they have similar&nbsp;&nbsp;GUI and CLI.
+Operating Systems & Programming Languages
+Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2) since they have similar  GUI and CLI.
 Since 2005, wrote Python daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ daily, Python or Ruby occasionally.
-<small><em> Containers & Virtual Machines</em></small>
+Containers & Virtual Machines
 Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000. 
-<small><em> Markup & Markdown</em></small>
+Markup & Markdown
 Prefer markup, markdown, or plain text for a variety of technical documentation, including this resume.
-<small><em> Databases & Methods</em></small>
+Databases & Methods
 Used PostgreSQL since 2008 for its support for relational and schemaless data plus numerous extensions.
 Tailored agile based on a synthesis of research from Alistair Cockburn, Allen Holub, and Bonnitta Roy.
 Experience
-<small><em> Software Engineering Specialist&nbsp;&nbsp;&nbsp;&nbsp;Caterpillar&nbsp;&nbsp;&nbsp;&nbsp;2018-2020, 2021 </em></small>
+Software Engineering Specialist Caterpillar 2018-2020, 2021
 
 Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM for RC Terrain Visualization
 Guided company-wide directives on docker container usage for build engineering and CI/CD on Azure
 
-<small><em> Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;Carnegie Mellon University&nbsp;&nbsp;&nbsp;&nbsp;2020 </em></small>
+Member of Technical Staff    Carnegie Mellon University    2020
 
 Contributed to Emerging Technology Center within Software Engineering Institute
 Worked on HPC, MLOps, and HCI in concert with National Robotics Engineering Center
 
-<small><em> Software Developer&nbsp;&nbsp;&nbsp;&nbsp;Realpage&nbsp;&nbsp;&nbsp;&nbsp;2016 - 2018 </em></small>
+Software Developer    Realpage    2016 - 2018
 
 Led weekly retrospectives to improve cadence, velocity, and teamwork
 Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes/AWS
 
-<small><em> VP Product Development&nbsp;&nbsp;&nbsp;&nbsp;Wellbridge Health&nbsp;&nbsp;&nbsp;&nbsp;2015 - 2016 </em></small>
+VP Product Development    Wellbridge Health    2015 - 2016
 
 Led development team through HIPAA-compliant MVP with SPA UX design from MAYA
 Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
 
 <div id="hae"></div>
 
-<small><em> VP Engineering&nbsp;&nbsp;&nbsp;&nbsp;Hire an Esquire&nbsp;&nbsp;&nbsp;&nbsp;2014 </em></small>
+VP Engineering    Hire an Esquire    2014
 
 Led engineering team to redesign and simplify MVP  
 Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
-<small><em> Software Developer&nbsp;&nbsp;&nbsp;&nbsp;Forever&nbsp;&nbsp;&nbsp;&nbsp;2013 - 2014 </em></small>
+Software Developer    Forever    2013 - 2014
 
 Wrote Python, Flask, MongoDB proof-of-concept demonstrating photo sharing and storage on Heroku
 Productionized design using Ruby on Rails, PostgreSQL, AWS
 
-<small><em> Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;BrainStorm&nbsp;&nbsp;&nbsp;&nbsp;2011 - 2012 </em></small>
+Software Engineer    BrainStorm    2011 - 2012
 
 Contributed python, postgreSQL code to internal systems supporting daily operations
 Designed and implemented conversational text systems (like twilio) and REST interfaces in python
 
-<small><em> Software Development Manager&nbsp;&nbsp;&nbsp;&nbsp;Wellspring&nbsp;&nbsp;&nbsp;&nbsp;2010 - 2011 </em></small>
+Software Development Manager    Wellspring    2010 - 2011
 
 Led devops from legacy data center to SaaS VMWare deployment
 Built CI/CD systems using Capistrano (Ruby), Mechanize (Python), and Selenium
 
-<small><em> Project Engineer&nbsp;&nbsp;&nbsp;&nbsp;Qinetiq&nbsp;&nbsp;&nbsp;&nbsp;2008-2009 </em></small>
+Project Engineer    Qinetiq    2008-2009
 
 Visualized XML sonar data in python, consumed by C++ GUI application on Windows 
 Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment
 
-<small><em> UI Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;Nomos&nbsp;&nbsp;&nbsp;&nbsp;2006 - 2007 </em></small>
+UI Software Engineer    Nomos    2006 - 2007
 
 Contributed C++ QA tests and code reviews to CORVUS FDA-regulated radiation oncology product
 Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
-<small><em> Software Design Engineer&nbsp;&nbsp;&nbsp;&nbsp;MAYA Design&nbsp;&nbsp;&nbsp;&nbsp;2004 - 2006 </em></small>
+Software Design Engineer    MAYA Design    2004 - 2006
 
 Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
 Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
-<small><em> Co-Founder&nbsp;&nbsp;&nbsp;&nbsp;Cobind&nbsp;&nbsp;&nbsp;&nbsp;2003 - 2004 </em></small>
+Co-Founder    Cobind    2003 - 2004
 
 Partnered on ideation, vision, and execution of custom Linux Tools startup
 Received wide press acclaim around custom Linux products after winning Idea Foundry Fellowship
 
-<small><em> Software Engineer&nbsp;&nbsp;&nbsp;&nbsp;MSA&nbsp;&nbsp;&nbsp;&nbsp;2000-2003 </em></small>
+Software Engineer    MSA    2000-2003
 
 Contributed code, data, and deployment before and after startup acquisition
 Implemented backend product import systems providing Excel VBA API from spreadsheet to database 
 
-<small><em> Member of Technical Staff&nbsp;&nbsp;&nbsp;&nbsp;CA&nbsp;&nbsp;&nbsp;&nbsp;1995-2000 </em></small>
+Member of Technical Staff    CA    1995-2000
 
 Built C++ GUI for Legent (Automation Point) and Platinum (Raveler), before acquisition by CA 
 Wrote C++ code for CA-Unicenter products after CA acquisition
 
 Education
 
-Bachelor of Science&nbsp;&nbsp;&nbsp;&nbsp;Duquesne University&nbsp;&nbsp;&nbsp;&nbsp;1991
+Bachelor of Science    Duquesne University    1991
