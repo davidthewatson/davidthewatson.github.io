@@ -78,7 +78,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
   * Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
-#####    Co-Founder    [Cobind](https://no.wikipedia.org/wiki/CobindDesktop)    2003 - 2004   
+#####    Co-Founder    [Cobind](https://no.wikipedia.org/wiki/Cobind_Desktop)    2003 - 2004   
   * Partnered on ideation, vision, and execution of custom Linux Tools startup
   * Received wide press acclaim around custom Linux products after winning Idea Foundry Fellowship
 
