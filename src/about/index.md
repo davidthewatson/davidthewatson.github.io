@@ -6,7 +6,7 @@ Chortle.
 
 I've been Type 1 Diabetic for most of my life, worn an insulin pump for over two decades, and used a Continuous Glucose Monitor (CGM) occasionally for ten years, and 24x7x365 for the last two years. 
 
-While I don't have a medical degree, I do have years of experience working in both medical devices and healthcare, so I can speak from experience both as a patient and part of the team delivering technology solutions targeting patients whose experience is very similar to my own. 
+While I don't have a medical degree, I do have years of experience working in both medical devices and healthcare, so I can speak from experience both as a patient and provider delivering technology solutions targeting patients just like me. 
 
 I also grew up a latchkey kid where the doctor's office was on the walk home from school to home, so watching pros practice medicine, demo their tools, and lead others through daily healthcare struggles rubbed off on me in a good way. 
 
