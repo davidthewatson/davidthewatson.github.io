@@ -1,5 +1,11 @@
-david@davidwatson.org
-like), MacOS (BSD), and Windows (WSL2) since they have similar  GUI and CLI.
+david@davidwatson.org   
+Objective
+Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
+Summary
+Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
+Skills
+Operating Systems & Programming Languages
+Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2) since they have similar  GUI and CLI.
 Since 2005, wrote Python daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ daily, Python or Ruby occasionally.
 Containers & Virtual Machines
 Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000. 
@@ -29,11 +35,10 @@ VP Product Development    Wellbridge Health    2015 - 2016
 Led development team through HIPAA-compliant MVP with SPA UX design from MAYA
 Implemented REST API using Python/Django, DRF and PostgreSQL serving EmberJS SPA on Aptible 
 
-<div id="hae"></div>
 
 VP Engineering    Hire an Esquire    2014
 
-Led engineering team to redesign and simplify MVP  
+Led engineering team to redesign and simplify MVP 
 Refactored Python, Django, and PostgreSQL stack with vanilla Django and Bootstrap frontend
 
 Software Developer    Forever    2013 - 2014
