@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
  
-while inotifywait -r -e close_write -e move -e create src/
+while inotifywait -r -e close_write -e move -e create src/ static/
 do
     rm -rf docs/*
     cp -rf static/* docs/.
