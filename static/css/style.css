@@ -3,16 +3,7 @@
 }
 
 body > nav > ul > li {
-    font-size: x-large;
-}
-
-body > nav > ul {
     font-size: large;
-}
-
-
-body {
-    padding-top: 100px;
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio: 3) {
