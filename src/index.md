@@ -1,3 +1,4 @@
 ### home
 
-Hey there!
+My name is David. Welcome to my little corner of the internet where I rant, rave, and ramble about diabetes, technology, and occasionally diabetes technology.
+

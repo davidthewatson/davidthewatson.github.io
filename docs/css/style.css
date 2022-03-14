@@ -1,3 +1,7 @@
 #hae {
     page-break-before: always;
 }
+
+body > nav > ul > li {
+    font-size:x-large;
+}

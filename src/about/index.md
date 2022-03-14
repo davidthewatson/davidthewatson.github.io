@@ -1,9 +1,5 @@
 ### about
 
-My name is David. Welcome to my little corner of the internet where I rant, rave, and ramble about diabetes, technology, and occasionally diabetes technology.
-
-Chortle.
-
 I've been Type 1 Diabetic for most of my life, worn an insulin pump for over two decades, and used a Continuous Glucose Monitor (CGM) occasionally for ten years, and 24x7x365 for the last two years. 
 
 While I don't have a medical degree, I do have years of experience working in both medical devices and healthcare, so I can speak from experience both as a patient and provider delivering technology solutions targeting patients just like me. 
@@ -16,6 +12,8 @@ I like to relax by reading, writing, and reflecting. Learning is my happy place.
 
 When I'm not hyperfocused on these things, I am active outdoors, cycling, walking my dog, Jade the Viszla, or doing the Maffetone shuffle otherwise known as running.
 
-So have a look around and reach out if you'd like to work together.
+So have a look around and reach out if you'd like to work together. 
+
+You'll find <a href="/resume/david_watson_resume.html">my resume</a> here.
 
 Thanks for visiting!
