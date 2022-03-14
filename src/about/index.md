@@ -8,7 +8,7 @@ I also grew up a latchkey kid where the doctor's office was on the walk home fro
 
 I was a member of the board of directors of my local American Diabetes Association chapter when I was just a teenager.
 
-I like to relax by reading, writing, and reflecting. Learning is my happy place.
+I like to relax by reading, writing, and reflecting - learning is my happy place.
 
 When I'm not hyperfocused on these things, I am active outdoors, cycling, walking my dog, Jade the Viszla, or doing the Maffetone shuffle otherwise known as running.
 
