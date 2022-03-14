@@ -23,9 +23,11 @@ def render_site(site, template, **kwargs):
     # Compile and stream the result
     os.makedirs(out.parent, exist_ok=True)
 
-    if "david_watson_resume.html" not in str(out):
+    if "/resume/" not in str(out):
+        print('BASE')
         site.get_template("_base.html").stream(**kwargs).dump(str(out), encoding="utf-8")
     else:
+        print('RESUME')
         site.get_template("_resume_base.html").stream(**kwargs).dump(str(out), encoding="utf-8")
 print('rendering site')
 
