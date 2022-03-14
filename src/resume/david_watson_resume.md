@@ -33,7 +33,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
 #### Experience
 
 #####    Software Engineering Specialist [Caterpillar](https://www.cat.com/enUS.html) 2018-2020, 2021   
-  * Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM for RC Terrain Visualization
+  * Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM for Autonomy Group
   * Guided company-wide directives on docker container usage for build engineering and CI/CD on Azure
 
 #####    Member of Technical Staff    [Carnegie Mellon University](https://www.cmu.edu/)    2020   
