@@ -20,3 +20,7 @@ body {
 	nav ul:first-child > li:not(:first-child):not(.sticky) { display: inline-block; }
 	nav ul:first-child:hover > li:not(:first-child):not(.sticky) { display:inline-block; float:left !important; }
 }
+
+.portrait-img {
+    border-radius: 50%;
+}
