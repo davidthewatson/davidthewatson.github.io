@@ -1,4 +1,4 @@
-### [david@davidwatson.org](mailto:david@davidwatson.org) [<i class="fa-brands fa-github" style="font-style: normal;"></i>](https://github.com/davidthewatson) [<i class="fa-brands fa-linkedin" style="font-style: normal;"></i>](https://www.linkedin.com/in/davidthewatson/) [<i class="fa-brands fa-stack-overflow" style="font-style: normal;"></i>](https://stackoverflow.com/users/173308/david-watson)  [<i class="fa-solid fa-file-pdf" style="font-style: normal;"></i>](/resume/david_watson_resume.pdf) [<i class="fa-solid fa-file-text" style="font-style: normal;"></i>](/resume/david_watson_resume.txt) [<i class="fa-solid fa-print" style="font-style: normal;"></i>](/resume/david_watson_resume.pdf)
+### [david@davidwatson.org](mailto:david@davidwatson.org) [<i class="fa-solid fa-file-pdf" style="font-style: normal;"></i>](/resume/david_watson_resume.pdf) [<i class="fa-solid fa-file-text" style="font-style: normal;"></i>](/resume/david_watson_resume.txt) [<i class="fa-solid fa-print" style="font-style: normal;"></i>](/resume/david_watson_resume.pdf)
 
 #### Objective
 

@@ -1,11 +1,5 @@
 david@davidwatson.org
-Objective
-Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
-Summary
-Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
-Skills
-Operating Systems & Programming Languages
-Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2) since they have similar  GUI and CLI.
+like), MacOS (BSD), and Windows (WSL2) since they have similar  GUI and CLI.
 Since 2005, wrote Python daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ daily, Python or Ruby occasionally.
 Containers & Virtual Machines
 Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000. 
