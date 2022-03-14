@@ -15,7 +15,7 @@ body {
     padding-top: 100px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 400px) {
 	nav ul:first-child > li:first-child:after { content: " \25BE"; }
 	nav ul:first-child > li:not(:first-child):not(.sticky) { display: none; }
 	nav ul:first-child:hover > li:not(:first-child):not(.sticky) { display: block; float: none !important; }
