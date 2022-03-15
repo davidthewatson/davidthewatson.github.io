@@ -16,3 +16,7 @@ body > nav > ul > li {
     padding: 25px;
     border-radius: 50%;
 }
+
+figcaption {
+    text-align: center;
+}
