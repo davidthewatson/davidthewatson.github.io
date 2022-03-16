@@ -2,9 +2,6 @@
     page-break-before: always;
 }
 
-body > nav > ul > li {
-    font-size: large;
-}
 /*
 @media only screen and (-webkit-min-device-pixel-ratio: 3) {
 	nav ul:first-child > li:first-child:after { content: ""; }
@@ -19,4 +16,8 @@ body > nav > ul > li {
 
 figcaption {
     text-align: center;
+}
+
+nav > a {
+    padding: 0.75rem;
 }

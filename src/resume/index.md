@@ -1,4 +1,4 @@
-### [david@davidwatson.org](mailto:david@davidwatson.org) [<i class="fa-solid fa-file-text" style="font-style: normal;"></i>](/resume/index.txt) [<i class="fa-solid fa-print" style="font-style: normal;"></i>](/resume/index.pdf)
+### [david@davidwatson.org](mailto:david@davidwatson.org) [<i class="fa-solid fa-print" style="font-style: normal;"></i>](/resume/index.pdf)
 
 #### Objective
 

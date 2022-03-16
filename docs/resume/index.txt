@@ -1,4 +1,4 @@
-david@davidwatson.org  
+david@davidwatson.org 
 Objective
 Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
 Summary
