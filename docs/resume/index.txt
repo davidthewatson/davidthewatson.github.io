@@ -68,7 +68,7 @@ Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatme
 
 Software Design Engineer    MAYA Design    2004 - 2006
 
-Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
+Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends: Infoworld Top 100
 Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
 Co-Founder    Cobind    2003 - 2004

@@ -74,8 +74,9 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Contributed C++ QA tests and code reviews to CORVUS FDA-regulated radiation oncology product
   * Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
-#####    Software Design Engineer    [MAYA Design](https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false)    2004 - 2006   
-  * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
+
+#####    Software Design Engineer    [MAYA Design](https://remakelearning.org/organization/maya-design/)    2004 - 2006   
+  * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends: [Infoworld Top 100](https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false)
   * Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
 #####    Co-Founder    [Cobind](https://no.wikipedia.org/wiki/Cobind_Desktop)    2003 - 2004   
