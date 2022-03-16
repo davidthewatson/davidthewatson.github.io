@@ -74,7 +74,7 @@ Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis
   * Contributed C++ QA tests and code reviews to CORVUS FDA-regulated radiation oncology product
   * Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning
 
-#####    Software Design Engineer    [MAYA Design](https://maya.com/)    2004 - 2006   
+#####    Software Design Engineer    [MAYA Design](https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false)    2004 - 2006   
   * Built REST backends in python emitting JSON for consumption by proprietary AJAX frontends
   * Demoed GUI floorplan wireless lighting designer in C#/Windows for Lutron 1 week from sketch
 
