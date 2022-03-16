@@ -207,6 +207,7 @@ article p>cite:hover > *:only-child,
 [data-tooltip] { color: var(--clink); cursor: help; }
 
 /* navbar */
+/*
 nav+* { margin-top: 3rem; }
 body>nav, header nav {
 	position: var(--navpos);
@@ -222,7 +223,6 @@ nav ul:first-child > li {
 	margin: 0;
 	padding: 0.8rem .6rem;
 }
-/*
 nav ul > li > ul {
 	display: none;
 	width: auto;
@@ -235,13 +235,13 @@ nav ul > li > ul {
 	z-index: 42;
 }
 nav ul > li > ul > li { white-space: nowrap; }
-nav ul > li:hover > ul { display: block; } */
+nav ul > li:hover > ul { display: block; }
 @media (max-width: 40rem) {
 	nav ul:first-child > li:first-child:after { content: " \25BE"; }
 	nav ul:first-child > li:not(:first-child):not(.sticky) { display: none; }
 	nav ul:first-child:hover > li:not(:first-child):not(.sticky) { display: block; float: none !important; }
 }
-
+*/
 /* details/cards */
 summary>* { display: inline; }
 summary:hover, details[open] summary, .card>p:first-child { 

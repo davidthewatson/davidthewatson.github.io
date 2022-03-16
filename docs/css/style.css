@@ -5,13 +5,13 @@
 body > nav > ul > li {
     font-size: large;
 }
-
+/*
 @media only screen and (-webkit-min-device-pixel-ratio: 3) {
 	nav ul:first-child > li:first-child:after { content: ""; }
 	nav ul:first-child > li:not(:first-child):not(.sticky) { display: inline-block; }
 	nav ul:first-child:hover > li:not(:first-child):not(.sticky) { display:inline-block; float:left !important; }
 }
-
+*/
 .portrait-img {
     padding: 25px;
     border-radius: 50%;
