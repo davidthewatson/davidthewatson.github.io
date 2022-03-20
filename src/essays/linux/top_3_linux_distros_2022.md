@@ -12,7 +12,7 @@ File systems like zfs and btr have been on a collision course with distributed S
 
 When something breaks, much like continuous deployment systems, system stability is always just a rollback away.
 
-The leading edge of containers and virtualization are all at play here in some form though the specific implementations differe somewhat.
+The leading edge of containers and virtualization are all at play here in some form though the specific implementations differ somewhat.
 
 
 Imagine a future where the last mile of humans-in-the-loop system management is replaced by autonomous system operators (agents) and you have a rough idea where this is going. The real game is instrumenting the OS with sensors that enable the system to be managed autonomously and securely at scale. 
@@ -43,7 +43,7 @@ This article is kept intentionally short, but the things that make fedora silver
 
 #### Garuda Sway
 
-[Garuda Sway]() may be the least promoted of these futuristic alternatives as it has nothing but the traditional open source organization behind it.
+[Garuda Sway](https://en.wikipedia.org/wiki/Garuda_Linux) may be the least promoted of these futuristic alternatives as it has nothing but the traditional open source organization behind it.
 
 Like me, you may arrive at Garuda Linux, having dabbled in arch for years, realizing that there are alternatives to Ubuntu and Redhat, that you may not have heard much about since they get drown out by the respective marketing machines from Canonical and IBM.
 
