@@ -1,2 +1,2 @@
 essays
-Diabetes/Dexcom/G6Diabetes/Digital TechnologyDiabetes/Tandem/T Slim X2Linux/Garuda/Sway/CheatsheetLinux/Top 3 Linux Distros 2022Pipeline/Static Site Generation
+Writing/Diabetes/Dexcom/G6Writing/Diabetes/Digital TechnologyWriting/Diabetes/Tandem/T Slim X2Writing/Technology/Linux/Garuda/Sway/CheatsheetWriting/Technology/Linux/Top 3 Linux Distros 2022Writing/Technology/Pipeline/Static Site Generation
