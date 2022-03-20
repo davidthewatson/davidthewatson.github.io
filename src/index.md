@@ -8,10 +8,7 @@
 </div>
 <div class="col">
 <figure>
-<img class="portrait-img" src="/images/dave_and_jade.jpg">
-<figcaption>
-Me and my Viszla
-</figcaption>
+<img class="portrait-img" src="/images/watson.jpg">
 </figure>
 </div>
 </div>
