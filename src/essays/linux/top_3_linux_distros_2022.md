@@ -8,7 +8,7 @@ Regardless, the 3 systems listed here are leading the charge into modern operati
 
 While the 3 linux distros listed below are wildly different in terms of what problem they are solving, what they share is an emergent conceptual and philosophical basis that is ephemeral and immutable.
 
-File systems like zfs and btr have been on a collision course with distributed SCM for years, and these systems all prove that by taking the idea of a journalled or revisioned file system, and using that to enable system stability by combining immutability via ephemerality - meaning that the container is the fundamental _data _currency_ of the underlying operating system, where the system itself is polymorphic - the state of the running is changed simply by switching the current container state.
+File systems like zfs and btr have been on a collision course with distributed SCM for years, and these systems all prove that by taking the idea of a journalled or revisioned file system, and using that to enable system stability by combining immutability via ephemerality - meaning that the container is the fundamental _data _currency_ of the underlying operating system, where the system itself is polymorphic - the state of the running OS is changed simply by switching the current container state.
 
 When something breaks, much like continuous deployment systems, system stability is always just a rollback away.
 
