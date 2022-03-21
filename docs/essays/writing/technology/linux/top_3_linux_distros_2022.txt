@@ -27,3 +27,7 @@ Garuda Sway runs better on a $649 commodity laptop with 8 GB RAM than most of th
 Garuda Sway is probably the most tractable way to deprecate your mouse, as long as people old enough to remember OS/2 and CUA have been complaining about mouse dependence and how it slows GUI vs CLI.
 No matter. Garuda is the path to indescribable speed, power, and simplicity that comes from being able to manage a large number of windows on a large display without your brain running out of stack space or reaching for a mouse or touchpad. 
 Put simply, Garuda Sway scales window management on the dektop to enable humans to master desktop information in a way that few have since the 200 points of light demo and successive desktop research thirty years ago.
+If you think about it, the only thing that sway is missing in this iteration, is a keybinding to invoke zoom mode within a particular window or frame such that the set of tabs (or stack) if you will, is fully visualized in a rich way, and zoomable in z-order.
+Ben Bederson's group at U Maryland had researched Pad++ and Piccolo twenty-five years ago.
+Adapted for the modern computing environment, you could combine that interaction with a gesture and keybinding where the rendering instantaneously scales to large numbers of spatial objects. 
+It's actually sad that these ideas never reached mobile, where gestures play a larger, if more troubling role.

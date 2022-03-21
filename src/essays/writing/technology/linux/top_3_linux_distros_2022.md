@@ -57,4 +57,12 @@ Garuda Sway is probably the most tractable way to deprecate your mouse, as long 
 
 No matter. Garuda is the path to indescribable speed, power, and simplicity that comes from being able to manage a large number of windows on a large display without your brain running out of stack space or reaching for a mouse or touchpad. 
 
-Put simply, Garuda Sway scales window management on the dektop to enable humans to master desktop information in a way that few have since the [200 points of light demo](https://www.youtube.com/watch?v=H5-T_S50Sr4) and [successive desktop research](https://dl.acm.org/doi/pdf/10.1145/191666.191676?casa_token=aYR2BhoLpPoAAAAA:yHrKxnjyqz9Oms335i-5OPLk5EPlXxBSGzCLkCui9ScA-kE5pepdY3Y2AhTPIn9kIoKcFFaf0wuKdw) thirty years ago.
+Put simply, Garuda Sway scales window management on the dektop to enable humans to master desktop information in a way that few have since the [200 points of light demo](https://www.youtube.com/watch?v=H5-T_S50Sr4) and [successive desktop research](https://www.microsoft.com/en-us/research/wp-content/uploads/1998/01/p153-robertson.pdf) thirty years ago.
+
+If you think about it, the only thing that [sway](https://swaywm.org/) is missing in this iteration, is a keybinding to invoke zoom mode within a particular window or frame such that the set of tabs (or stack) if you will, is fully visualized in a rich way, and zoomable in z-order.
+
+[Ben Bederson's group at U Maryland](https://hcipioneers.wordpress.com/portfolio/bederson-ben/) had researched [Pad++](http://www.cs.umd.edu/hcil/pad++/) and [Piccolo](http://www.cs.umd.edu/hcil/piccolo/index.shtml) twenty-five years ago.
+
+Adapted for the modern computing environment, you could combine that interaction with a gesture and keybinding where the rendering instantaneously scales to large numbers of spatial objects. 
+
+It's actually sad that these ideas never reached mobile, where gestures play a larger, if more troubling role.
