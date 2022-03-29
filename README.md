@@ -1,5 +1,34 @@
 #  README
 
+## My new Github Flow
+
+    # create branch
+    git switch -c new-branch
+    
+    # add changed code
+    git add whatever
+    
+    # commit
+    git commit -m 'new stuff'
+    
+    # push
+    git push
+
+    # create the pull request
+    gh pr create
+
+    # for others to view diff on a PR
+    gh pr diff  
+    
+    # to view comments on a PR
+    gh pr view --comments
+
+    # for others to review your PR
+    gh pr review --approve
+    
+    # for you to merge your PR
+    gh pr merge  
+
 ## Developing 
 
 I develop locally on linux, fish, python3, pip, virtualenv, tmux, and alacritty (terminal). The following instructions rely on that, but they may work for you if you have a similar linux environment.
