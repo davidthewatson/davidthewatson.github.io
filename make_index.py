@@ -8,7 +8,8 @@ def main():
     html = '### essays\n\n'
     lis = []
     for md in glob.glob('src/**/**[!404|!index|!.david_watson_resume]*.md', recursive=True):
-        title_chunks = md[11:-3].split('_') or md[:-3]
+        pos = md.rfind('/')
+        title_chunks = md[pos+1:-3].split('_') or md[:-3]
         title = ' '.join(title_chunks).title()
         print(title)
         href= f'<li><a href="{md[3:-3].replace("src/", "")}.html">{title}</a></li>'
