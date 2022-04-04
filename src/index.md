@@ -1,17 +1,23 @@
 <div class="row">
 <div class="col">
 <h3>davidwatson.org</h3>
-<p>I thrive on rituals... 
+<p>Who? Where? What?
+<ul>
+<li>Dave
+<li>Pittsburgh
+<li>Tech (startups)
+</ul>
+<p>Thrives on rituals... 
 <ul>
 <li>Reading, writing, and running
 <li>Fasting, feasting, and reflecting 
 <li>Learning, growing, and reminiscing
 </ul
-<p>My life is enriched by imperfection...
+<p>Shaped by imperfection...
 <ul>
-<li>Learning from living with diabetes
-<li>Helping in the struggle against chronic disease
-<li>Striving to be a beacon of light in a sea of darkness
+<li>Living with diabetes
+<li>Training for the marathon
+<li>Striving for peace
 </ul>
 <h3>thanks for visiting!</h3>
 </div>
