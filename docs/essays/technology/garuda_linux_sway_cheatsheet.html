@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en" data-theme="bootstrap">
+
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="davidwatson.org">
+  <title></title>
+  <link rel="stylesheet" href="/css/classless.css">
+  <link rel="stylesheet" href="/css/all.min.css">
+  <link rel="stylesheet" href="/css/themes.css">
+  <link rel="stylesheet" href="/css/style.css">
+  
+
+<script defer src="/js/all.js"></script>
+
+</head>
+
+<body>
+  
+  <nav>
+      <a href="/"><img src="/favicon-32x32.png"></a>
+      <a href="/essays/"><i class="fas fa-file-alt" style="vertical-align:bottom; font-size: 32px;"></i></a>
+      <a href="https://github.com/davidthewatson"><i class="fa-brands fa-github" style="vertical-align:bottom; font-size: 32px;"></i></a>
+      <a href="https://www.linkedin.com/in/davidthewatson/"><i class="fa-brands fa-linkedin" style="vertical-align:bottom; font-size: 32px;"></i></a>
+      <a href="https://stackoverflow.com/users/173308/david-watson"><i class="fa-brands fa-stack-overflow" style="vertical-align:bottom; font-size: 32px;"></i></a>
+</nav>
+  <h4>Garuda  Sway CheatSheet</h4>
+<p>a lightly edited version of <a href="https://wiki.garudalinux.org/en/sway-cheatsheet">the original</a> suitable for printing two-up landsacpe!</p>
+<pre><code>Super = Super Key (surrounded by fn, alt, and Z)
+</code></pre>
+<h4>start floating alacritty</h4>
+<pre><code>   Super+Return
+</code></pre>
+<h4>kill focused window</h4>
+<pre><code>    Super+q
+</code></pre>
+<h4>Application menu - wofi:</h4>
+<pre><code>    Super+d
+</code></pre>
+<h4>Launcher (nwg_drawer)</h4>
+<pre><code>    Super+shift+d
+</code></pre>
+<h4>Switch app windows by heuristic (like atom, vscode, etc)</h4>
+<pre><code>    Super+p
+</code></pre>
+<h4>Power-Menu:</h4>
+<pre><code>    Super+Shift+e
+</code></pre>
+<h4>Lock the system</h4>
+<pre><code>    Super+f1
+</code></pre>
+<h4>reload the configuration file</h4>
+<pre><code>    Super+Shift+c
+</code></pre>
+<h4>change window focus,like vim</h4>
+<pre><code>    Super+h focus left
+    Super+j focus down
+    Super+k focus up
+    Super+l focus right
+</code></pre>
+<h4>alternatively, you can use the cursor keys:</h4>
+<pre><code>    Super+Left focus left
+    Super+Down focus down
+    Super+Up focus up
+    Super+Right focus right
+</code></pre>
+<h4>move a focused window</h4>
+<pre><code>    Super+Shift+h move left
+    Super+Shift+j move down
+    Super+Shift+k move up
+    Super+Shift+l move right
+</code></pre>
+<h4>alternatively, you can use the cursor keys:</h4>
+<pre><code>    Super+Shift+Left move left
+    Super+Shift+Down move down
+    Super+Shift+Up move up
+    Super+Shift+Right move right
+</code></pre>
+<h4>split in horizontal orientation (changes take place on next opened window):</h4>
+<pre><code>    Super+b
+</code></pre>
+<h4>split in vertical orientation (changes take place on next opened window):</h4>
+<pre><code>    Super+v
+</code></pre>
+<h4>enter fullscreen mode for the focused container:</h4>
+<pre><code>    Super+f toggle fullscreen
+</code></pre>
+<h4>change container layout (stacked, tabbed, toggle split):</h4>
+<pre><code>    Super+s layout stacking
+    Super+w layout tabbed
+    Super+e layout toggle split
+</code></pre>
+<h4>toggle tiling / floating:</h4>
+<pre><code>    Super+Shift+space floating toggle
+</code></pre>
+<h4>change focus between tiling / floating windows:</h4>
+<pre><code>    Super+space focus mode_toggle
+</code></pre>
+<h4>focus the parent container:</h4>
+<pre><code>    Super+a focus parent
+</code></pre>
+<h4>scratchpad:</h4>
+<pre><code>    Super+Shift+Minus move scratchpad
+    Super+minus scratchpad cycle
+</code></pre>
+<h4>alternatively, you can use the cursor keys:</h4>
+<pre><code>    Left focus left
+    Down focus down
+    Up focus up
+    Right focus right
+</code></pre>
+<h4>Return to default mode:</h4>
+<pre><code>    Return or Escape
+</code></pre>
+<h3>Workspaces</h3>
+<h4>Switch to workspace</h4>
+<pre><code>    Super+1 workspace number 1
+    Super+2 workspace number 2
+    Super+3 workspace number 3
+    Super+4 workspace number 4
+    Super+5 workspace number 5
+    Super+6 workspace number 6
+    Super+7 workspace number 7
+    Super+8 workspace number 8
+    Super+9 workspace number 9
+    Super+0 workspace number 10
+</code></pre>
+<h4>Move focused container to workspace:</h4>
+<pre><code>    Super+Shift+1 move container to workspace number 1
+    Super+Shift+2 move container to workspace number 2
+    Super+Shift+3 move container to workspace number 3
+    Super+Shift+4 move container to workspace number 4
+    Super+Shift+5 move container to workspace number 5
+    Super+Shift+6 move container to workspace number 6
+    Super+Shift+7 move container to workspace number 7
+    Super+Shift+8 move container to workspace number 8
+    Super+Shift+9 move container to workspace number 9  
+    Super+Shift+0 move container to workspace number 10
+</code></pre>
+<h4>Multimedia Keys (be aware that these may not work for every keyboard):</h4>
+<pre><code>    They are enabled -  you may need to hold down the function key while doing so.
+</code></pre>
+<h4>Screenshots:</h4>
+<pre><code>    PrintSrc for full screenshot
+    Shift+PrintSrc for screenshot options
+</code></pre>
+<h4>App Shortcuts:</h4>
+<pre><code>    Super+n thunar
+    Super+o firefox
+</code></pre>
+  
+  <footer>
+    </footer>
+    
+  
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+On Travel
+Travel is a luxury we abuse.
+My travel desicision tree looks like this:
+
+on-foot: when possible
+    bicycle: when safe
+    bus and T: when extant
+    motorcycle: if weather permits
+    train: if regional and extant
+    car: if local, only as a last resort
+    plane: if distance
+

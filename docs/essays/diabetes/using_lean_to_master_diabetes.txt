@@ -1,0 +1,7 @@
+Using Lean to Master Diabetes
+My background in lean startups has taught me to use feedback loops to build, measure, and learn. 
+I've borrowed a page from the playbook of my professional life and used it to optimize my personal life. Specifically: diet, exercise, and insulin.
+The minimum viable product (MVP) is a healthy diabetic (me), the iteration cadence is weekly, the measurements are wearable device data such as fitbit, continuous glucose monitor (CGM), and insulin pump. The result is data-driven, progress is clear, and goals are achieved. 
+
+We get correlation, while causation requires less uncertain data with improved velocity and veracity. 
+We need the weakest link in the chain - the CGM sensors that use subcutaneous interstitial fluid - to be more granular and more accurate during both sleep and exercise - both events where hypo- and hyper-glycemia are high risk and potentially damaging in acute and long-term settings.

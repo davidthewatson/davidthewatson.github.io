@@ -1,0 +1,2 @@
+<h3>Gratitude for Nobel Prize Winners</h3>
+<p>Diabetes is only survivable today because of <a href="https://www.nobelprize.org/prizes/medicine/1923/summary/">two gentlemen who won the Nobel Prize</a> for the discovery of insulin. For all the noise ketogenic diets generate in the popular press today, <a href="https://jamanetwork.com/journals/jama/fullarticle/2759475">the ketogenic diet was the only way to <i>survive</i> diabetes</a> prior to the discovery of insulin over a hundred years ago. 
