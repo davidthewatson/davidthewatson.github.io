@@ -9,7 +9,7 @@
 <h4>past</h4>
 <p>I'm a guy from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
 <p>My childhood in small-town Pennsylvania yielded a <a href="https://aeon.co/essays/it-takes-psychological-flexibility-to-thrive-with-chronic-illness">diabetes diagnosis</a>, an avocation, and a vocation.
-<p>First,diabetes declared war on my pancreas. That war had been raging for eons across the globe until the <a href="/essays/diabetes/gratitude_for_nobel_prize_winners.html">discovery of insulin</a>.
+<p>First, diabetes declared war on my pancreas. That war had been raging for eons across the globe until the <a href="/essays/diabetes/gratitude_for_nobel_prize_winners.html">discovery of insulin</a>.
 <p>Second, music became my passion. I decided in music school that music wouldn't pay the rent before making music my avocation only to find out ironically later, that music did pay the mortgage.
 <p>Third, technology became my life-long obsession, then, a decade later, my vocation upon completion of a computer science internship.
 <p>At that point, my career path was clear.
