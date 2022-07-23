@@ -1,19 +1,11 @@
-
-
-davidwatson.org
 Welcome!
-
-
-
-
 past
-I'm a guy from a tiny town near Pittsburgh called Fallston.
+I'm a dude from a tiny town near Pittsburgh called Fallston.
 My childhood in small-town Pennsylvania yielded a diabetes diagnosis, an avocation, and a vocation.
 First, diabetes declared war on my pancreas. That war had been raging for eons across the globe until the discovery of insulin.
 Second, music became my passion. I decided in music school that music wouldn't pay the rent before making music my avocation only to find out ironically later, that music did pay the mortgage.
 Third, technology became my life-long obsession, then, a decade later, my vocation upon completion of a computer science internship.
 At that point, my career path was clear.
-
 
 present
 My present is shaped by contemplation - a daily habit of contemplating diabetes, music, and technology. 
@@ -24,8 +16,6 @@ For fun and inspiration, I listen to emergent acoustic fusion but I play with Lo
 While diabetes keeps me busy, and music soothes my soul, technology pays the bills.
 Professionally, tap the purple portrait to read the whole story.
 Personally, my tech obsessions are simple to state: open source, git, linux, python, postgresql, sway.
-
-
 future
 So what's next?
 
@@ -34,14 +24,3 @@ Writing reflectively
 Cultivating a growth mindset
 
 Thanks for visiting!
-
-About David Watson
-
-
-I help teams design, develop, and deploy software. Desktop to mobile, data center to cloud, containers to kubernetes: emerging technology is my focus.
-I work with organizations like R&D labs, software companies, or startups that are a pivot from becoming a software company, or being acquired by one.
-My career has followed web, mobile, and robotics technologies into autonomy, healthcare, and other domains that are ripe for disruption.
-I'm particularly interested in areas with organic complexity waiting to be overcome by an engineering approach that uses a lean cycle and emergent design to make progress.
-I'm casting about for my next opportunity, if you'd like to learn more, please see my resume.
-
-

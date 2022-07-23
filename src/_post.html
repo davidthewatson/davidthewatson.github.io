@@ -1,16 +1,14 @@
 <!doctype html>
 <html lang="en" data-theme="bootstrap">
-
 <head>
   {% include 'partials/_head.html' %}
 </head>
-
 <body>
   {% include 'partials/_header.html' %}
+  <main>
   {{ post_content_html }}
+</main>
   {% include 'partials/_footer.html' %}
-
   {% block footer_js %}{% endblock %}
 </body>
-
 </html>

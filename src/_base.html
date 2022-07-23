@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" data-theme="bootstrap">
+<html lang="en" data-theme="auto">
 
 <head>
   {% include 'partials/_head.html' %}
@@ -8,7 +8,9 @@
 <body>
   {% block body %}
   {% include 'partials/_header.html' %}
+<main>
   {{ post_content_html }}
+</main>
   {% endblock %}
   {% include 'partials/_footer.html' %}
   {% block footer_js %}{% endblock %}

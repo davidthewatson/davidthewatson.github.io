@@ -1,0 +1,6 @@
+About David Watson
+I help teams design, develop, and deploy software. Desktop to mobile, data center to cloud, containers to kubernetes: emerging technology is my focus.
+I work with organizations like R&D labs, software companies, or startups that are a pivot from becoming a software company, or being acquired by one.
+My career has followed web, mobile, and robotics technologies into autonomy, healthcare, and other domains that are ripe for disruption.
+I'm particularly interested in areas with organic complexity.
+I'm casting about for my next opportunity, if you'd like to learn more, please see my resume.
