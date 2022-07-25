@@ -1,12 +1,33 @@
-### [david@davidwatson.org](mailto:david@davidwatson.org) [<i class="fa-solid fa-print" style="font-style: normal;"></i>](/resume/index.pdf)
+<!doctype html>
+<html lang="en" data-theme="light">
 
-#### Objective
+<head>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="davidwatson.org">
+  <title></title>
+ <link rel="stylesheet" href="/css/pico.classless.min.css">
+ <link rel="stylesheet" href="/css/round_image.css">
 
-Help small teams deliver reliable, usable, and valuable software using incremental, reflective, and minimal process.
 
-#### Summary  
+<script defer src="/js/all.js"></script>
 
-Helped design, develop, and deploy software across desktop, internet, and mobile platforms.
+</head>
+
+<body>
+
+<main>
+<h1>David Watson</h1>
+<h3>(412) 614-9301</h3>
+<h4>Objective</h4>
+<p>Ship usable software crafted by a caring community with lightweight methods.</p>
+<h4>Summary</h4>
+<p>Designed, developed, and deployed complete software products with R&amp;D labs, software companies, and startups using docum
+entation, operations, and internet skills in a range of areas like design, education, and healthcare.
 
 #### Skills
 
