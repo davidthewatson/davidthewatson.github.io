@@ -1,5 +1,15 @@
 ### Welcome!
 
+I've organized this site simply to make navigation easy. At the top you'll find quick links into the content on-site: essays, about, and my resume. At the bottom, you'll find social links: github, linkedin, stackoverflow, and hackernews.
+
+I'm not a fan of social media having quit facebook, twitter, and most of the rest roughly ten years ago. What remains are the few social sites that provide value. 
+
+At least half of the social media startups have been acquired my Microsoft, but my experience has been that value has returned to Microsoft just as soon as Satya Nadella took the helm. 
+
+Don't get me started about Ballmer. I've focused a third of my career building software in C++ on Windows when Bill was still driving, then two thirds on Linux and Python, with some Ruby and C++ for good measure while Ballmer was just a backseat senile delinquent.
+
+Fortunately now, I can find a Unix CLI whether I'm working on Linux, Mac, or Windows. There's not a day I'm not grateful for WSL2.
+
 #### past
 I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
 
@@ -22,12 +32,33 @@ While diabetes eats my brain and music soothes my soul technology pays the bills
 
 So what's next?
 
-Reading
+I've organized this site around simple software tools that I built from components to make it easy to support my daily process.
+
+Organizing my evolutionary life much like my day job...
+
+* The input is reading 
+* The process is thinking
+* Manifested by acting
+* The output is writing
+
+
+##### Reading...
 
 * <a href="https://en.wikipedia.org/wiki/Jonathan_Haidt">Haidt</a>
 * <a href="https://en.wikipedia.org/wiki/Byung-Chul_Han">Han</a>
 * <a href="https://en.wikipedia.org/wiki/Yuval_Noah_Harari">Harari</a>
-* <a href="https://intranet.birmingham.ac.uk/as/libraryservices/library/asc/documents/public/short-guide-reflective-writing.pdf">Writing reflectively</a>
-* <a href="https://static1.squarespace.com/static/60fc07f4b214e93219a95b0f/t/619251f167f6323aa7b15b7b/1636979213702/The+Growth+Mindset+for+Positive+Rebels+by+Stefan+Lindegaard.pdf">Cultivating a growth mindset</a>
 
-##### Thanks for visiting!
+##### Thinking...
+
+* <a href="https://static1.squarespace.com/static/60fc07f4b214e93219a95b0f/t/619251f167f6323aa7b15b7b/1636979213702/The+Growth+Mindset+for+Positive+Rebels+by+Stefan+Lindegaard.pdf">Mindset</a>
+
+##### Acting...
+
+* [cms](https://github.com/davidthewatson/cms)
+* [site](https://github.com/davidthewatson/davidthewatson.github.io)
+
+##### Writing...
+
+* <a href="https://intranet.birmingham.ac.uk/as/libraryservices/library/asc/documents/public/short-guide-reflective-writing.pdf">Reflectively</a>
+
+###### Thanks for visiting!
