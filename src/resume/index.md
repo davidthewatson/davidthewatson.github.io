@@ -6,7 +6,7 @@ Ship usable software crafted by a caring community with lightweight methods.
 
 ### Summary
 
-Designed, developed, and deployed complete software products with R&amp;D labs, software companies, and startups using documentation, operations, and internet skills in a range of areas like design, education, and healthcare.
+Designed, developed, and deployed complete software products with R&amp;D labs, software companies, and startups using skills acquired in a range of areas like design, education, and healthcare.
 
 ### Skills
 
