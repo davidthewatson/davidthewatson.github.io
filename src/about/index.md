@@ -24,6 +24,8 @@ I eventually started running since walking seemed to take so much time. Now it's
 
 Bicycles remained a constant as I commuted 20 miles a day from the suburbs into the city only ten years ago.
 
+<img class="portrait" src="/images/dave_moto.jpg"></img>
+
 Motorcycles too have been a constant when I commuted nearly 100 miles a day into the city - a crazy commute that I deemed too far to bicycle, but pondered.
 
 I walked to work when I lived in the city. Those were halcyon days since they quietly longed to be the small town America we'd left behind in Pleasantville.
