@@ -2,13 +2,13 @@
 
 I've organized this site simply to make navigation easy. At the top you'll find quick links into the content on-site: essays, about, and my resume. At the bottom, you'll find social links: github, linkedin, stackoverflow, and hackernews.
 
-I'm not a fan of social media having quit facebook, twitter, and most of the rest roughly ten years ago. What remains are the few social sites that provide value. 
+I'm not a fan of social media having quit facebook, twitter, and most of the rest roughly ten years ago. What remains are the few social sites that provide value.
 
-At least half of the social media startups have been acquired my Microsoft, but my experience has been that value has returned to Microsoft just as soon as Satya Nadella took the helm. 
-
-Don't get me started about Ballmer. I've focused a third of my career building software in C++ on Windows when Bill was still driving, then two thirds on Linux and Python, with some Ruby and C++ for good measure while Ballmer was just a backseat senile delinquent.
+At least half of the social media startups have been acquired my Microsoft, but my experience has been that value has returned to Microsoft just as soon as Satya Nadella took the helm.
 
 Fortunately now, I can find a Unix CLI whether I'm working on Linux, Mac, or Windows. There's not a day I'm not grateful for WSL2.
+
+Despite the fact that I run on Linux or Mac when given the choice, I don't miss having to deal with the mess that was Unix emulation on Windows prior to the current generation post-WSL2.
 
 #### past
 I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
@@ -18,13 +18,14 @@ I can't blame Fallston for my <a href="https://aeon.co/essays/it-takes-psycholog
 I decided in music school that music wouldn't pay the rent, only to learn decades later that, indeed, music did pay the mortgage! Music was my avocation long before I could pay the mortgage with the proceeds.
 
 Technology has been my vocation every since completing a computer science internship.
+
 At that point, my career path was clear.
 
 #### present
 
 Meanwhile, I still have a few drums left from music school and years of gigging, along with an analog turntable from the seventies.
 
-For fun, I listen to trio fusion records and play with Logic Pro X on Mac along with a <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">Novation MIDI Controller, Roland V-Drums, and Tama Bubinga drum kit</a>. 
+For fun, I listen to trio fusion records and play with Logic Pro X on Mac along with a <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">Novation MIDI Controller, Roland V-Drums, and Tama Bubinga drum kit</a>.
 
 While diabetes eats my brain and music soothes my soul technology pays the bills.
 
@@ -36,7 +37,7 @@ I've organized this site around simple software tools that I built from componen
 
 Organizing my evolutionary life much like my day job...
 
-* The input is reading 
+* The input is reading
 * The process is thinking
 * Manifested by acting
 * The output is writing

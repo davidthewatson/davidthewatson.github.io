@@ -1,13 +1,14 @@
 ### About David Watson
-<img class="portrait" src="/images/watson.jpg"></img>
 
 Why a motorcycle?
 
 I've been obsessed with locomotion since I leared to ride a bike the summer before kindergarten.
 
-I learned to skate the previous winter. Dad filled the backyard with water and let it freeze. 
+I learned to skate the previous winter. Dad filled the backyard with water and let it freeze.
 
-The gap between the hill behind the house and the railroad tracks formed the perfect hockey rink - at least for kids. 
+The gap between the hill behind the house and the railroad tracks formed the perfect hockey rink - at least for kids.
+
+<img class="portrait" src="/images/watson.jpg"></img>
 
 Since winter was actually frigid for months, that frozen pond in the yard would be as solid as the bridge at town's end, which is still there today.
 
@@ -15,13 +16,13 @@ That bridge is closed to traffic but stands as a testament to the quality of ste
 
 The kind of improvisational insight that produced that backyard hockey rink would influence my life repeatedly without me ever realizing its genesis.
 
-So I went from walking everywhere with grandpa - he didn't have a driver's license - to watch pony league games. 
+So I went from walking everywhere with grandpa - he didn't have a driver's license - to watch pony league games.
 
 But I hated baseball. It moved too slowly for my bike-racing-and-hockey, risk-over-reward brain.
 
 I eventually started running since walking seemed to take so much time. Now it's slow jogging.
 
-Bicycles remained a constant as I commuted 20 miles a day from the suburbs into the city only ten years ago. 
+Bicycles remained a constant as I commuted 20 miles a day from the suburbs into the city only ten years ago.
 
 Motorcycles too have been a constant when I commuted nearly 100 miles a day into the city - a crazy commute that I deemed too far to bicycle, but pondered.
 
