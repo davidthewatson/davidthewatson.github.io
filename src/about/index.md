@@ -2,13 +2,13 @@
 
 Why a motorcycle?
 
+<img class="portrait" src="/images/dave_moto.jpg"></img>
+
 I've been obsessed with locomotion since I leared to ride a bike the summer before kindergarten.
 
 I learned to skate the previous winter. Dad filled the backyard with water and let it freeze.
 
 The gap between the hill behind the house and the railroad tracks formed the perfect hockey rink - at least for kids.
-
-<img class="portrait" src="/images/watson.jpg"></img>
 
 Since winter was actually frigid for months, that frozen pond in the yard would be as solid as the bridge at town's end, which is still there today.
 
@@ -18,13 +18,11 @@ The kind of improvisational insight that produced that backyard hockey rink woul
 
 So I went from walking everywhere with grandpa - he didn't have a driver's license - to watch pony league games.
 
-But I hated baseball. It moved too slowly for my bike-racing-and-hockey, risk-over-reward brain.
+But I disliked baseball. It moved too slowly for my bike-racing-and-hockey, risk-over-reward brain.
 
 I eventually started running since walking seemed to take so much time. Now it's slow jogging.
 
 Bicycles remained a constant as I commuted 20 miles a day from the suburbs into the city only ten years ago.
-
-<img class="portrait" src="/images/dave_moto.jpg"></img>
 
 Motorcycles too have been a constant when I commuted nearly 100 miles a day into the city - a crazy commute that I deemed too far to bicycle, but pondered.
 

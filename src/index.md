@@ -1,46 +1,30 @@
 ### Welcome!
 
-I've organized this site simply to make navigation easy. At the top you'll find quick links into the content on-site: essays, about, and my resume. At the bottom, you'll find social links: github, linkedin, stackoverflow, and hackernews.
+Links at the top into site content, links at the bottom go social. I quit most social media ten years ago. 
 
-I'm not a fan of social media having quit facebook, twitter, and most of the rest roughly ten years ago. What remains are the few social sites that provide value.
+#### Then 
 
-At least half of the social media startups have been acquired my Microsoft, but my experience has been that value has returned to Microsoft just as soon as Satya Nadella took the helm.
+I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>. I live in a neighborhood called <a href="https://en.wikipedia.org/wiki/Mt._Lebanon,_Pennsylvania">Mt Lebanon</a> with my lovely wife and dog.
 
-Fortunately now, I can find a Unix CLI whether I'm working on Linux, Mac, or Windows. There's not a day I'm not grateful for WSL2.
+<img class="portrait" src="/images/watson.jpg"></img>
 
-Despite the fact that I run on Linux or Mac when given the choice, I don't miss having to deal with the mess that was Unix emulation on Windows prior to the current generation post-WSL2.
+I can't blame Fallston for my <a href="https://aeon.co/essays/it-takes-psychological-flexibility-to-thrive-with-chronic-illness">childhood diabetes diagnosis</a> - it was a fine place then, as it is now. 
 
-#### past
-I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
+The place was so lovely that I discovered music and computers there in addition to diabetes.
 
-I can't blame Fallston for my <a href="https://aeon.co/essays/it-takes-psychological-flexibility-to-thrive-with-chronic-illness">diabetes diagnosis</a> - it was a lovely place then. The place was so lovely that I discovered music and computers there in addition to diabetes, as if they are even mildly or wildly related.
-
-I decided in music school that music wouldn't pay the rent, only to learn decades later that, indeed, music did pay the mortgage! Music was my avocation long before I could pay the mortgage with the proceeds.
+I decided in music school that music wouldn't pay the rent, only to learn decades later that, indeed, music did pay the mortgage! Music became my avocation long before I could pay the mortgage with the proceeds.
 
 Technology has been my vocation every since completing a computer science internship.
 
-At that point, my career path was clear.
-
-#### present
+#### Now
 
 Meanwhile, I still have a few drums left from music school and years of gigging, along with an analog turntable from the seventies.
 
-For fun, I listen to trio fusion records and play with Logic Pro X on Mac along with a <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">Novation MIDI Controller, Roland V-Drums, and Tama Bubinga drum kit</a>.
+For fun, I listen to trio fusion records and play with Logic Pro X along with a <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">Novation MIDI Controller, Roland V-Drums, and Tama Bubinga drum kit</a>.
 
-While diabetes eats my brain and music soothes my soul technology pays the bills.
+While <a href="https://pubmed.ncbi.nlm.nih.gov/26245963/">diabetes eats my brain</a>, and music soothes my soul, technology pays the bills.
 
-#### future
-
-So what's next?
-
-I've organized this site around simple software tools that I built from components to make it easy to support my daily process.
-
-Organizing my evolutionary life much like my day job...
-
-* The input is reading
-* The process is thinking
-* Manifested by acting
-* The output is writing
+####  When?
 
 
 ##### Reading...
@@ -52,11 +36,6 @@ Organizing my evolutionary life much like my day job...
 ##### Thinking...
 
 * <a href="https://static1.squarespace.com/static/60fc07f4b214e93219a95b0f/t/619251f167f6323aa7b15b7b/1636979213702/The+Growth+Mindset+for+Positive+Rebels+by+Stefan+Lindegaard.pdf">Mindset</a>
-
-##### Acting...
-
-* [cms](https://github.com/davidthewatson/cms)
-* [site](https://github.com/davidthewatson/davidthewatson.github.io)
 
 ##### Writing...
 
