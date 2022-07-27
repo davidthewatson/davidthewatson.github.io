@@ -6,11 +6,11 @@ Top icons link in to site, bottom icons link out from site.
 
 I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
 
-There are three things that make me unique and drive my growth, joy, and learning today.
+Three things from my childhood still drive my growth, joy, and learning today.
 
 <img class="portrait" src="/images/watson.jpg"></img>
 
-* Taming Type 1 Diabetes
+* Taming Diabetes
 
 * Making Music
 
@@ -18,7 +18,7 @@ There are three things that make me unique and drive my growth, joy, and learnin
 
 #### Now
 
-I live in a quaint Pittsburgh suburb called <a href="https://en.wikipedia.org/wiki/Mt._Lebanon,_Pennsylvania">Mt Lebanon</a> with my lovely wife and our energetic Vizsla.
+I live in a Pittsburgh suburb called <a href="https://en.wikipedia.org/wiki/Mt._Lebanon,_Pennsylvania">Mt Lebanon</a> with my lovely wife and our energetic Vizsla.
 
 I listen to trio jazz records and <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">make music</a> to relax and have fun.
 
