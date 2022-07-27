@@ -1,28 +1,27 @@
 ### Welcome!
 
-Links at the top into site content, links at the bottom go social. I quit most social media ten years ago. 
+Top icons link in to site, bottom icons link out from site. 
 
 #### Then 
 
-I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>. I live in a neighborhood called <a href="https://en.wikipedia.org/wiki/Mt._Lebanon,_Pennsylvania">Mt Lebanon</a> with my lovely wife and dog.
+I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburgh">Pittsburgh</a> called <a href="https://en.wikipedia.org/wiki/Fallston,_Pennsylvania">Fallston</a>.
+
+There are three things that make me unique and drive my growth, joy, and learning today.
 
 <img class="portrait" src="/images/watson.jpg"></img>
 
-I can't blame Fallston for my <a href="https://aeon.co/essays/it-takes-psychological-flexibility-to-thrive-with-chronic-illness">childhood diabetes diagnosis</a> - it was a fine place then, as it is now. 
+* Taming Type 1 Diabetes
 
-The place was so lovely that I discovered music and computers there in addition to diabetes.
+* Making Music
 
-I decided in music school that music wouldn't pay the rent, only to learn decades later that, indeed, music did pay the mortgage! Music became my avocation long before I could pay the mortgage with the proceeds.
-
-Technology has been my vocation every since completing a computer science internship.
+* Programming Computers
 
 #### Now
 
-Meanwhile, I still have a few drums left from music school and years of gigging, along with an analog turntable from the seventies.
+I live in a quaint Pittsburgh suburb called <a href="https://en.wikipedia.org/wiki/Mt._Lebanon,_Pennsylvania">Mt Lebanon</a> with my lovely wife and our energetic Vizsla.
 
-For fun, I listen to trio fusion records and play with Logic Pro X along with a <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">Novation MIDI Controller, Roland V-Drums, and Tama Bubinga drum kit</a>.
+I listen to trio jazz records and <a href="/essays/music/tama_starclassic_bubinga_drums_and_meinl_extra_dry_cymbals.html">make music</a> to relax and have fun.
 
-While <a href="https://pubmed.ncbi.nlm.nih.gov/26245963/">diabetes eats my brain</a>, and music soothes my soul, technology pays the bills.
 
 ####  When?
 
