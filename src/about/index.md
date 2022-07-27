@@ -4,7 +4,7 @@ Why a motorcycle?
 
 <img class="portrait" src="/images/dave_moto.jpg"></img>
 
-I've been obsessed with locomotion since I leared to ride a bike the summer before kindergarten.
+I've been obsessed with locomotion since I learned to ride a bike the summer before kindergarten.
 
 I learned to skate the previous winter. Dad filled the backyard with water and let it freeze.
 
