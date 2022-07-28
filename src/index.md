@@ -1,5 +1,7 @@
 ### Welcome!
 
+<img class="portrait" src="/images/dave_wendy_jade.jpg"></img>
+
 Top icons link in-to-site, bottom icons link out-of-site. 
 
 #### Then 
@@ -8,7 +10,6 @@ I'm a kid from a tiny town near <a href="https://en.wikipedia.org/wiki/Pittsburg
 
 Three things from my childhood still drive my growth, joy, and learning today.
 
-<img class="portrait" src="/images/dave_wendy_jade.jpg"></img>
 
 * Taming Diabetes
 

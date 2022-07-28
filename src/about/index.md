@@ -1,10 +1,16 @@
 ### About David Watson
 
-Why a motorcycle?
-
 <img class="portrait" src="/images/dave_moto.jpg"></img>
 
-I've been obsessed with locomotion since I learned to ride a bike the summer before kindergarten.
+Why a motorcycle? In shorts and a t-shirt?
+
+You'll note I'm not actually _riding_ the motorcycle in the picture. I commuted for years in heavy city traffic with a helmet, jacket, jeans, gloves, and boots. 
+
+Dress for the fall, not for the ride.
+
+You won't see me on a _moving_ motorcycle in shorts, sandals, and a t-shirt.
+
+At any rate, I've been obsessed with locomotion since I learned to ride a bike the summer before kindergarten.
 
 I learned to skate the previous winter. Dad filled the backyard with water and let it freeze.
 
