@@ -14,10 +14,6 @@ Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2).
 
 Since 2005, wrote Python and shell scripts daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ and shell scripts daily, Python or Perl occasionally.
 
-#### DevOps, Containers & Virtual Machines
-
-Built devops culture since 2010 - the first year my team removed silos between dev and ops using IAC and CI/CD. Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000.
-
 #### Markup & Markdown
 
 Prefer markup, markdown, or plain text for a variety of technical documentation, including this resume.
@@ -29,6 +25,10 @@ Used PostgreSQL since 2008 for its support for relational and schemaless data pl
 #### Methods
 
 Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), and [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a).
+
+#### DevOps and SRE Culture
+
+Since 2010 - the first year my team built culture using SRE and devops tools to move from fire-fighting to event-driven gitops using IAC and CI/CD. Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000.
 
 ## Experience
 
