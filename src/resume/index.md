@@ -10,9 +10,7 @@ Designed, developed, and deployed complete software products with R&amp;D labs, 
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2).
-
-Since 2005, wrote Python and shell scripts daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ and shell scripts daily, Python or Perl occasionally.
+Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2). Since 2005, wrote Python and shell scripts daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ and shell scripts daily, Python or Perl occasionally.
 
 #### Markup & Markdown
 
@@ -20,15 +18,11 @@ Prefer markup, markdown, or plain text for a variety of technical documentation,
 
 #### Databases
 
-Used PostgreSQL since 2008 for its support for relational and schemaless data plus numerous extensions.
+Used PostgreSQL since 2008 to blend relational and schemaless data at runtime. Used MySQL and related variants since 2010. Used redis, couchdb, and similar schemaless stores for a variety of lightweight jobs.
 
-#### Methods
+#### Lightgweight Methods, DevOps, and SRE
 
-Tailored [agile](http://agilemanifesto.org/principles.html) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), and [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a).
-
-#### DevOps and SRE Culture
-
-Since 2010 - the first year my team built culture using SRE and devops tools to move from fire-fighting to event-driven gitops using IAC and CI/CD. Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000.
+Tailored [lightweight methods](https://en.wikipedia.org/wiki/Lightweight_methodology) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), and [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a). Since 2010, used SRE and devops ideas and tools to move from fire-fighting ops to event-driven automation using IAC and CI/CD. Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000.
 
 ## Experience
 
