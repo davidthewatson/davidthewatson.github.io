@@ -1,4 +1,4 @@
-### About David Watson
+### About
 
 <img class="portrait" src="/images/dave_moto.jpg"></img>
 

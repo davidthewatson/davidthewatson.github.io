@@ -1,4 +1,4 @@
-### Welcome!
+### Home
 
 <img class="portrait" src="/images/dave_wendy_jade.jpg"></img>
 
