@@ -2,7 +2,7 @@
 
 <img class="portrait" src="/images/books.jpg"></img>
 
-I used delicious when Joshua Schacter shipped it 20 years ago. I haven' used  bookmarking service or twitter for a decade, but when I have a link to remember and I have not much to say about it, this is where it goes.
+I haven' used  [delicious](https://en.wikipedia.org/wiki/Joshua_Schachter) or twitter for a decade, but this is where I put links to remember, but little to say.
 
 
-<ul><li><a href="/links/divinity_in_the_disguise_of_mental_illness.html">Divinity In The Disguise Of Mental Illness</a></li><li><a href="/links/five_stages_of_sre.html">Five Stages Of Sre</a></li><li><a href="/links/insulin_causes_diminished_sensitivity_to_hypoglycemia.html">Insulin Causes Diminished Sensitivity To Hypoglycemia</a></li><li><a href="/links/the_mad_genius_mystery.html">The Mad Genius Mystery</a></li><li><a href="/links/wiki_as_pattern_language.html">Wiki As Pattern Language</a></li></ul>
+<ul><li><a href="/links/bill_gates_at_lakeside.html">Bill Gates At Lakeside</a></li><li><a href="/links/divinity_in_the_disguise_of_mental_illness.html">Divinity In The Disguise Of Mental Illness</a></li><li><a href="/links/five_stages_of_sre.html">Five Stages Of Sre</a></li><li><a href="/links/insulin_causes_diminished_sensitivity_to_hypoglycemia.html">Insulin Causes Diminished Sensitivity To Hypoglycemia</a></li><li><a href="/links/on_travel.html">On Travel</a></li><li><a href="/links/the_mad_genius_mystery.html">The Mad Genius Mystery</a></li><li><a href="/links/wiki_as_pattern_language.html">Wiki As Pattern Language</a></li></ul>
