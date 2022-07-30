@@ -1,16 +1,16 @@
 ## Objective
 
-Ship usable software crafted by a caring community using lightweight methods.
+Ship usable software crafted by a caring community using lightweight methods and modern tools.
 
 ## Summary
 
-Designed, developed, and deployed complete software products with R&amp;D labs, software companies, and startups using skills acquired working in design, education, and healthcare.
+Designed, developed, and deployed complete software products with R&amp;D labs, software companies, and startups using skills acquired working in design, education, finance, healthcare, and medical devices.
 
 ## Skills
 
 #### Operating Systems & Programming Languages
 
-Productive working on Linux (Unix-like), MacOS (BSD), and Windows (WSL2). Since 2005, wrote Python and shell scripts daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ and shell scripts daily, Python or Perl occasionally.
+Productive working on Linux, MacOS (BSD), and Windows (WSL2). Since 2005, wrote Python and shell scripts daily, C++ or Ruby occasionally. Prior to 2005 wrote C++ and shell scripts daily, Python or Perl occasionally.
 
 #### Markup & Markdown
 
@@ -20,7 +20,7 @@ Prefer markup, markdown, or plain text for a variety of technical documentation,
 
 Used PostgreSQL since 2008 to blend relational and schemaless data at runtime. Used MySQL and related variants since 2010. Used redis, couchdb, and similar schemaless stores for a variety of lightweight jobs.
 
-#### Lightgweight Methods, DevOps, and SRE
+#### Methods, DevOps, & Site Reliability Engineering
 
 Tailored [lightweight methods](https://en.wikipedia.org/wiki/Lightweight_methodology) based on a synthesis of research from [Alistair Cockburn](https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php), [Allen Holub](https://holub.com/heuristics/), and [Bonnitta Roy](https://medium.com/agile-sensemaking/why-sensemaking-will-save-agile-e1ad99b4805a). Since 2010, used SRE and devops ideas and tools to move from fire-fighting ops to event-driven automation using IAC and CI/CD. Used Docker since 2015, Kubernetes since 2017, and VMWare since 2000.
 
@@ -38,11 +38,11 @@ Tailored [lightweight methods](https://en.wikipedia.org/wiki/Lightweight_methodo
   * Led weekly retrospectives to improve cadence, velocity, and teamwork
   * Implemented crawler data pipeline using Python, Django, PostgreSQL, Docker, and Kubernetes/AWS
 
-<div style="page-break-after: always;"></div>
-
 #### VP Product Development    [Wellbridge Health](http://www.wellbridgehealth.com/)    2015 - 2016
   * Led development team through HIPAA-compliant [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) with SPA UX design from MAYA
   * Implemented REST API using Python/Django, [DRF](https://www.django-rest-framework.org/) and PostgreSQL serving EmberJS SPA on Aptible
+
+<div style="page-break-after: always;"></div>
 
 #### VP Engineering    [Hire an Esquire](https://hireanesquire.com/)    2014
   * Led engineering team to redesign and simplify [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)
