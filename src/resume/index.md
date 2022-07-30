@@ -26,7 +26,7 @@ Tailored [lightweight methods](https://en.wikipedia.org/wiki/Lightweight_methodo
 
 ## Experience
 
-#### Software Engineering Specialist [Caterpillar](https://www.cat.com/enUS.html) 2018-2020, 2021
+#### Software Engineering Specialist [Caterpillar](https://www.cat.com/en_US.html) 2018-2020, 2021
   * Built, reviewed and profiled C++ code on Linux from Intel x86 to ARM for Autonomy Group
   * Guided company-wide directives on docker container usage for build engineering and CI/CD on Azure
 
