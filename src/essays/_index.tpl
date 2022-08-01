@@ -2,6 +2,4 @@
 
 <img class="portrait" src="/images/handwriting.jpg"></img>
 
-This is my TIL (Today I Learned), Topics range from topics I've studied for decades to those I'd like to learn.
- 
-
+Short-form, < 2,000 words, ~ 5 minutes max read.

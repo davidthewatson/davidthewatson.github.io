@@ -2,34 +2,16 @@
 
 <img class="portrait" src="/images/dave_moto.jpg"></img>
 
-Why a motorcycle? In shorts and a t-shirt?
+Why a motorcycle? In shorts and a t-shirt with sandals? You'll note I'm not actually _riding_ the motorcycle in the picture. I survived decades  commuting in city traffic with a helmet, jacket, jeans, gloves, and boots. 
 
-You'll note I'm not actually _riding_ the motorcycle in the picture. I commuted for years in heavy city traffic with a helmet, jacket, jeans, gloves, and boots. 
+I've been obsessed with locomotion since I learned to ride a bike the summer before kindergarten. I learned to skate the prior winter. Dad filled the backyard with water and let it freeze into a small but spectacularly groomed hockey. Who needed a Zamboni?
 
-Dress for the fall, not for the ride.
+The kind of improvisational impetus that produced that backyard hockey rink would influence my life repeatedly without me ever grasping its origin.
 
-You won't see me on a _moving_ motorcycle in shorts, sandals, and a t-shirt.
+I eventually started running since walking seemed to take so much time. Now it's [slow jogging](https://slowjogginginternational.com/).
 
-At any rate, I've been obsessed with locomotion since I learned to ride a bike the summer before kindergarten.
+Bicycles remained a constant as I commuted through city neighborhoods just a few years ago. I still miss dodging buses and pedestrians.
 
-I learned to skate the previous winter. Dad filled the backyard with water and let it freeze.
+I have a garage full of bicyles and a motorcycle, but I'm trying to do more with less.
 
-The gap between the hill behind the house and the railroad tracks formed the perfect hockey rink - at least for kids.
-
-Since winter was actually frigid for months, that frozen pond in the yard would be as solid as the bridge at town's end, which is still there today.
-
-That bridge is closed to traffic but stands as a testament to the quality of steel that once grew here like a carefully cultivated garden.
-
-The kind of improvisational insight that produced that backyard hockey rink would influence my life repeatedly without me ever realizing its genesis.
-
-So I went from walking everywhere with grandpa - he didn't have a driver's license - to watch pony league games.
-
-But I disliked baseball. It moved too slowly for my bike-racing-and-hockey, risk-over-reward brain.
-
-I eventually started running since walking seemed to take so much time. Now it's slow jogging.
-
-Bicycles remained a constant as I commuted 20 miles a day from the suburbs into the city only ten years ago.
-
-Motorcycles too have been a constant when I commuted nearly 100 miles a day into the city - a crazy commute that I deemed too far to bicycle, but pondered.
-
-I walked to work when I lived in the city. Those were halcyon days since they quietly longed to be the small town America we'd left behind in Pleasantville.
+I walked to work when I lived in the city but I still walk to the bakery and the barber.
