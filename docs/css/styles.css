@@ -1,0 +1,83 @@
+/* Indigo Light scheme (Default) */
+/* Can be forced with data-theme="light" */
+[data-theme="light"],
+:root:not([data-theme="dark"]) {
+  --primary: #3949ab;
+  --primary-hover: #303f9f;
+  --primary-focus: rgba(57, 73, 171, 0.125);
+  --primary-inverse: #FFF;
+}
+
+/* Indigo Dark scheme (Auto) */
+/* Automatically enabled if user has Dark mode enabled */
+@media only screen and (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --primary: #3949ab;
+    --primary-hover: #3f51b5;
+    --primary-focus: rgba(57, 73, 171, 0.25);
+    --primary-inverse: #FFF;
+  }
+}
+
+/* Indigo Dark scheme (Forced) */
+/* Enabled if forced with data-theme="dark" */
+[data-theme="dark"] {
+  --primary: #3949ab;
+  --primary-hover: #3f51b5;
+  --primary-focus: rgba(57, 73, 171, 0.25);
+  --primary-inverse: #FFF;
+}
+
+/* Indigo (Common styles) */
+:root {
+  --form-element-active-border-color: var(--primary);
+  --form-element-focus-color: var(--primary-focus);
+  --switch-color: var(--primary-inverse);
+  --switch-checked-background-color: var(--primary);
+}
+
+img.portrait {
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+}
+
+.dw-org {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+img.icon {
+  height: 96px;
+  width: 96px;
+  display: block;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+img.icon-footer {
+  height: 80px;
+  width: 80px;
+  display: block;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+img.icon-headshot {
+  height: 128px;
+  width: 128px;
+  display: block;
+  border-radius: 50%;
+  object-fit: cover;
+  float: right;
+  margin: 10px;
+}
+
+.icon_shadow {
+  height: 80px;
+  width: 80px;
+  border-style: hidden;
+}
+
