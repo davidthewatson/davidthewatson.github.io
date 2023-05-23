@@ -53,13 +53,13 @@ simply a way of waking up to the very life we're living. <footer>- <cite>[John C
 Software started as a *personal* science for me - peeking and poking at *personal* computers.
 
 Decades later, I'd realize that [Xerox PARC's formative years](https://spectrum.ieee.org/xerox-parc) 
-fortuitously coincided with  my early childhood education.
+coincided with  my early childhood education.
 Five years later, we breathed software
 from Apple to Atari and beyond. No surprise, then, that our school resembled a mix of 
 [Alan Kay's employers](https://en.wikipedia.org/wiki/Alan_Kay#Subsequent_work) and 
 [Bill Gates schooling](/people/bill_gates_at_lakeside.html). 
 
-From graduating high school to graduating college, the fortuitous timing of innovation continued with my favorite database, operating system, and programming language: 
+From graduating high school to graduating college, the timing of innovation continued with my favorite database, operating system, and programming language: 
 
  * [Michael Stonebraker](https://amturing.acm.org/award_winners/stonebraker_1172121.cfm) released Postgres
  * Guido van Rossum released Python 
