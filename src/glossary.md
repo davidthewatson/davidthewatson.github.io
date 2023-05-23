@@ -10,7 +10,7 @@
   <dt><strong>AVM</strong></dt>
   <dd><a href="https://www.alexanderrea.com/project/mcdonalds-happy-world/"><s>Autonomous</s> Vending Machines</a>: Freedom is not a product</dd>
   <dt><strong>AID</strong></dt>
-  <dd><a href=""><s>Audtonomous</s> Insulin (Over/Under) Dose</a>: Caused by Unreliable CGM data</dd>
+  <dd><a href=""><s>Autonomous</s> Insulin (Over/Under) Dose</a>: Caused by Unreliable CGM data</dd>
   <dt><strong>tldr;</strong></dt>
   <dd>Too Long, Didn't Read - A summary for those governed by time</dd>
   <dt><strong>WIL</strong></dt>
