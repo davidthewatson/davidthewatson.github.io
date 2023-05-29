@@ -65,14 +65,12 @@ From graduating high school to graduating college, the timing of innovation cont
  * Guido van Rossum released Python 
  * Linus Torvalds released Linux
 
-In a decade, open source software (OSS) established itself as a viable alternative. 
+In a decade, open source software (OSS) established itself as a viable alternative to established commercial software. 
 The cultural transformation would take another decade. Nothing has influenced my work more than using Linux, Postgres, and Python. My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
-* [Autonomy](https://www.cmu.edu/regional-impact/assets/docs/nrec-report.pdf) and [Robotics](https://en.wikipedia.org/wiki/Foster-Miller_TALON#Deployment)
 * [Cancer](http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf) and [Diabetes](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps#:~:text=they%20craft%20glucose%20meters%20for%20diabetics) 
 * [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/collaboration/cobind_retrospective.html) 
-* [Mergers & Acquisitions](https://en.wikipedia.org/wiki/CA_Technologies#:~:text=In%201995%2C%20Legent%20Corporation%20was%20acquired%20for%20%241.78%20billion%2C%20the%20biggest%2Dever%20acquisition%20in%20the%20software%20industry%20at%20that%20time%2C%20and%20Cheyenne%20Software%20for%20%241.2%20billion%20in%201996.%20CA%20executed%20the%20software%20industry%27s%20then%2Dlargest%20acquisition%20(%243.5%20billion)%20via%20Platinum%20Technology%20International%20in%201999.)
 
 > It is software that gives form and purpose to
 a programmable machine, much as a sculptor shapes clay. Leonardo called music
