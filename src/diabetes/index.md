@@ -1,3 +1,0 @@
-##### Diabetes
-
-<ul><li><a href="/diabetes/dexcom_g6.html">Dexcom G6</a></li><li><a href="/diabetes/evan_calder_williams_the_honeyed_siphon.html">Evan Calder Williams The Honeyed Siphon</a></li><li><a href="/diabetes/insulin_pricing.html">Insulin Pricing</a></li><li><a href="/diabetes/tandem_tslim_x2.html">Tandem Tslim X2</a></li><li><a href="/diabetes/the_dawn_of_insulin_socialism.html">The Dawn Of Insulin Socialism</a></li></ul>

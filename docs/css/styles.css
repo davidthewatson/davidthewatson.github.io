@@ -37,8 +37,8 @@
 }
 
 img.portrait {
-  width:150px;
-  height:150px;
+  width: 150px;
+  height: 150px;
   border-radius: 50%;
   object-fit: cover;
   float: right;
@@ -58,8 +58,8 @@ img.icon {
 }
 
 img.icon-footer {
-  height: 80px;
-  width: 80px;
+  height: 60px;
+  width: 60px;
   display: block;
   border-radius: 50%;
   object-fit: cover;
@@ -80,4 +80,3 @@ img.icon-headshot {
   width: 80px;
   border-style: hidden;
 }
-

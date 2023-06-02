@@ -1,3 +1,0 @@
-##### Technology
-
-<ul><li><a href="/technology/about_fzf.html">About Fzf</a></li><li><a href="/technology/ai_on_the_desktop.html">Ai On The Desktop</a></li><li><a href="/technology/end_of_manual_transmission.html">End Of Manual Transmission</a></li><li><a href="/technology/how_kubernetes_reinvented_virtual_machines.html">How Kubernetes Reinvented Virtual Machines</a></li><li><a href="/technology/improv_defined_kubernetes.html">Improv Defined Kubernetes</a></li><li><a href="/technology/pipeline_static_site_generation.html">Pipeline Static Site Generation</a></li><li><a href="/technology/top_3_linux_distros_2022.html">Top 3 Linux Distros 2022</a></li></ul>

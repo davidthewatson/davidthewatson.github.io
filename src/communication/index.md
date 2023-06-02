@@ -1,3 +1,0 @@
-##### Communication
-
-<ul><li><a href="/communication/mcluhan-violence-as-quest-for-identity.html">Mcluhan-Violence-As-Quest-For-Identity</a></li><li><a href="/communication/neil_postman_on_parental_control_of_children_information_environment.html">Neil Postman On Parental Control Of Children Information Environment</a></li><li><a href="/communication/of_god_and_machines.html">Of God And Machines</a></li><li><a href="/communication/sherry_turkle_on_conversations_with_the_ghost_in_the_machine.html">Sherry Turkle On Conversations With The Ghost In The Machine</a></li></ul>
