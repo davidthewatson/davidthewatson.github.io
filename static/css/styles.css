@@ -58,8 +58,8 @@ img.icon {
 }
 
 img.icon-footer {
-  height: 60px;
-  width: 60px;
+  height: 128px;
+  width: 128px;
   display: block;
   border-radius: 50%;
   object-fit: cover;
