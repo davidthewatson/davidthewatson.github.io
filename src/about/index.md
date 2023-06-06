@@ -64,16 +64,18 @@ From graduating high school to graduating college, the timing of innovation cont
  * Guido van Rossum released Python 
  * Linus Torvalds released Linux
 
-In a decade, open source software (OSS) established itself as a viable alternative to established commercial software. 
-The cultural transformation would take another decade. Nothing has influenced my work more than using Linux, Postgres, and Python. My work has spanned:
+In a decade, open source software (OSS) established itself as a viable alternative to established commercial software. The cultural transformation would take another decade. 
+
+My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
 * [Cancer](http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf) and [Diabetes](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps#:~:text=they%20craft%20glucose%20meters%20for%20diabetics) 
 * [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/collaboration/cobind_retrospective.html) 
+
+But nothing has influenced my work more than Linux, Postgres, and Python. 
 
 > It is software that gives form and purpose to
 a programmable machine, much as a sculptor shapes clay. Leonardo called music
 *shaping the invisible*, and his phrase is even more apt as a description of
 software. <footer>- <cite>[Alan Kay][3]</cite></footer>
 [3]: https://en.wikipedia.org/wiki/Alan_Kay
-
