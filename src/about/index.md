@@ -23,9 +23,9 @@ crash. Slow jogging long distances has taught me that [the race is not always to
 I've spent a lifetime recovering from my early childhood diabetes diagnosis by building an organic protocol of cycling, feasting, fasting, meditating, running, and resting.
 
 *Diabetes diagnosis is a lesson in disguise,  
-Repeated trauma from diagnosis to demise,  
-Diabetes is an education by improvisation,  
-A data dissertation sans orchestration.*
+Trauma education from diagnosis to demise,  
+Diabetes in remission seems unattainable,  
+Until you realize 
 
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig

@@ -58,8 +58,8 @@ img.icon {
 }
 
 img.icon-footer {
-  height: 128px;
-  width: 128px;
+  height: 96px;
+  width: 96px;
   display: block;
   border-radius: 50%;
   object-fit: cover;
@@ -79,4 +79,43 @@ img.icon-headshot {
   height: 80px;
   width: 80px;
   border-style: hidden;
+}
+
+table {
+  width: 95%;
+  padding: 4px;
+}
+
+table.skills tr th {
+  padding: 8px;
+  background-color: lightgray;
+  font-weight: bold;
+  text-align: center;
+}
+
+table.skills tr td {
+  text-align: center;
+  padding: 0;
+}
+
+table.experience tr th {
+  background-color: lightgray;
+  font-weight: bold;
+  padding: 6px;
+}
+
+table.experience tr td {
+  padding: 3px;
+}
+
+table.experience tr:nth-of-type(odd) td:first-child {
+  font-weight: bold;
+}
+
+table.education tr td:first-child {
+  font-weight: bold;
+}
+
+#short-term-experience {
+  page-break-before: always;
 }
