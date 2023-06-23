@@ -1,10 +1,10 @@
 <h3>Summary</h3>
 
-  Prototype programmer using rapid R&D experiments to design, develop, and deploy complete, productized software. 
+  Programmer cycling prototype experiments to design, develop, and deploy complete, productized, commercial software. 
 
 <h3> Objective</h3>
 
-  Craft software with a team of caring, daring, reflective  creatives sharing common <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a>.
+  Craft software with a caring, daring, reflective team of creatives sharing common&nbsp;&nbsp;<a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a>.
 
 <h3>Knowledge and Skills</h3>
   <p>
@@ -142,18 +142,6 @@
   </table>
   </p>
 
-  <h3>Open Source</h3>
-  <p>
-  <table class="experience">
-  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap">2017</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle/td></tr>
-  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Wrote the BodyTrace API and the PostgREST server while prototyping the Wellbridge Health JSON-API to EmberData</td></tr>
-  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap">2003</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Contributed the servlet implementation to Marquee XML-RPC library</td></tr>
-  </table>
-  </p>
-
   <h3>Awards</h3>
 
   <p>
@@ -165,23 +153,35 @@
   </table>
   </p>
 
+    <h3>Open Source</h3>
+  <p>
+  <table class="experience">
+  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap">2017</td></tr> 
+  <tr><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle/td></tr>
+  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
+  <tr><td nowrap="nowrap" colspan="3">Wrote the BodyTrace API and the PostgREST server while prototyping the Wellbridge Health JSON-API to EmberData</td></tr>
+  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap">2003</td></tr> 
+  <tr><td nowrap="nowrap" colspan="3">Contributed the servlet implementation to Marquee XML-RPC library</td></tr>
+  </table>
+  </p>
+
   <h3>Quotes From Coworkers <a href="https://www.linkedin.com/in/davidthewatson/details/recommendations/"><i class="far fa-comment-dots"></i></a></h3>
 
-  <blockquote>He's smart, dedicated and diligent but...&nbsp;<i class="fas fa-comment-dots"></i></blockquote>
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He's smart, dedicated and diligent but...</blockquote>
 
-  <blockquote>What impresses me most is his curiosity, critical thinking, and commitment to continued learning. He genuinely cares about the users of 
-  systems he's building.&nbsp;<i class="fas fa-comment-dots"></i></blockquote>
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;What impresses me most is his curiosity, critical thinking, and commitment to continued learning. He genuinely cares about the users of 
+  systems he's building.</blockquote>
 
-  <blockquote>He also has a genuine interest in nurturing and
-  mentoring others to help them achieve their goals.&nbsp;<i class="fas fa-comment-dots"></i></blockquote>
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He also has a genuine interest in nurturing and
+  mentoring others to help them achieve their goals.</blockquote>
 
-  <blockquote>His sense of business, technology, linux platform knowledge and
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;His sense of business, technology, linux platform knowledge and
   insights into usability topped with his skills as a top-notch technical
-  author makes him a great team member and collaborator.&nbsp;<i class="fas fa-comment-dots"></i></blockquote>
+  author makes him a great team member and collaborator.</blockquote>
 
-  <blockquote>What strikes you the most when working with David is his
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;What strikes you the most when working with David is his
   ability to see the bigger technological picture and his painstaking
-  attention to subtle nuances of detail.&nbsp;<i class="fas fa-comment-dots"></i></blockquote>
+  attention to subtle nuances of detail.</blockquote>
 
   <h3>Education and Learning</h3>
 
