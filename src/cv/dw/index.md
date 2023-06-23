@@ -1,12 +1,12 @@
-  ### Summary
+<h3>Summary</h3>
 
   Prototype programmer using rapid R&D experiments to design, develop, and deploy complete, productized software. 
 
-  ### Objective
+<h3> Objective</h3>
 
   Craft software with a team of caring, daring, reflective  creatives sharing common <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a>.
 
-  ### Knowledge and Skills
+<h3>Knowledge and Skills</h3>
   <p>
   <table class="skills">
   <thead>
@@ -147,10 +147,8 @@
   <table class="experience">
   <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap">2017</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle/td></tr>
-  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Coded the python client to the server I built at Wellbridge Health prototyping the API</td></tr>
-  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a></td><td nowrap="nowrap">2015</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Wrote the BodyTrace scale API, which we used at Wellbridge Health for remote healthcare management</td></tr>
+  <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
+  <tr><td nowrap="nowrap" colspan="3">Wrote the BodyTrace API and the PostgREST server while prototyping the Wellbridge Health JSON-API to EmberData</td></tr>
   <tr><td nowrap="nowrap">Individual Technical Contributor</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap">2003</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Contributed the servlet implementation to Marquee XML-RPC library</td></tr>
   </table>
