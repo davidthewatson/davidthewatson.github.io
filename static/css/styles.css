@@ -36,6 +36,12 @@
   --switch-checked-background-color: var(--primary);
 }
 
+nav li.brand {
+  font-size: xx-large;
+  font-weight: 600;
+  ;
+}
+
 img.portrait {
   width: 150px;
   height: 150px;
@@ -57,9 +63,9 @@ img.icon {
   object-fit: cover;
 }
 
-img.icon-footer {
-  height: 96px;
-  width: 96px;
+img.icon-header {
+  height: 128px;
+  width: 128px;
   display: block;
   border-radius: 50%;
   object-fit: cover;
