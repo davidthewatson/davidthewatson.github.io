@@ -80,17 +80,17 @@ Designing, developing, and deploying software from feasible prototype to shippab
   <p>
   <table class="experience">
   <tbody>
-  <tr><td nowrap="nowrap">SE Specialist</td><td nowrap="nowrap"><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td nowrap="nowrap">2018-2020</td></tr>
+  <tr><td nowrap="nowrap">SW Eng. Specialist</td><td nowrap="nowrap"><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td nowrap="nowrap">2018-2020</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Designed storage system on Kubernetes; Worked with IT to make provisioning private cloud infrastructure feasible</td></tr>
-  <tr><td nowrap="nowrap">Senior SW Dev</td><td nowrap="nowrap"><a href="https://www.realpage.com/">Rent Jungle</a></td><td nowrap="nowrap">2016-2018</td></tr>
+  <tr><td nowrap="nowrap">Sr. SW Dev.</td><td nowrap="nowrap"><a href="https://www.realpage.com/">Rent Jungle</a></td><td nowrap="nowrap">2016-2018</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Coded crawler data pipeline from Docker and Kubernetes on Linux & Mac to AWS in Python with Postgres &amp; MySQL</td></tr>
-  <tr><td nowrap="nowrap">VP Product</td><td nowrap="nowrap"><a href="http://www.wellbridgehealth.com/">Wellbridge Health</a></td><td nowrap="nowrap">2015-2016</td></tr>
+  <tr><td nowrap="nowrap">VP Product Dev.</td><td nowrap="nowrap"><a href="http://www.wellbridgehealth.com/">Wellbridge Health</a></td><td nowrap="nowrap">2015-2016</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Led product development team from MVP to telehealth sensor system in Python, Flask, Django, Postgres, and Aptible</td></tr>
-  <tr><td nowrap="nowrap">Senior SW Dev</td><td nowrap="nowrap"><a href="https://www.forever.com/">Forever</a></td><td nowrap="nowrap">2013-2014</td></tr>
+  <tr><td nowrap="nowrap">Senior SW Dev.</td><td nowrap="nowrap"><a href="https://www.forever.com/">Forever</a></td><td nowrap="nowrap">2013-2014</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Prototyped MVP in Python, Flask, NoSQL; Ported system to Ruby/Rails/Postgres for production deployment on Heroku</td></tr>
   <tr><td nowrap="nowrap">Senior Eng.</td><td nowrap="nowrap"><a href="https://www.mindmatrix.net/">SMaSh</a></td><td nowrap="nowrap">2011-2012</td> 
   <tr><td nowrap="nowrap" colspan="3">Built conversational text interface to track blood glucose for diabetes patients in Python, Flask, Postgres, and Heroku</td></tr>
-  <tr><td nowrap="nowrap">SD Mgr.</td><td nowrap="nowrap"><a href="https://www.wellspring.com/">Wellspring</a></td><td nowrap="nowrap">2010-2011</td> 
+  <tr><td nowrap="nowrap">SW Dev. Mgr.</td><td nowrap="nowrap"><a href="https://www.wellspring.com/">Wellspring</a></td><td nowrap="nowrap">2010-2011</td> 
   <tr><td nowrap="nowrap" colspan="3">Transformed legacy ops from data center to automated CI/CD SaaS deployment cutting daily support to near zero</td></tr>
   <tr><td nowrap="nowrap">Project Eng.</td><td nowrap="nowrap"><a href="https://www.qinetiq.com/en/what-we-do/services-and-products/talon-medium-sized-tactical-robot">Applied Perception</a></td><td nowrap="nowrap">2008-2009</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Ported C#.net GUI to Linux OCU in C++/Qt; Programmed Python XML sonar parser/viz between C++ GUI &amp; HULS</td></tr></tr>
@@ -100,7 +100,7 @@ Designing, developing, and deploying software from feasible prototype to shippab
   <tr><td nowrap="nowrap" colspan="3">Developed web stack on Linux & Mac in Python and NoSQL database; built predecessor to Hue in C#.net for Philips<td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap">
   <tr><td nowrap="nowrap">Co-Founder</td><td nowrap="nowrap"><a href="https://no.wikipedia.org/wiki/Cobind_Desktop">Cobind</a></td><td nowrap="nowrap">2003-2004</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Won an Idea Foundry Transformation Fellowship; launched DIY Linux Tools startup; built custom Linux distros online</td></tr>
-  <tr><td nowrap="nowrap">Senior SW Eng.</td><td nowrap="nowrap"><a href="https://www.msa.com/">Management Science Associates</a></td><td nowrap="nowrap">2000-2003</td></tr>
+  <tr><td nowrap="nowrap">Sr. SW Eng.</td><td nowrap="nowrap"><a href="https://www.msa.com/">Management Science Associates</a></td><td nowrap="nowrap">2000-2003</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Created VBA plugin enabling remote product import over SOAP protocol from Microsoft Excel to product database</td></tr>
   <tr><td nowrap="nowrap">Principal MTS</td><td nowrap="nowrap"><a href="https://en.wikipedia.org/wiki/CA_logies">CA, Legent, Platinum</a></td><td nowrap="nowrap">1995-2000</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Wrote GUI features (CMS, NMS) in C++ on Windows and OS/2 for Automation Point, Raveler, and Unicenter products</td></tr>
@@ -114,22 +114,22 @@ Designing, developing, and deploying software from feasible prototype to shippab
   <tr><td nowrap="nowrap">Consultant</td><td nowrap="nowrap"><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td nowrap="nowrap">2021</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></td></tr>
 
-  <tr><td nowrap="nowrap">Senior MTS</td><td nowrap="nowrap"><a href="https://www.sei.cmu.edu/about/divisions/artificial-intelligence-division/">Carnegie Mellon</a></td><td nowrap="nowrap">2020</td></tr> 
+  <tr><td nowrap="nowrap">Sr. MTS</td><td nowrap="nowrap"><a href="https://www.sei.cmu.edu/about/divisions/artificial-intelligence-division/">Carnegie Mellon</a></td><td nowrap="nowrap">2020</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">At SEI, collaborated with groups from ATAK, Intel and NREC supporting projects like AI, HCI, and HPC in C++ and Python</td></tr>  
 
-  <tr><td nowrap="nowrap">VP Engineering</td><td nowrap="nowrap"><a href="https://hireanesquire.com/">Hire an Esquire</a></td><td nowrap="nowrap">2014</td></tr> 
+  <tr><td nowrap="nowrap">VP Eng.</td><td nowrap="nowrap"><a href="https://hireanesquire.com/">Hire an Esquire</a></td><td nowrap="nowrap">2014</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Led redesign, refactoring, and deployment of ground-up demolition of legacy Python, Django, Postgres web stack</td></tr>
 
-  <tr><td nowrap="nowrap">Senior SW Eng.</td><td nowrap="nowrap"><a href="https://www.ppg.com/en-US">PPG</a></td><td nowrap="nowrap">2007</td></tr> 
+  <tr><td nowrap="nowrap">Sr. SW Eng.</td><td nowrap="nowrap"><a href="https://www.ppg.com/en-US">PPG</a></td><td nowrap="nowrap">2007</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Member of team building and shipping C++ code for Spectrophotometer used in 40,000 body shops</td></tr>
 
-  <tr><td nowrap="nowrKnowledge and ap">Consultant</td><td nowrap="nowrap"><a href="http://movemarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td nowrap="nowrap">2008</td></tr> 
+  <tr><td nowrap="nowrp">Consultant</td><td nowrap="nowrap"><a href="http://movemarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td nowrap="nowrap">2008</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Designed and implemented python reporting system in web2py and postgresql to track movers via PostGIS and web2py</td></tr>
 
-  <tr><td nowrap="nowrKnowledge and ap">Consultant</td><td nowrap="nowrap"><a href="https://www.youtube.com/user/TenthRowConcerts">TenthRow</a></td><td nowrap="nowrap">2009</td></tr> 
+  <tr><td nowrap="nowrap">Consultant</td><td nowrap="nowrap"><a href="https://www.youtube.com/user/TenthRowConcerts">TenthRow</a></td><td nowrap="nowrap">2009</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Designed and built TenthRow - a web-based system to deliver a <a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</td></tr>
 
-  <tr><td nowrap="nowrKnowledge and ap">Consultant</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2008</td></tr>
+  <tr><td nowrap="nowrap">Consultant</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2008</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Colaborated with MAYA Design on usability of Bayer Diabetes Glycemic Monitor<td nowrap="nowrap">
 
   </table>
