@@ -14,8 +14,7 @@
     <th>Platforms</th>
     <th>Languages</th>
     <th>Database</th>
-    <th>Private Cloud</th>
-    <th>Public Cloud</th>
+    <th>Cloud</th>
   </tr>
   </thead>
   <tbody>
@@ -24,7 +23,6 @@
     <td>C/C++</td>
     <td>Postgres</td>
     <td>Docker</td>
-    <td>AWS</td>
   </tr>
 
   <tr>
@@ -32,7 +30,6 @@
     <td>HTML/CSS/JS</td>
     <td>SQLite</td>
     <td>Kubernetes</td>
-    <td>GCP</td>
   </tr>
 
   <tr>
@@ -40,7 +37,6 @@
     <td>Python</td>
     <td>Redis</td>
     <td>Proxmox</td>
-    <td>Azure</td>
   </tr>
   </tbody>
   <tr><td>&nbsp;</td></tr>
@@ -50,7 +46,6 @@
     <th>Integration (CI)</th>
     <th>Deployment (CD)</th>
     <th>Frameworks</th>
-    <th>Methods</th>
   </tr>
   </thead>
   <tbody>
@@ -59,21 +54,18 @@
     <td>Jenkins</td>
     <td>Aptible</td>
     <td>Django</td>
-    <td>Agile</td>
   </tr>
   <tr>
     <td>HCI</td>
     <td>Circle CI</td>
     <td>Capistrano</td>
     <td>Flask</td>
-    <td>Lean</td>
   </tr>
   <tr>
-    <td>Cloud Native</td>
+    <td>LXC/KVM</td>
     <td>GitOps</td>
     <td>Shippable</td>
     <td>Rails</td>
-    <td>Sensemaking</td>
   </tr>
   <tr>
   </tr>
