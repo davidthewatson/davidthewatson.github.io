@@ -1,6 +1,6 @@
 <h3>Summary</h3>
 
-  Programmer cycling prototype experiments to design, develop, and deploy complete, productized, commercial software. 
+Designing, developing, and deploying software from feasible prototype to shippable product to viable profit. 
 
 <h3> Objective</h3>
 
@@ -130,7 +130,7 @@
   <tr><td nowrap="nowrap" colspan="3">Designed and built TenthRow - a web-based system to deliver a <a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</td></tr>
 
   <tr><td nowrap="nowrKnowledge and ap">Consultant</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2008</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Colaborated with MAYA Design human sciences group on Bayer Diabetes Blood Glucose Monitor<td nowrap="nowrap">
+  <tr><td nowrap="nowrap" colspan="3">Colaborated with MAYA Design on usability of Bayer Diabetes Glycemic Monitor<td nowrap="nowrap">
 
   </table>
   </p>
@@ -153,34 +153,35 @@
   <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap">2017</td></tr> 
   <tr><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle</td></tr>
   <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Wrote the BodyTrace API and the PostgREST server while prototyping the Wellbridge Health JSON-API to EmberData</td></tr>
+  <tr><td nowrap="nowrap" colspan="3">Authored BodyTrace API and PostgREST client-server in Wellbridge Health JSON-API</td></tr>
   <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap">2003</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Contributed the servlet implementation to Marquee XML-RPC library</td></tr>
+  <tr><td nowrap="nowrap" colspan="3">Contributed servlet implementation to Marquee XML-RPC library</td></tr>
   </table>
   </p>
 
   <h3>Quotes From Coworkers <a href="https://www.linkedin.com/in/davidthewatson/details/recommendations/"><i class="far fa-comment-dots"></i></a></h3>
 
-  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He's smart, dedicated and diligent.</blockquote>
-
   <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He genuinely cares about the users of 
   systems he's building.</blockquote>
 
-  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He also has a genuine interest in nurturing and
+
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He has a genuine interest in nurturing and
   mentoring others to help them achieve their goals.</blockquote>
 
-  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;His sense of business, technology, knowledge and
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;His sense of business, technology, and
   insights into usability makes him a great collaborator.</blockquote>
 
-  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He's more like a music producer than the typical software engineer, and this leads to creative solutions.</blockquote>
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He's more like a music producer than the typical software engineer.</blockquote>
+
+  <blockquote><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He's smart, dedicated and diligent.</blockquote>
 
   <h3>Education and Learning</h3>
 
   <p>
   <table class="education">
-  <tr><td nowrap="nowrap">PyCon</td><td nowrap="nowrap">Python Conference</td><td>2018-2019</td></tr>
-  <tr><td nowrap="nowrap">Github</td><td nowrap="nowrap">Git Workshop</td><td>2012</td></tr>
-  <tr><td nowrap="nowrap">MIT (CE)</td><td nowrap="nowrap">RDBMS and Internet Application Programming</td><td>2012</td></tr>
+  <tr><td nowrap="nowrap">PyCon</td><td nowrap="nowrap">Python Conference</td><td><a href="https://us.pycon.org/2018/">2018</a>-<a href="https://us.pycon.org/2019/">2019</a></td></tr>
+  <tr><td nowrap="nowrap">Github</td><td nowrap="nowrap"><a href="https://www.thestrangeloop.com/2011/git-foundations.html">Git Foundations Workshop</a></td><td>2012</td></tr>
+  <tr><td nowrap="nowrap"><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and Internet Application Programming</a></td><td>MIT (CE)</td><td>2012</td></tr>
   <tr><td nowrap="nowrap">Duquesne</td><td>Bachelor of Science</td><td>1991</td></tr>
   </table>
   </p>
