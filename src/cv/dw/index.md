@@ -4,7 +4,7 @@ Designing, developing, and deploying software from feasible prototype to shippab
 
 <h3> Objective</h3>
 
-  Craft software with a caring, daring, reflective team of creatives sharing common&nbsp;&nbsp;<a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a>.
+  Craft daring software with a reflective team of caring creatives sharing common <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a>.
 
 <h3>Knowledge and Skills</h3>
   <p>
