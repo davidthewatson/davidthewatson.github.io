@@ -86,7 +86,7 @@ Shape software with a reflective team of caring collaborators sharing common <a 
   <tr><td nowrap="nowrap" colspan="3">Coded crawler data pipeline from Docker and Kubernetes on Linux & Mac to AWS in Python with Postgres &amp; MySQL</td></tr>
   <tr><td nowrap="nowrap">VP Product Development</td><td nowrap="nowrap"><a href="http://www.wellbridgehealth.com/">Wellbridge Health</a></td><td nowrap="nowrap">2015-2016</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Led product development team from MVP to telehealth sensor system in Python, Flask, Django, Postgres, and Aptible</td></tr>
-  <tr><td nowrap="nowrap">Senior Software Development</td><td nowrap="nowrap"><a href="https://www.forever.com/">Forever</a></td><td nowrap="nowrap">2013-2014</td></tr>
+  <tr><td nowrap="nowrap">Senior Software Developer</td><td nowrap="nowrap"><a href="https://www.forever.com/">Forever</a></td><td nowrap="nowrap">2013-2014</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Prototyped MVP in Python, Flask, NoSQL; Ported system to Ruby/Rails/Postgres for production deployment on Heroku</td></tr>
   <tr><td nowrap="nowrap">Senior Engineer</td><td nowrap="nowrap"><a href="https://www.mindmatrix.net/">SMaSh</a></td><td nowrap="nowrap">2011-2012</td> 
   <tr><td nowrap="nowrap" colspan="3">Built conversational text interface to track blood glucose for diabetes patients in Python, Flask, Postgres, and Heroku</td></tr>
@@ -97,7 +97,7 @@ Shape software with a reflective team of caring collaborators sharing common <a 
   <tr><td nowrap="nowrap">UI Software Engineer</td><td nowrap="nowrap"><a href="http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf">Nomos</a></td><td nowrap="nowrap">2006-2007</td</tr>
   <tr><td nowrap="nowrap" colspan="3">Automated QA tests in C++ for Corvus radiation oncology product; Prototyped adaptive 4D radiotherapy in C++/Qt</td></tr>
   <tr><td nowrap="nowrap">Software Design Engineer</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2004-2006</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Developmentloped web stack on Linux & Mac in Python and NoSQL database; built predecessor to Hue in C#.net for Philips<td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap">
+  <tr><td nowrap="nowrap" colspan="3">Developed web stack on Linux & Mac in Python and NoSQL database; built predecessor to Hue in C#.net for Philips<td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap">
   <tr><td nowrap="nowrap">Co-Founder</td><td nowrap="nowrap"><a href="https://no.wikipedia.org/wiki/Cobind_Desktop">Cobind</a></td><td nowrap="nowrap">2003-2004</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Won an Idea Foundry Transformation Fellowship; launched DIY Linux Tools startup; built custom Linux distros online</td></tr>
   </tbody>
