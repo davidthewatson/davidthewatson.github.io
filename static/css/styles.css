@@ -122,6 +122,14 @@ table.education tr td:first-child {
   font-weight: bold;
 }
 
+table.awards tr td:first-child {
+  font-weight: bold;
+}
+
 #short-term-experience {
   page-break-before: always;
+}
+
+#quotes {
+  padding: 10px;
 }
