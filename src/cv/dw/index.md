@@ -11,7 +11,7 @@ Designing, developing, and deploying software from feasible prototype to shippab
   <table class="skills">
   <thead>
   <tr>
-    <th>Platforms/th>
+    <th>Platforms</th>
     <th>Language</th>
     <th>Database</th>
     <th>Cloud</th>
