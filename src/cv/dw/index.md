@@ -159,8 +159,8 @@ Shape software with a reflective team of caring collaborators sharing common <a 
 <tbody>
 <tr><td nowrap="nowrap"><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;His skills as a top-notch technical author makes him a great collaborator.</td></tr>
 <tr><td nowrap="nowrap"><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;He has a genuine interest in nurturing and mentoring others to help them achieve their goals.</td></tr>
-<tr><td nowrap="nowrap"><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;What impresses me most is his curiosity, critical thinking, and commitment to continued learning.</td></tr>
 <tr><td nowrap="nowrap"><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;His sense of business, technology, and insights into usability makes him a great team member.</td></tr>
+<tr><td nowrap="nowrap"><i class="fas fa-comment-dots fa-flip-horizontal"></i>&nbsp;What impresses me most is his curiosity, critical thinking, and commitment to continued learning.</td></tr>
 </tbody>
 </table>
 </p>
