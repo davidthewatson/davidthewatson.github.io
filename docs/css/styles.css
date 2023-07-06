@@ -122,6 +122,10 @@ table.education tr td:first-child {
   font-weight: bold;
 }
 
+table.open-source tr td:first-child {
+  font-weight: bold;
+}
+
 table.awards tr td:first-child {
   font-weight: bold;
 }

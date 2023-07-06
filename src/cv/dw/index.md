@@ -143,14 +143,11 @@ Designing, developing, and deploying software from feasible prototype to shippab
   <h3>Open Source</h3>
   
   <p>
-  <table class="experience">
+  <table class="open-source">
   <tbody>
-  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap">2017</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle</td></tr>
-  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap">2015</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Authored BodyTrace API and PostgREST client-server in Wellbridge Health JSON-API</td></tr>
-  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap">2003</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Contributed servlet implementation to Marquee XML-RPC library</td></tr>
+  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/github_issues_report">Github Issues Report</a></td><td nowrap="nowrap" colspan="3">Coordinated code and configuration from the team at Rent Jungle</td></tr>
+  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://github.com/davidthewatson/bodytrace_python">BodyTrace API</a>, <a href="https://github.com/PostgREST/postgrest/pull/435">PostgREST</a></td><td nowrap="nowrap" colspan="3">Authored BodyTrace API and PostgREST client-server in Wellbridge Health JSON-API</td></tr>
+  <tr><td nowrap="nowrap">Programmer</td><td nowrap="nowrap"><a href="https://xmlrpc.sourceforge.net/documentation.pdf">Marquee</a></td><td nowrap="nowrap" colspan="3">Contributed servlet implementation to Marquee XML-RPC library</td></tr>
 </tbody>
     </table>
   </p>
