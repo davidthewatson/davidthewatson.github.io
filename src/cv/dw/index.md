@@ -127,7 +127,7 @@ Shape software with a reflective team of caring collaborators sharing common&nbs
   <tr><td nowrap="nowrap" colspan="3">Led redesign, refactoring, and deployment of ground-up demolition of legacy Python, Django, Postgres web stack</td></tr>
 
   <tr><td nowrap="nowrap">Consultant</td><td nowrap="nowrap"><a href="https://www.youtube.com/user/TenthRowConcerts">TenthRow</a></td><td nowrap="nowrap">2009</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Designed and built TenthRow - a web-based system to deliver a <a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</td></tr>
+  <tr><td nowrap="nowrap" colspan="3">Designed and built TenthRow - a web-based system to deliver a&nbsp;&nbsp;<a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</td></tr>
 
   <tr><td nowrap="nowrap">Consultant</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2008</td></tr>
   <tr><td nowrap="nowrap" colspan="3">Colaborated with MAYA Design on usability of Bayer Diabetes Glycemic Monitor<td nowrap="nowrap">
