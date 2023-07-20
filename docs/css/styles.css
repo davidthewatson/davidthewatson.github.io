@@ -129,11 +129,15 @@ table.open-source tr td:first-child {
 table.awards tr td:first-child {
   font-weight: bold;
 }
-
-#short-term-experience {
+#awards {
+  
   page-break-before: always;
 }
+#short-term-experience {
+}
 
+#knowledge-and-skills {
+}
 #quotes {
   padding: 10px;
 }
