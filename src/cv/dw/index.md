@@ -1,5 +1,4 @@
-Pairing reflective teams sharing&nbsp;&nbsp;<a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a> from prototype-feasability to platform-viability by shaping software. 
-
+Shaping software <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">aesthetics</a>, <a href="https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php">methods</a>, and <a href="https://plg.uwaterloo.ca/~migod/846/papers/pomo-oopsla02.pdf">tools</a> by reflectively bridging the gap from prototype-feasability to platform-viability.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
