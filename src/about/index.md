@@ -44,7 +44,7 @@ My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
 * [Cancer](http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf) and [Diabetes](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps#:~:text=they%20craft%20glucose%20meters%20for%20diabetics) 
-* [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/collaboration/cobind_retrospective.html) 
+* [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/cobind_retrospective.html) 
 
 But nothing has influenced my work more than <a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Postgres</a>, <a href="https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment">ProxMox</a>, and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Python</a>. 
 
