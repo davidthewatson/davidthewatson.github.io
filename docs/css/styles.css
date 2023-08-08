@@ -92,6 +92,11 @@ table {
   padding: 4px;
 }
 
+table td.address {
+  font-size: medium;
+  line-height: 0.75em;
+}
+
 table.skills tr th {
   padding: 8px;
   background-color: lightgray;
