@@ -1,4 +1,4 @@
-Shaped software engineering from prototype design to product development to platform deployment. By building an automated cloud conveyor belt, dev and ops teams shipped better product and service more reliably and repeatably.
+Shaped software engineering from prototype design to product development to platform deployment. By building an automated cloud conveyor belt, dev and ops teams shipped better product and service more predictably, reliably, and repeatably.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
@@ -121,7 +121,7 @@ Shaped software engineering from prototype design to product development to plat
   <li>Built conversational text interface to track diabetic glycemia in Python/Flask/Postgres, and Heroku</li>
   <li>We worked through a funding shortage and company was eventually acquired by Mind Matrix</li></ul>
 </p>
-  <table class="experience">
+  <table id="wellspring" class="experience">
   <tbody>
   <tr><td>Software Development Manager</td><td><a href="https://www.wellspring.com/">Wellspring</a></td><td>2010-2011</td>
 </tr>
