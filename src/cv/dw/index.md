@@ -212,6 +212,6 @@ Shaped software engineering from prototype design to product development to plat
   <table class="education">
   <tr><td>Duquesne</td><td><a href="https://www.duq.edu/academics/colleges-and-schools/business/index.php?school=Palumbo-Donahue+School+of+Business">Bachelor of Science</a></td>
   <td>Infoworld</b></td><td><a href="https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false">Top 100 Award</a></td></tr>
-  <tr><td>MIT (CE)<td><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and IAP</a></td><td>Idea Foundry</b></td><td>Transformation Fellowship</td></tr>
+  <tr><td>MIT (CE)<td><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and IAP</a></td><td>Idea Foundry</b></td><td><a href="https://www.ideafoundry.org/about#:~:text=Our%20initial%20program%2C%20The%20Transformational%20Fellowship%2C%20has%20evolved%20into%20our%20Impact%20Innovation%20Program%20and%20its%20portfolio%20has%20grown%20and%20created%20impact%20throughout%20the%20world.">Transformation Fellowship</a></td></tr>
   </table>
   </p>
