@@ -1,4 +1,4 @@
-Shaped software development from prototype design to platform deployment to ensure teams shipped improved product with better performance and lower cost on a cloud conveyor belt.
+Shaped software engineering from prototype design to product development to platform deployment. By building an automated cloud conveyor belt, dev and ops teams shipped better product and service more reliably and repeatably.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
@@ -70,60 +70,148 @@ Shaped software development from prototype design to platform deployment to ensu
   </p>
 
   <h3>Experience (W-2)</h3>
-  <p>
   <table class="experience">
   <tbody>
-  <tr><td nowrap="nowrap">Software Engineering Specialist</td><td nowrap="nowrap"><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td nowrap="nowrap">2018-2020</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Designed storage system on Kubernetes; Worked with IT to make provisioning private cloud infrastructure feasible</td></tr>
-  <tr><td nowrap="nowrap">Senior Software Developer</td><td nowrap="nowrap"><a href="https://www.realpage.com/">Rent Jungle</a></td><td nowrap="nowrap">2016-2018</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Coded crawler data pipeline from Docker and Kubernetes on Linux & Mac to AWS in Python with Postgres &amp; MySQL</td></tr>
-  <tr><td nowrap="nowrap">VP Product Development</td><td nowrap="nowrap"><a href="http://www.wellbridgehealth.com/">Wellbridge Health</a></td><td nowrap="nowrap">2015-2016</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Roles included CISO, IT Director, and VP Product from&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> to <a href="https://en.wikipedia.org/wiki/Remote_patient_monitoring">behavioral health platform</a> in Django, Postgres, and Aptible</td></tr>
-  <tr><td nowrap="nowrap">Senior Software Developer</td><td nowrap="nowrap"><a href="https://www.forever.com/">Forever</a></td><td nowrap="nowrap">2013-2014</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Prototyped MVP in Python, Flask, NoSQL; Ported system to Ruby/Rails/Postgres for production deployment on Heroku</td></tr>
-  <tr><td nowrap="nowrap">Senior Engineer</td><td nowrap="nowrap"><a href="https://www.mindmatrix.net/">SMaSh</a></td><td nowrap="nowrap">2011-2012</td> 
-  <tr><td nowrap="nowrap" colspan="3">Built conversational text interface to track blood glucose for diabetes patients in Python, Flask, Postgres, and Heroku</td></tr>
-  <tr><td nowrap="nowrap">Software Development Manager</td><td nowrap="nowrap"><a href="https://www.wellspring.com/">Wellspring</a></td><td nowrap="nowrap">2010-2011</td> 
-  <tr><td nowrap="nowrap" colspan="3">Transformed legacy ops from data center to automated CI/CD SaaS deployment cutting daily support to near zero</td></tr>
-  <tr><td nowrap="nowrap">Project Engineer</td><td nowrap="nowrap"><a href="https://www.qinetiq.com/en/what-we-do/services-and-products/talon-medium-sized-tactical-robot">Applied Perception</a></td><td nowrap="nowrap">2008-2009</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Ported C#.net GUI to Linux&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Foster-Miller_TALON">OCU</a> in C++/Qt; Programmed Python XML sonar parser/viz between C++ GUI &amp;&nbsp;&nbsp;&nbsp;<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7664/766418/Remote-robotic-countermine-systems/10.1117/12.850324.short">HULS</a></td></tr></tr>
-  <tr><td nowrap="nowrap">UI Software Engineer</td><td nowrap="nowrap"><a href="http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf">Nomos</a></td><td nowrap="nowrap">2006-2007</td</tr>
-  <tr><td nowrap="nowrap" colspan="3">Automated QA tests in C++ for Corvus radiation oncology product; Prototyped and storyboarded 4D design in C++/Qt</td></tr>
-  <tr><td nowrap="nowrap">Software Design Engineer</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2004-2006</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Developed AJAX stack on Linux & Mac in Python and NoSQL database; built predecessor to Hue in C#.net for Philips<td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap"><td nowrap="nowrap">
-  <tr><td nowrap="nowrap">Co-Founder</td><td nowrap="nowrap"><a href="https://no.wikipedia.org/wiki/Cobind_Desktop">Cobind</a></td><td nowrap="nowrap">2003-2004</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Envisioned, designed, marketed and launched DIY Linux Tools startup to build custom Linux distros online</td></tr>
-  </tbody>
-  </table>
-  </p>
+  <tr><td>Software Engineering Specialist</td><td><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td>2018-2020</td>
+</tr>
+</table>
+<p>
+  <ul><li>Design and deliver innovative infrastructure to support the company's autonomous vehicles</li>
+  <li>Collaborated with IT to transformdata storage provisioning from data center to cloud to cloud native</li> 
+  <li>Improved forward progress moving prototype toward shipping product</li></ul>
+</p>
+
+  <table class="experience">
+  <tbody>
+  <tr><td>Senior Software Developer</td><td><a href="https://www.realpage.com/">Rent Jungle</a></td><td>2016-2018</td>
+</tr>
+</table>
+<p>
+  <ul><li>MVP in production chellenged growing client demands unsustainable devops opportunity costs</li>
+  <li>Designed crawler data pipeline in Docker/Kubernetes on Mac to AWS Python/Postgres &amp; MySQL</li>
+  <li>Managed daily sessions with team to establish cadence, pairs work, and engineering confidence</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>VP Product Development</td><td><a href="http://www.wellbridgehealth.com/licensing">Wellbridge Health</a></td><td>2015-2016</td>
+</tr>
+</table>
+<p>
+  <ul><li>MVP supported pilots, but MVP was not market-ready for production deployment</li>
+<li>As CISO, IT Director, and VP Product, deprecated MVP; designed and built behavioral health platform</li>
+  <li>Designed and built Django/Postgres API plus Aptible deployment while MAYA completed UX SPA</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Senior Software Developer</td><td><a href="https://www.forever.com/">Forever</a></td><td>2013-2014</td>
+</tr>
+</table>
+<p>
+  <ul><li>Series A startup with concept to provide digital storage for <em>100 years</em></li>
+ <li>Prototyped MVP in Python, Flask, Mongo; Wrote production system in Ruby/Rails on Heroku/Postgres</li>
+  <li>Company continues to sell storage product while providing media tranformation beyond storage</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Senior Engineer</td><td><a href="https://www.crunchbase.com/organization/smash-technologies">SMaSh</a></td><td>2011-2012</td>
+</tr>
+</table>
+<p>
+  <ul><li>Juggled ops customer support from Pittsburgh Steelers to Miller Coors plus new development</li>
+  <li>Built conversational text interface to track diabetic glycemia in Python/Flask/Postgres, and Heroku</li>
+  <li>We worked through a funding shortage and company was eventually acquired by Mind Matrix</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Software Development Manager</td><td><a href="https://www.wellspring.com/">Wellspring</a></td><td>2010-2011</td>
+</tr>
+</table>
+<p>
+  <ul><li>Profitable with 1MLOC, but ops was unsustainable given no tests, legacy data center, and no devops</li>
+  <li>Transformed legacy ops from data center to automated CI/CD SaaS deployment minimizing support</li>
+  <li>Company is still operating independently today after moving from Pittsburgh to Chicago</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Project Engineer</td><td><a href="https://www.qinetiq.com/en/what-we-do/services-and-products/talon-medium-sized-tactical-robot">Applied Perception</a></td><td>2008-2009</td>
+</tr>
+</table>
+<p>
+  <ul><li>Company built custom robotics from scratch for military clients</li>
+   <li>Ported C# GUI to Linux&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Foster-Miller_TALON">OCU</a> in C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI/<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7664/766418/Remote-robotic-countermine-systems/10.1117/12.850324.short">UUV</a></li>
+  <li>Company was first acquired by Foster-Miller, then Foster-Miller was acquired by Qinetiq</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>UI Software Developer</td><td><a href="http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf">Nomos</a></td><td>2006-2007</td>
+</tr>
+</table>
+<p>
+  <ul><li>Company built radiotherapy treatment planning products on Mac OSX</li>
+  <li>Wrote C++ QA tests for Corvus radiation oncology product; Prototyped 4D xyztdesign in C++/Qt</li>
+  <li>Company was acquired by North American Scientific, then acquired later by Best Medical.</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Software Design Engineer</td><td><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td>2004-2006</td>
+</tr>
+</table>
+<p>
+  <ul><li>MAYA was a design studio and technology research lab founded by 3 Carnegie Mellon professors</li>
+   <li>Built AJAX stack on Linux & Mac Python and NoSQL DB; built predecessor to Hue C#.net for Philips</li>
+  <li>MAYA was acquired by BCG and operates today as BCG Platinion</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Co-Founder</td><td><a href="https://no.wikipedia.org/wiki/Cobind_Desktop">Cobind</a></td><td>2003-2004</td>
+</tr>
+</table>
+<p>
+  <ul><li>We built Cobind DiY Build Tools: a web-based system to build custom linux distros online</li>
+<li>Designed, marketed and launched DIY Linux Tools startup to build custom Linux distros online</li>
+  <li>Cobind built and shipped the Cobind Desktop - an end-to-end demo of the DIY build toos</li></ul>
+</p>
 
  <h3 id="short-term-experience">Experience (1099)</h3>
-  <p>
   <table class="experience">
-<tbody>
-    <tr><td nowrap="nowrap">Technical Consultant</td><td nowrap="nowrap"><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td nowrap="nowrap">2021</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></td></tr>
-
-  <tr><td nowrap="nowrap">Usability Consultant</td><td nowrap="nowrap"><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td nowrap="nowrap">2008</td></tr>
-  <tr><td nowrap="nowrap" colspan="3">Colaborated with MAYA Design on usability of Bayer Diabetes Blood Sugar Monitor<td nowrap="nowrap">
-
-  <tr><td nowrap="nowrap">Technical Consultant</td><td nowrap="nowrap"><a href="https://www.youtube.com/user/TenthRowConcerts">TenthRow</a></td><td nowrap="nowrap">2009</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Designed and built a&nbsp;&nbsp;<a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</td></tr>
-
-
-  <tr><td nowrap="nowrp">Technical Consultant</td><td nowrap="nowrap"><a href="http://movemarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td nowrap="nowrap">2008</td></tr> 
-  <tr><td nowrap="nowrap" colspan="3">Designed and implemented python system to track movers via PostGIS and web2py</td></tr>
-
-</tbody>
-  </table>
-  </p>
+  <tbody>
+  <tr><td>Technical Consultant</td><td><a href="https://www.cat.com/en_US.html">Caterpillar</a></td><td>2021</td>
+</tr>
+</table>
+<p>
+  <ul><li>Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Technical Consultant</td><td><a href="https://www.youtube.com/user/TenthRowConcerts">TenthRow</a></td><td>2009</td>
+</tr>
+</table>
+<p>
+  <ul><li>Designed and built a&nbsp;&nbsp;<a href="https://www.youtube.com/user/TenthRowConcerts?app=desktop">live music experience</a> via streaming to fans worldwide</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Usability Consultant</td><td><a href="https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps">MAYA Design</a></td><td>2008</td>
+</tr>
+</table>
+<p>
+  <ul><li>Colaborated with MAYA Design on usability of Bayer Diabetes Blood Sugar Monitor</li></ul>
+</p>
+  <table class="experience">
+  <tbody>
+  <tr><td>Technical Consultant</td><td><a href="http://movemarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td>2008</td>
+</tr>
+</table>
+<p>
+  <ul><li>Designed and implemented python system to track movers via PostGIS and web2py</li></ul>
+</p>
 
   <h3>Education and Awards</h3>
 
   <p>
   <table class="education">
-  <tr><td nowrap="nowrap">Duquesne</td><td><a href="https://www.duq.edu/academics/colleges-and-schools/business/index.php?school=Palumbo-Donahue+School+of+Business">Bachelor of Science</a></td>
-  <td nowrap="nowrap">Infoworld</b></td><td nowrap="nowrap"><a href="https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false">Top 100 Award</a></td></tr>
-  <tr><td nowrap="nowrap">MIT (CE)<td><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and IAP</a></td><td nowrap="nowrap">Idea Foundry</b></td><td nowrap="nowrap">Transformation Fellowship</td></tr>
+  <tr><td>Duquesne</td><td><a href="https://www.duq.edu/academics/colleges-and-schools/business/index.php?school=Palumbo-Donahue+School+of+Business">Bachelor of Science</a></td>
+  <td>Infoworld</b></td><td><a href="https://books.google.com/books?id=oDYEAAAAMBAJ&lpg=PA20&vq=u-form&pg=PA20#v=onepage&q=u-form&f=false">Top 100 Award</a></td></tr>
+  <tr><td>MIT (CE)<td><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and IAP</a></td><td>Idea Foundry</b></td><td>Transformation Fellowship</td></tr>
   </table>
   </p>

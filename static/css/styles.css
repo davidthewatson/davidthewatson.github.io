@@ -92,6 +92,26 @@ table {
   padding: 4px;
 }
 
+p.title {
+  position: relative;
+  display: grid;
+  left: auto;
+
+}
+
+p.company {
+  position: relative;
+  display: grid;
+  left: 400 px;
+
+}
+
+p.years {
+  position: relative;
+  display: grid;
+  left: 800 px;
+}
+
 table td.address {
   font-size: medium;
   line-height: 0.75em;
@@ -117,6 +137,9 @@ table.experience tr th {
 
 table.experience tr td {
   padding: 3px;
+  list-style-type: circle;
+  width: 40%;
+  white-space: nowrap;
 }
 
 table.experience tr:nth-of-type(odd) td:first-child {
