@@ -1,4 +1,4 @@
-Shaped software engineering from prototype design to product development to platform deployment. By building an automated cloud conveyor belt, dev and ops teams shipped better product and service more predictably, reliably, and repeatably.
+Shaped software engineering from prototype design to product development to platform deployment. By automating CI/CD pipelines, my dev &amp; ops teams shipped better product and service more predictably, reliably, and repeatably.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
