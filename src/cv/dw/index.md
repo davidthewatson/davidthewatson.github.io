@@ -1,4 +1,4 @@
-Music school dropout practicing software commercially and professionally for decades. Shaped software design, development, and deployment from rapid prototypes to iterative products to powerful platforms. By automating build pipelines, my teams shipped improved products and better services more predictably, reliably, and repeatably.
+Music school dropout: received a merit award, studied computer science, won a fellowship, co-founded a startup. Shaped software design, development, and deployment from rapid prototypes to iterative products to powerful platforms across commercial and open source software. By automating build pipelines, my teams shipped continuously improving products and services predictably, reliably, and repeatably.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
