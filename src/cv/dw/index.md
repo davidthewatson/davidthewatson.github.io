@@ -1,4 +1,4 @@
-Shaped software engineering from prototype design to product development to platform deployment. By automating CI/CD pipelines, my dev &amp; ops teams shipped better product and service more predictably, reliably, and repeatably.
+Music school dropout practicing software commercially and professionally for decades. Shaped software design, development, and deployment from rapid prototypes to iterative products to powerful platforms. By automating build pipelines, my teams shipped improved products and better services more predictably, reliably, and repeatably.
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
   <table class="skills">
@@ -49,13 +49,13 @@ Shaped software engineering from prototype design to product development to plat
     <td>Django</td>
   </tr>
   <tr>
-    <td>HCI</td>
+    <td>GUI</td>
     <td>Circle CI</td>
     <td>Capistrano</td>
     <td>Flask</td>
   </tr>
   <tr>
-    <td>LXC/KVM</td>
+    <td>HCI</td>
     <td>GitOps</td>
     <td>Shippable</td>
     <td>Rails</td>
