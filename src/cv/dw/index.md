@@ -1,4 +1,4 @@
-<p>What code and music share is that both are the result of consciousness and context beyond mere language. Indeed, in terms of language, one is logical and intentional, while the other, merely emotional. Data centers became Fordist footnotes when software's postmodern extensibiliity enveloped and commodified the data center in its wake. Startups became my default mode. Tamed prototype design, product development, and platform deployment as angels morphed into VC's on the way to M&A.</p>
+<p>What code and music share is that both result from consciousness and context beyond mere language. Indeed, in terms of language, one is logical and intentional, while the other, merely emotional. Data centers became Fordist footnotes when software's postmodern extensibiliity enveloped and commodified the data center in its wake. Startups became my default mode. Tamed prototype design, product development, and platform deployment as angels morphed into VC's on the way to M&A.</p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
