@@ -2,11 +2,23 @@
 
 My bikes, drums, and computers have led to <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
+What code and jazz share is that both result from consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
+
+It should come as no surprise, then, that labor markets are now split between robots,  AI (the root of which is robots in stasis without 3d physics, otherwise known as enough GPU compute to burn down a data center), and humans who are robotically compulsive. 
+
+Data centers became Fordist footnotes when software's postmodern extensibiliity enveloped and commodified the data center in its wake. 
+
+Startups are my default mode. 
+
+Tamed prototype design, product development, and platform deployment as angels morphed into VC's on the way to M&A.
+
 > Death gives meaning to our lives. It gives importance and value to time. Time would become meaningless if there were too much of it. <footer>- <cite>[Ray Kurzweil][4]</cite></footer> 
 [4]: https://www.goodreads.com/quotes/274918-death-gives-meaning-to-our-lives-it-gives-importance-and
 
 ###### <a name="health"></a>Health
 <img class="icon-headshot" src="/images/jade.jpg" alt="Jade" title="Jade"></img> 
+
+Healthcare is self-care, at least in the United States.
 
 I've discovered that, from Shorthairs to Weimaraners to Vizslas, pointers have a way of moving me. Like a nomad, I'm always on the run. From what, I'm not exactly sure. The rolling stone gathers no moss.
 
@@ -25,8 +37,8 @@ I've spent a lifetime learning from my childhood diabetes diagnosis by building 
 For me, drums made jazz approachable until my mind, body, and soul coalesced. I'm still learning. Classics have their place, but 
 live trio fusion is where I find peace. 
 
-I planned to be a classical musician, but I gave up my music scholarship to study computer
-science. My parents said a good corporate job would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
+I planned to be a classical musician, but I gave up my music scholarship when I dropped out of music school to study computer
+science instead. My parents said a good corporate job would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
 
 The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as an art form is that it depends on the artist, the listener, and the artist-listener. Jazz is the greatest triumph of listening as art. 
 Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat Metheny, and a pianist like Marcin Wasilewski, then listen carefully to their transcendent sound. 
@@ -38,7 +50,7 @@ simply a way of waking up to the very life we're living. <footer>- <cite>[John C
 ###### <a name="software"></a>Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
 
-Software started as a *personal* science for me - peeking and poking at *personal* computers. Decades later I practice software as experiments in art, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
+Software started as a *personal* science for me - peeking and poking at *personal* computers. Decades later I practice software as experiments in art and philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
 
 My work has spanned:
 
@@ -46,7 +58,7 @@ My work has spanned:
 * [Cancer](http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf) and [Diabetes](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps#:~:text=they%20craft%20glucose%20meters%20for%20diabetics) 
 * [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/cobind_retrospective.html) 
 
-But nothing has influenced my work more than <a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Postgres</a>, <a href="https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment">ProxMox</a>, and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Python</a>. 
+But nothing has influenced my work more than <a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Postgres</a>, <a href="https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment">ProxMox</a>, and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Python</a>. All things that are good begin with the letter <strong>P</strong>. 
 
 
 > It is software that gives form and purpose to
