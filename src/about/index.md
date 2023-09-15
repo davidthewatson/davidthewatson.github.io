@@ -1,4 +1,4 @@
-##### About Dave
+##### About The David formerly known as <s>Dave</s>
 
 My bikes, drums, and computers have led to <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
