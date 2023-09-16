@@ -2,5 +2,4 @@
 ### on
 ### art, science, and philosophy
 ### yields
-### liminal experience 
-### resolved by flow
+### liminality resolved by flow
