@@ -1,5 +1,3 @@
 ### [reading](/reading/), [writing](/writing/), and [reflecting](/reflecting/)
-### on
-### art, science, and philosophy
-### yields
-### liminality resolved by flow
+### on art, science, and philosophy
+### evinces liminality catalyzing flow
