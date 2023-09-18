@@ -1,5 +1,5 @@
  <p>Code was my third language after music. Earned a merit award and completed my education. For over a decade, wrote <a href="https://en.wikipedia.org/wiki/Software_company">software</a>
-+from data centers to R&D labs. Founding a startup, funded by a fellowship, was an inflection point. Dozens of startups followed. Tamed prototype design, product development, platform deployment, and process.</p>
+from data centers to R&D labs. Founding a startup, funded by a fellowship, was an inflection point. Dozens of startups followed. Tamed prototype design, product development, platform deployment, and process.</p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
