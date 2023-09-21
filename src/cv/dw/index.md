@@ -1,5 +1,5 @@
- <p><em>Code</em> was my third language after music. Earned a merit award, dropped out of music school, and finished my formal education. For over a decade, wrote <a href="https://en.wikipedia.org/wiki/Software_company">software</a>
-from data centers to R&D labs. Founded a startup, funded by a fellowship. Became a lean canary in a coal mine to dozens of startups. Tamed prototype design, product development, and platform deployment.</p>
+<p>
+<em>Code</em> was my third language after music. Roles ranged from author, designer, and founder to developer, mentor, and sensemaker. Won a merit award and dropped out of music school before graduating. For a decade, wrote software from data center automation APIs to HCI/UI/UX experiments in R&D labs. Won a fellowship enabling funding, founding, and folding my startup which led to another decade of startup work as a lean canary in a coal mine. Tamed prototype design, product development, and platform deployment.</p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
