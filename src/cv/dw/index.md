@@ -1,5 +1,7 @@
 <p>
-<em>Code</em> was my third language after music. Roles ranged from author, designer, and founder to developer, mentor, and sensemaker. Won a merit award and dropped out of music school before graduating. For a decade, wrote software from data center automation APIs to HCI/UI/UX experiments in R&D labs. Won a fellowship enabling funding, founding, and folding my startup which led to another decade of startup work as a lean canary in a coal mine. Tamed prototype design, product development, and platform deployment.</p>
+Educationally, my code earned a merit award while my music earned a scholarship. Avocationally, music supported me despite dropping out of music school to fulfill the vocational BS. Professionally, wrote software for decades: minimizing data center automation into cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems from MVP to SaaS, and more. 
+A fellowship enabled funding and founding my startup which led to roles ranging from rapid prototyping to automated deployment to <a href="https://uxdesign.cc/to-add-is-expected-to-subtract-is-design-e84025fe201">subtractive design</a>: sensemaking potential pivots of people, product, and process.
+</p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
   <p>
