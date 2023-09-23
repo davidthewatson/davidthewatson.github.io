@@ -1,5 +1,5 @@
 ### [reading](/reading/) [writing](/writing/) reflecting 
 
-#### by link or [NLG](https://en.wikipedia.org/wiki/Natural_language_generation)
+#### by hyperlink or [generation](https://en.wikipedia.org/wiki/Natural_language_generation)
 
 <ul><li><a href="/reflecting/between_buddhism_middle_way_and_japanese_ma.html">Between Buddhism Middle Way And Japanese Ma</a></li><li><a href="/reflecting/evokes_liminality_catalyzing_flow.html">Evokes Liminality Catalyzing Flow</a></li><li><a href="/reflecting/learning_how_to_learn.html">Learning How To Learn</a></li><li><a href="/reflecting/mcluhan-violence-as-quest-for-identity.html">Mcluhan-Violence-As-Quest-For-Identity</a></li><li><a href="/reflecting/negative_psychoanalysis_for_the_living_dead.html">Negative Psychoanalysis For The Living Dead</a></li><li><a href="/reflecting/walt_whitman_agile_poet.html">Walt Whitman Agile Poet</a></li></ul>
