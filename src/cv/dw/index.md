@@ -1,5 +1,5 @@
 <p>
-A computer science merit award and a music scholarship preceded my music school detour before exiting stage left to fulfill the vocational BS, including a programming internship. Professionally, wrote software for decades: minimizing data center automation into cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems from MVP to SaaS, and more. 
+A computer science merit award and a music scholarship preceded my music school detour before exiting stage left to finish the programming internship while fulfilling the vocational BS. Professionally, wrote software for decades: minimizing data center automation into cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems from MVP to SaaS, and more. 
 A fellowship enabled funding and founding my startup which led to roles ranging from rapid prototyping to automated deployment to <a href="https://uxdesign.cc/to-add-is-expected-to-subtract-is-design-e84025fe201">subtractive design</a>: sensemaking pivot potential of people, product, and process.
 </p>
 
@@ -11,35 +11,30 @@ A fellowship enabled funding and founding my startup which led to roles ranging 
     <th>Platforms</th>
     <th>Languages</th>
     <th>Databases</th>
-    <th>Containers &amp; VMs</th>
   </tr>
   </thead>
   <tbody>
   <tr>
     <td>Linux</td>
     <td>C/C++</td>
-    <td>Postgres</td>
-    <td>Docker</td>
+    <td>MySQL</td>
   </tr>
 
   <tr>
     <td>MacOS</td>
     <td>HTML/CSS/JS</td>
-    <td>SQLite</td>
-    <td>Kubernetes</td>
+    <td>Postgres</td>
   </tr>
 
   <tr>
     <td>Windows</td>
     <td>Python</td>
-    <td>Redis</td>
-    <td>Proxmox</td>
+    <td>SQLite</td>
   </tr>
   </tbody>
   <tr><td>&nbsp;</td></tr>
   <thead>
   <tr>
-    <th>Architecture</th>
     <th>Integration (CI)</th>
     <th>Deployment (CD)</th>
     <th>Frameworks</th>
@@ -47,21 +42,18 @@ A fellowship enabled funding and founding my startup which led to roles ranging 
   </thead>
   <tbody>
   <tr>
-    <td>API</td>
     <td>Jenkins</td>
-    <td>Aptible</td>
+    <td>Docker</td>
     <td>Django</td>
   </tr>
   <tr>
-    <td>GUI</td>
     <td>Circle CI</td>
-    <td>Capistrano</td>
+    <td>Kubernetes</td>
     <td>Flask</td>
   </tr>
   <tr>
-    <td>HCI</td>
     <td>GitOps</td>
-    <td>Shippable</td>
+    <td>Proxmox</td>
     <td>Rails</td>
   </tr>
   <tr>
@@ -131,8 +123,8 @@ A fellowship enabled funding and founding my startup which led to roles ranging 
 </tr>
 </table>
 <p>
-  <ul><li>Wellspring had a million lines of code in its product, but no tests or automation and legacy date center</li>
-  <li>Transformed legacy ops from data center to automated CI/CD test, build, and deployment pipeline</li>
+  <ul><li>Wellspring had a million lines of code in its product, but no tests or automation and data center</li>
+  <li>Transformed ops from fire-fighting to automated CI/CD pipeline on Capistrano, Mechanize, and Selenium</li>
   <li>Wellspring is still operating independently today after moving from Pittsburgh to Chicago</li></ul>
 </p>
   <table class="experience">
