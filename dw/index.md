@@ -1,6 +1,6 @@
 <p>
-A computer science merit award and a music scholarship preceded my music school detour before exiting stage left to finish the programming internship while fulfilling the vocational BS. Professionally, wrote software for decades: minimizing data center automation into cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems from MVP to SaaS, and more. 
-A fellowship enabled funding and founding my startup which led to roles ranging from rapid prototyping to automated deployment to <a href="https://uxdesign.cc/to-add-is-expected-to-subtract-is-design-e84025fe201">subtractive design</a>: sensemaking pivot potential of people, product, and process.
+A computer science merit award preceded my music school detour. Exited stage left to finish the programming internship while fulfilling the vocational BS. Professionally, wrote software for decades: minimizing data center automation into cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems from MVP to SaaS, and more. 
+A fellowship enabled funding and founding my startup which led to roles ranging from rapid prototyping to automated deployment to subtractive design: sensemaking pivot potential of people, product, and process.
 </p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
