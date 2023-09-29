@@ -81,6 +81,10 @@ img.icon-headshot {
   margin: 10px;
 }
 
+.iframe-container {
+  aspect-ratio: 16/9;
+}
+
 .icon_shadow {
   height: 80px;
   width: 80px;
