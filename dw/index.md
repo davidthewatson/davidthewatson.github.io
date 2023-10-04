@@ -33,7 +33,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 <td>SQLite</td>
 </tr>
 </tbody>
-<tr><td>&nbsp;</td></tr>
+<tr><td>&nbsp;&nbsp;</td></tr>
 <thead>
 <tr>
 <th>Integration (CI)</th>
@@ -135,7 +135,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </table>
 <p>
 <ul><li>Applied Perception built nascent robotics for military clients</li>
-<li>Ported C# GUI to Linux&nbsp;<a href="https://en.wikipedia.org/wiki/Foster-Miller_TALON">OCU</a> C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI to&nbsp;<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7664/766418/Remote-robotic-countermine-systems/10.1117/12.850324.short">UUV</a></li>
+<li>Ported C# GUI to Linux&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Foster-Miller_TALON">OCU</a> C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI to&nbsp;&nbsp;<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7664/766418/Remote-robotic-countermine-systems/10.1117/12.850324.short">UUV</a></li>
 <li>Applied Perception was first acquired by Foster-Miller, then Foster-Miller was acquired by QinetiQ</li></ul>
 </p>
 <table class="experience">
@@ -165,7 +165,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </table>
 <p>
 <ul><li>Conceived, marketed and launched startup to build custom Linux distros online</li>
-<li>Designed, built, and shipped the&nbsp;<a href="https://rubenerd.com/p1191/">Cobind Desktop</a> - PoC of the DIY build tools</li>
+<li>Designed, built, and shipped the&nbsp;&nbsp;<a href="https://rubenerd.com/p1191/">Cobind Desktop</a> - PoC of the DIY build tools</li>
 <li>Reached a worldwide audience quickly using free media and our website via word-of-mouth marketing</li>
 <li>Failed fast when we realized that founding delivered more epiphanies and insights than any formal education</ul>
 </p>
@@ -177,7 +177,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </tr>
 </table>
 <p>
-<ul><li>Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></li></ul>
+<ul><li>Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></li></ul>
 </p>
 <table class="experience">
 <tbody>
