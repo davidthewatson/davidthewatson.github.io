@@ -1,6 +1,7 @@
 <p>
-My music school experience was bookended by a computer science merit award and a computer programming internship while finishing the vocational BS/BA at night. Wrote commercial software for decades: minimizing data center automation into containers and cloud native infrastructure, programming telerobotics user interfaces, remodeling telehealth systems, and more. 
-A fellowship enabled funding and founding my startup which led to roles ranging from rapid prototyping to automated deployment to subtractive design: sensemaking the  pivotal potential of people, product, and process.
+A computer science merit award set the scene for dropping out of music school. While finishing the BS at night, a programming internship led deeper into design, development, and deployment.
+Wrote commercial software for decades: automating data center operations, developing user interface experiences, remodeling complete systems, and more. 
+A fellowship catalyzed funding and founding my startup. Startup roles followed ranging from rapid prototyping to automated deployment to subtractive design: sensemaking the  pivotal potential of people, product, and process.
 </p>
 
 <h3 id="knowledge-and-skills">Knowledge and Skills</h3>
