@@ -1,5 +1,5 @@
 <p>
-A computer science merit award set the stage for thriving as a music school dropout. Finished the BS at night while an internship deepened my interest in software design, development, and deployment.
+My computer science merit award set the stage for thriving as a music school dropout. Finished the BS at night while an internship deepened my interest in software design, development, and deployment.
 Wrote commercial software for decades: automating data center operations, crafting user interface experiences, remodeling complete systems, and more. 
 A fellowship catalyzed funding and founding my startup. Startup roles followed ranging from rapid prototyping to automated deployment to subtractive design: sensemaking the  pivotal potential of people, product, and process.
 </p>
@@ -135,7 +135,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </table>
 <p>
 <ul><li>Applied Perception built nascent robotics for military clients</li>
-<li>Ported C# GUI to Linux&nbsp;&nbsp;<a href="https://en.wikipedia.org/wiki/Foster-Miller_TALON">OCU</a> C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI to&nbsp;&nbsp;<a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7664/766418/Remote-robotic-countermine-systems/10.1117/12.850324.short">UUV</a></li>
+<li>Ported C# GUI to Linux OCU in C++/Qt; Coded Python XML sonar parser/viz to bridge C++ GUI to UUV</li>
 <li>Applied Perception was first acquired by Foster-Miller, then Foster-Miller was acquired by QinetiQ</li></ul>
 </p>
 <table class="experience">
@@ -165,7 +165,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </table>
 <p>
 <ul><li>Conceived, marketed and launched startup to build custom Linux distros online</li>
-<li>Designed, built, and shipped the&nbsp;&nbsp;<a href="https://rubenerd.com/p1191/">Cobind Desktop</a> - PoC of the DIY build tools</li>
+<li>Designed, built, and shipped the Cobind Desktop - PoC of the DIY build tools</li>
 <li>Reached a worldwide audience quickly using free media and our website via word-of-mouth marketing</li>
 <li>Failed fast when we realized that founding delivered more epiphanies and insights than any formal education</ul>
 </p>
@@ -177,7 +177,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </tr>
 </table>
 <p>
-<ul><li>Built and profiled terrain visualization C++ code ported from Intel to Xilinx&nbsp;&nbsp;<a href="https://www.xilinx.com/products/boards-and-kits/cu104.html">ZCU-104</a></li></ul>
+<ul><li>Built and profiled terrain visualization C++ code ported from Intel to Xilinx ZCU-104</li></ul>
 </p>
 <table class="experience">
 <tbody>
@@ -201,7 +201,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </tr>
 </table>
 <p>
-<ul><li>Designed and implemented python system to track movers via <a href="https://en.wikipedia.org/wiki/PostGIS">PostGIS</a> and web2py</li></ul>
+<ul><li>Designed and implemented python system to track movers via PostGIS and web2py</li></ul>
 </p>
 
 <h3>Education and Awards</h3>
