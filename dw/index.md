@@ -1,6 +1,6 @@
 <p>
 A computer science merit award set the stage for thriving as a music school dropout. Finished the BS at night while an internship deepened my interest in software design, development, and deployment.
-Wrote commercial software for decades: automating data center operations, developing user interface experiences, remodeling complete systems, and more. 
+Wrote commercial software for decades: automating data center operations, crafting user interface experiences, remodeling complete systems, and more. 
 A fellowship catalyzed funding and founding my startup. Startup roles followed ranging from rapid prototyping to automated deployment to subtractive design: sensemaking the  pivotal potential of people, product, and process.
 </p>
 
