@@ -1,69 +1,25 @@
+<h3>Summary</h3>
 <p>
-My computer science merit award set the stage for thriving as a music school dropout. Finished the BS at night while an internship deepened my interest in software design, development, and deployment.
-Wrote commercial software for decades: automating data center operations, crafting user interface experiences, remodeling complete systems, and more. 
-A fellowship catalyzed funding and founding my startup. Startup roles followed ranging from rapid prototyping to automated deployment to subtractive design: sensemaking the  pivotal potential of people, product, and process.
+My computer science <strong>merit award</strong> set the stage to finish my education as a music school dropout. 
 </p>
-
-<h3 id="knowledge-and-skills">Knowledge and Skills</h3>
 <p>
-<table class="skills">
-<thead>
-<tr>
-<th>Platforms</th>
-<th>Languages</th>
-<th>Databases</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Linux</td>
-<td>C/C++</td>
-<td>MySQL</td>
-</tr>
-
-<tr>
-<td>MacOS</td>
-<td>HTML/CSS/JS</td>
-<td>Postgres</td>
-</tr>
-
-<tr>
-<td>Windows</td>
-<td>Python</td>
-<td>SQLite</td>
-</tr>
-</tbody>
-<tr><td>&nbsp;&nbsp;</td></tr>
-<thead>
-<tr>
-<th>Integration (CI)</th>
-<th>Deployment (CD)</th>
-<th>Frameworks</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Jenkins</td>
-<td>Docker</td>
-<td>Django</td>
-</tr>
-<tr>
-<td>Circle CI</td>
-<td>Kubernetes</td>
-<td>Flask</td>
-</tr>
-<tr>
-<td>GitOps</td>
-<td>Proxmox</td>
-<td>Rails</td>
-</tr>
-<tr>
-</tr>
-<tr>
-</tr>
-
-</tbody>
-</table>
+Finished the&nbsp;&nbsp;<strong>BS</strong> at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
+</p>
+<p>
+After college graduation, honed my craft <strong>automating operations</strong>, <strong>developing user interfaces</strong>, and <strong>managing Unix systems</strong>. 
+</p>
+<p>
+<p>
+As the <strong>Unix</strong> sun set on my first decade, the&nbsp;&nbsp;<strong>Linux</strong> sun rose as a <strong>fellowship</strong> catalyzed my startup, Cobind.
+</p>
+<p>
+Roles from <strong>rapid prototyping</strong> to <strong>automated deployment</strong> to <strong>remodeling complete systems</strong> followed.
+</p>
+<p>
+<strong>Process is sensemaking</strong> borne of shrinking timelines, shifting roles, and increasing complexity. 
+</p>
+<p>
+Labels like <strong>agile, action learning, or lean</strong> are just cultural symbols of a team that reflects together, learns together, adapts together; gels together, scales together, and stays together. The most important qualities are team uniqueness, flow-enhancement, and sustainably safe.
 </p>
 
 <h3>Experience (W-2)</h3>
@@ -84,7 +40,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </tr>
 </table>
 <p>
-<ul><li>MVP in production challenged growing client demands with unsustainable devops opportunity costs</li>
+<ul><li>MVP in production challenged growing client dands with unsustainable devops opportunity costs</li>
 <li>Designed crawler data pipeline in Docker/Kubernetes on Mac to AWS Python/Postgres &amp; MySQL</li>
 <li>Managed daily sessions with team to establish cadence, pairs work, and engineering confidence</li></ul>
 </p>
@@ -104,9 +60,10 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </tr>
 </table>
 <p>
-<ul><li>Series A startup with concept to provide digital storage for <em>100 years</em></li>
-<li>Prototyped MVP in Python, Flask, Mongo; Wrote production system in Ruby/Rails on Heroku/Postgres</li>
-<li>Forever continues to sell storage product while integrating complementary assets via M&amp;A</li></ul>
+<ul><li>Series A startup with concept to providgital storage for 100 years</li>
+<li> Prototyped MVP in Python, Flask, Mongo; Wrote production system in Ruby/Rails on Heroku/Postgres</li>
+<li>Forever continues to sell storage product while integrating complementary assets via M&amp;A</li>
+</ul>
 </p>
 <table class="experience">
 <tbody>
@@ -115,7 +72,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </table>
 <p>
 <ul><li>Juggled customer service &amp; support from Pittsburgh Steelers to Miller Coors plus new development</li>
-<li>Built conversational text interface to track diabetic glycemia in Python/Flask/Postgres, and Heroku</li>
+<li>Built conversational text interface to track diabetic glycia in Python/Flask/Postgres, and Heroku</li>
 <li>Worked through a funding shortage and company was eventually acquired by Mind Matrix</li></ul>
 </p>
 <table id="wellspring" class="experience">
@@ -150,7 +107,7 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </p>
 <table class="experience">
 <tbody>
-<tr><td>Software Design Engineer</td><td><a href="https://remakelearning.org/organization/maya-design/">MAYA Design</a></td><td>2004-2006</td>
+<tr><td>Software Design Engineer</td><td><a href="https://rakelearning.org/organization/maya-design/">MAYA Design</a></td><td>2004-2006</td>
 </tr>
 </table>
 <p>
@@ -167,7 +124,6 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 <ul><li>Conceived, marketed and launched startup to build custom Linux distros online</li>
 <li>Designed, built, and shipped the Cobind Desktop - PoC of the DIY build tools</li>
 <li>Reached a worldwide audience quickly using free media and our website via word-of-mouth marketing</li>
-<li>Failed fast when we realized that founding delivered more epiphanies and insights than any formal education</ul>
 </p>
 
 <h3 id="short-term-experience">Experience (1099)</h3>
@@ -197,15 +153,13 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 </p>
 <table class="experience">
 <tbody>
-<tr><td>Technical Consultant</td><td><a href="http://movemarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td>2008</td>
+<tr><td>Technical Consultant</td><td><a href="http://movarker.com/pdf/Zenit_whitepaper.pdf">Zenit Solutions</a></td><td>2008</td>
 </tr>
 </table>
 <p>
 <ul><li>Designed and implemented python system to track movers via PostGIS and web2py</li></ul>
 </p>
-
 <h3>Education and Awards</h3>
-
 <p>
 <table class="education">
 <tr><td>Duquesne</td><td><a href="https://www.duq.edu/academics/colleges-and-schools/business/index.php?school=Palumbo-Donahue+School+of+Business">Bachelor of Science</a></td>
@@ -213,4 +167,3 @@ A fellowship catalyzed funding and founding my startup. Startup roles followed r
 <tr><td>MIT (CE)<td><a href="https://philip.greenspun.com/teaching/rdbms-iap-2015">RDBMS and IAP</a></td><td>Idea Foundry</b></td><td><a href="https://www.ideafoundry.org/about#:~:text=Our%20initial%20program%2C%20The%20Transformational%20Fellowship%2C%20has%20evolved%20into%20our%20Impact%20Innovation%20Program%20and%20its%20portfolio%20has%20grown%20and%20created%20impact%20throughout%20the%20world.">Transformation Fellowship</a></td></tr>
 </table>
 </p>
-
