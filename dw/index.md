@@ -1,28 +1,37 @@
 <h3>Summary</h3>
 <p>
-My computer science <strong>merit award</strong> set the stage to finish my education as a music school dropout. 
+<strong>tldr;</strong> A decade of C++ on Windows, a decade of Python on Mac, a decade of Postgres on Linux.&nbsp;&nbsp;<a title="Consensus on David" href="https://www.linkedin.com/in/davidthewatson/details/recommendations/?profileUrn=urn%25253Ali%25253Afsd_profile%25253AACoAAAAXcOEBi-yauHTCxj3C7DCSjyXqWa7Zqkw&tabIndex=0&detailScreenTabIndex=0"><i class="fa fa-solid fa-comment"></i></a>
 </p>
 <p>
-Finished the&nbsp;&nbsp;<strong>BS</strong> at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
+My computer science <strong>merit award</strong> rescued my education as a music school dropout. 
+Finished the&nbsp;&nbsp;<strong>BS</strong><br>at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
 </p>
 <p>
-After college graduation, honed my craft <strong>automating operations</strong>, <strong>developing user interfaces</strong>, and <strong>managing Unix systems</strong>. 
+Honed my craft automating operations, developing user interfaces, and managing Unix systems. 
 </p>
 <p>
-<p>
-As the <strong>Unix</strong> sun set on my first decade, the&nbsp;&nbsp;<strong>Linux</strong> sun rose as a <strong>fellowship</strong> catalyzed my startup, Cobind.
+As the <strong>Unix</strong> sun set on my first decade, the&nbsp;&nbsp;<strong>Linux</strong> sun rose as a <strong>fellowship</strong> catalyzed my <strong>startup</strong>, Cobind.
 </p>
 <p>
-Roles from <strong>rapid prototyping</strong> to <strong>automated deployment</strong> to <strong>remodeling complete systems</strong> followed.
+The next decade's roles included rapid prototyping, automated deployment, and remodeling legacy systems.
 </p>
 <p>
-<strong>Process is sensemaking</strong> borne of shrinking timelines, shifting roles, and increasing complexity. 
-</p>
-<p>
-Labels like <strong>agile, action learning, or lean</strong> are just cultural symbols of a team that reflects together, learns together, adapts together; gels together, scales together, and stays together. The most important qualities are team uniqueness, flow-enhancement, and sustainably safe.
+My management roles have included playing moderator to the middle road from conflict to consensus.<br>Consensus wasn't always required, which is what gave rise to sensemaking&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>action learning</strong>.
 </p>
 
 <h3>Experience (W-2)</h3>
+
+<table class="experience">
+<tbody>
+<tr><td>Senior Member of Technical Staff</td><td><a href="https://www.sei.cmu.edu/about/divisions/artificial-intelligence-division/index.cfm">Carnegie Mellon University</a></td><td>2020</td>
+</tr>
+</table>
+<p>
+<ul>
+<li>Worked as a member of the Emerging Technology group which became the AI division</li>
+<li>Projects included Artificial Intelligence, High Performance Computing, Human Computer Interaction</li>
+</ul>
+</p>
 <table class="experience">
 <tbody>
 <tr><td>Software Engineering Specialist</td><td><a href="https://en.wikipedia.org/wiki/Caterpillar_Inc.">Caterpillar</a></td><td>2018-2020</td>
@@ -124,8 +133,8 @@ Labels like <strong>agile, action learning, or lean</strong> are just cultural s
 <ul><li>Conceived, marketed and launched startup to build custom Linux distros online</li>
 <li>Designed, built, and shipped the Cobind Desktop - PoC of the DIY build tools</li>
 <li>Reached a worldwide audience quickly using free media and our website via word-of-mouth marketing</li>
+</ul>
 </p>
-
 <h3 id="short-term-experience">Experience (1099)</h3>
 <table class="experience">
 <tbody>
