@@ -7,13 +7,13 @@ My computer science <strong>merit award</strong> rescued my education as a music
 Finished the&nbsp;&nbsp;<strong>BS</strong><br>at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
 </p>
 <p>
-Honed my craft automating operations, developing user interfaces, and managing Unix systems. 
+Honed my craft <strong>automating</strong> operations, <strong>developing</strong> user interfaces, and <strong>managing</strong> Unix systems. 
 </p>
 <p>
 As the <strong>Unix</strong> sun set on my first decade, the&nbsp;&nbsp;<strong>Linux</strong> sun rose as a <strong>fellowship</strong> catalyzed my <strong>startup</strong>, Cobind.
 </p>
 <p>
-The next decade's roles included rapid prototyping, automated deployment, and remodeling legacy systems.
+The next decade's roles included rapid <strong>prototyping</strong>, automated <strong>deployment</strong>, and <strong>designing</strong> <em title="Minimum Viable Product">MVP</em> into <em title="Most Advanced, Yet Acceptable">MAYA</em>.
 </p>
 <p>
 My management roles have included playing moderator to the middle road from conflict to consensus.<br>Consensus wasn't always required, which is what gave rise to sensemaking&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>action learning</strong>.
@@ -28,6 +28,7 @@ My management roles have included playing moderator to the middle road from conf
 </table>
 <p>
 <ul>
+<li>Research related disciplines at the intersection of academia, industry, and government</li>
 <li>Worked as a member of the Emerging Technology group which became the AI division</li>
 <li>Projects included Artificial Intelligence, High Performance Computing, Human Computer Interaction</li>
 </ul>
