@@ -1,36 +1,28 @@
-<h3>Summary</h3>
-<p>
-<strong>tldr;</strong> A decade of C++ on Windows, a decade of Python on Mac, a decade of Postgres on Linux.&nbsp;&nbsp;<a title="Consensus on David" href="https://www.linkedin.com/in/davidthewatson/details/recommendations/?profileUrn=urn%25253Ali%25253Afsd_profile%25253AACoAAAAXcOEBi-yauHTCxj3C7DCSjyXqWa7Zqkw&tabIndex=0&detailScreenTabIndex=0"><i class="fa fa-solid fa-comment"></i></a>
-</p>
-<p>
-My computer science <strong>merit award</strong> rescued my education as a music school dropout. 
-Finished the&nbsp;&nbsp;<strong>BS</strong><br>at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
+<h4><strong>C++ CLI/GUI on Windows</strong>, <strong>Python front &amp; back-end on Mac</strong>, and <strong>Postgres APIs on Linux</strong>.&nbsp;&nbsp;<a title="Consensus on David" href="https://www.linkedin.com/in/davidthewatson/details/recommendations/?profileUrn=urn%25253Ali%25253Afsd_profile%25253AACoAAAAXcOEBi-yauHTCxj3C7DCSjyXqWa7Zqkw&tabIndex=0&detailScreenTabIndex=0"><i class="fa fa-solid fa-comment"></i></a></h4>
+<p><strong>Learning</strong> by <strong>creating</strong>, <strong>producing</strong>, and <strong>reflecting</strong> is my passion. Some call it <em>action learning</em>.</p>
+My computer science <strong>merit award</strong> enabled pivoting my education as a music school dropout. 
+Finished the&nbsp;&nbsp;<strong>BS</strong> at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
 </p>
 <p>
 Honed my craft <strong>automating</strong> operations, <strong>developing</strong> user interfaces, and <strong>managing</strong> Unix systems. 
 </p>
 <p>
-As the <strong>Unix</strong> sun set on my first decade, the&nbsp;&nbsp;<strong>Linux</strong> sun rose as a <strong>fellowship</strong> catalyzed my <strong>startup</strong>, Cobind.
+As the <strong>Unix</strong> sun set on my early career, the&nbsp;&nbsp;<strong>Linux</strong> sun rose on a <strong>fellowship</strong> catalyzing my <strong>startup</strong>.
+What followed were roles including rapid <strong>prototyping</strong>, automated <strong>deployment</strong>, and occasionally <strong>designing</strong> and <strong>remodeling</strong> <em>Minimum Viable Products</em> into <em>Most Advanced, Yet Acceptable</em>.
 </p>
 <p>
-The next decade's roles included rapid <strong>prototyping</strong>, automated <strong>deployment</strong>, and <strong>designing</strong> <em title="Minimum Viable Product">MVP</em> into <em title="Most Advanced, Yet Acceptable">MAYA</em>.
-</p>
-<p>
-My management roles have included playing moderator to the middle road from conflict to consensus.<br>Consensus wasn't always required, which is what gave rise to sensemaking&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>action learning</strong>.
-</p>
+My management roles were all <em>peer moderator to the middle road from conflict to consensus</em>. Moving consensus from possible to probable is sensemaking, whether it was&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>scrumban</strong>.
 
 <h3>Experience (W-2)</h3>
 
 <table class="experience">
 <tbody>
-<tr><td>Senior Member of Technical Staff</td><td><a href="https://www.sei.cmu.edu/about/divisions/artificial-intelligence-division/index.cfm">Carnegie Mellon University</a></td><td>2020</td>
+<tr><td>Senior Member of Technical Staff</td><td><a href="https://www.cmu.edu/">Carnegie Mellon University</a></td><td>2020</td>
 </tr>
 </table>
 <p>
 <ul>
-<li>Research related disciplines at the intersection of academia, industry, and government</li>
-<li>Worked as a member of the Emerging Technology group which became the AI division</li>
-<li>Projects included Artificial Intelligence, High Performance Computing, Human Computer Interaction</li>
+<li>Research &amp development on AI, HPC, and HCI within <a href="https://www.sei.cmu.edu/">SEI</a> Emerging Technology group</li>
 </ul>
 </p>
 <table class="experience">
