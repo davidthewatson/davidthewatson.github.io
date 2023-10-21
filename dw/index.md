@@ -1,17 +1,17 @@
-<h4><strong>C++ CLI/GUI on Windows</strong>, <strong>Python front &amp; back-end on Mac</strong>, and <strong>Postgres APIs on Linux</strong>.&nbsp;&nbsp;<a title="Consensus on David" href="https://www.linkedin.com/in/davidthewatson/details/recommendations/?profileUrn=urn%25253Ali%25253Afsd_profile%25253AACoAAAAXcOEBi-yauHTCxj3C7DCSjyXqWa7Zqkw&tabIndex=0&detailScreenTabIndex=0"><i class="fa fa-solid fa-comment"></i></a></h4>
-<p><strong>Learning</strong> by <strong>creating</strong>, <strong>producing</strong>, and <strong>reflecting</strong> is my passion. Some call it <em>action learning</em>.</p>
-My computer science <strong>merit award</strong> enabled pivoting my education as a music school dropout. 
-Finished the&nbsp;&nbsp;<strong>BS</strong> at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my passion for software. 
+<h4>Software engineer manifesting novel ideas in nascent products and services <a title="Consensus on David" href="https://www.linkedin.com/in/davidthewatson/details/recommendations/?profileUrn=urn%25253Ali%25253Afsd_profile%25253AACoAAAAXcOEBi-yauHTCxj3C7DCSjyXqWa7Zqkw&tabIndex=0&detailScreenTabIndex=0"><i class="fa fa-solid fa-comment"></i></a></h4>
+<p>My passion is <strong>learning</strong> by <strong>creating</strong>, <strong>producing</strong>, and <strong>reflecting</strong>. Some call it <em>action learning</em>.</p>
+A computer science <strong>award</strong> enabled pivoting my education as a music school dropout. 
+Finished the&nbsp;&nbsp;<strong>BS</strong> at night while a data center programming&nbsp;&nbsp;<strong>internship</strong> ignited my love for software. 
 </p>
 <p>
 Honed my craft <strong>automating</strong> operations, <strong>developing</strong> user interfaces, and <strong>managing</strong> Unix systems. 
 </p>
 <p>
 As the <strong>Unix</strong> sun set on my early career, the&nbsp;&nbsp;<strong>Linux</strong> sun rose on a <strong>fellowship</strong> catalyzing my <strong>startup</strong>.
-What followed were roles including rapid <strong>prototyping</strong>, automated <strong>deployment</strong>, and occasionally <strong>designing</strong> and <strong>remodeling</strong> <em>Minimum Viable Products</em> into <em>Most Advanced, Yet Acceptable</em>.
+What followed were roles from rapid <strong>prototyping</strong> to automated <strong>deployment</strong> to <strong>designing</strong> and <strong>remodeling</strong> <em>Minimum Viable Products</em> into <em>Most Advanced, Yet Acceptable</em>.
 </p>
 <p>
-My management roles were all <em>peer moderator to the middle road from conflict to consensus</em>. Moving consensus from possible to probable is sensemaking, whether it was&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>scrumban</strong>.
+My management roles were all <em>peer moderator to the middle road from conflict to consensus</em>. Moving consensus from possible to probable is a combination of meaning-making and sense-making, whether it was&nbsp;&nbsp;<strong>agile</strong>, <strong>lean</strong>, or <strong>scrumban</strong>.
 
 <h3>Experience (W-2)</h3>
 
@@ -74,7 +74,7 @@ My management roles were all <em>peer moderator to the middle road from conflict
 </table>
 <p>
 <ul><li>Juggled customer service &amp; support from Pittsburgh Steelers to Miller Coors plus new development</li>
-<li>Built conversational text interface to track diabetic glycia in Python/Flask/Postgres, and Heroku</li>
+<li>Built conversational text interface to track diabetic glycemia in Python/Flask/Postgres, and Heroku</li>
 <li>Worked through a funding shortage and company was eventually acquired by Mind Matrix</li></ul>
 </p>
 <table id="wellspring" class="experience">
