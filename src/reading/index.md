@@ -1,4 +1,4 @@
-### reading [writing](/writing/) [reflecting](/reflecting/) 
+### READING [writing](/writing/) [reflecting](/reflecting/) 
 
 #### and quoting
 

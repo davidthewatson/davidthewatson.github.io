@@ -1,4 +1,4 @@
-### [reading](/reading/) [writing](/writing/) reflecting 
+### [reading](/reading/) [writing](/writing/) REFLECTING 
 
 #### by hyperlink or [generation](https://en.wikipedia.org/wiki/Natural_language_generation)
 
