@@ -1,4 +1,4 @@
-### I'm ***David***. *This* is my artist statement:  
+### I'm ***David***. This is my metastory.
 ### I like to [read](/reading/), [write](/writing/), and [reflect](/reflecting/)
 ### on [art, science, and philosophy](/writing/art_science_philosophy.html) 
 ### to [make sense of my experience](/writing/sensemaking_software_startups.html) 
