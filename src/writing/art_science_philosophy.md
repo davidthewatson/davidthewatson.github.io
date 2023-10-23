@@ -5,5 +5,5 @@ Practiced alone as solo artist, personal scientist, or arm-chair philosopher, ea
 
 What transforms personal meaning-making into social sense-making is the inflection point where our art strikes a resonant chord with others, our science makes hidden truths apparent from data, or our philosophy tethers a shared community across the aisle from diverse, discordant reality. 
 
-Art, science, and philosophy provide mutual understanding through spirit, logic, and intuition. Hence, art, science, and philosophy is central to any society cultivating growth and thriving as opposed to merely suffering and survival.
+Art, science, and philosophy provide mutual understanding through spirit, logic, and intuition. Hence, art, science, and philosophy are central to any society cultivating growth and thriving as opposed to merely suffering and survival.
 
