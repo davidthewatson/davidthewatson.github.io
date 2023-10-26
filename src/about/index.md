@@ -1,16 +1,16 @@
 ##### About The David formerly known as <s>Dave</s>
 
-My bikes, drums, and computers have led to <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
+The objects of my affection are bikes, drums, and computers. Those objects have led to <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
-What code and jazz share is that both result from consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
+My life's purpose is to ameliorate diabetes for myself and others. Why ameliorate? Well, consider the definition:
 
-It should come as no surprise, then, that labor markets are now split between robots,  AI (the root of which is robots in stasis without 3d physics, otherwise known as enough GPU compute to burn down a data center), and humans who are robotically compulsive. 
+<dl>
+<dt>ameliorate</dt>
+<dd>make something bad better or more tolerable</dd>
+</dl>
 
-Data centers became Fordist footnotes when software's postmodern extensibiliity enveloped and commodified the data center in its wake. 
+I joke with friends and family that "I've cured diabetes". They laugh out loud. Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. I'm working on a book about that very subject.
 
-Startups are my default mode. 
-
-Tamed prototype design, product development, and platform deployment as angels morphed into VC's on the way to M&A.
 
 > Death gives meaning to our lives. It gives importance and value to time. Time would become meaningless if there were too much of it. <footer>- <cite>[Ray Kurzweil][4]</cite></footer> 
 [4]: https://www.goodreads.com/quotes/274918-death-gives-meaning-to-our-lives-it-gives-importance-and
@@ -26,7 +26,7 @@ But before I was on the run, my teenage adulation of [Breaking Away](https://www
 fans-say-it-changed-their-lives-too) ended with a spectacular bike
 crash. Slow jogging long distances has taught me that [the race is not always to the swift](https://read.gov/aesop/025.html). 
 
-I've spent a lifetime learning from my childhood diabetes diagnosis by building a protocol of feasting, fasting, reading, writing, and reflecting.
+I've spent a lifetime learning from my childhood diabetes diagnosis by building a protocol of feasting, fasting, and exercise.
 
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
@@ -34,11 +34,12 @@ I've spent a lifetime learning from my childhood diabetes diagnosis by building 
 ###### <a name="music"></a>Music
 <img class="icon-headshot" src="/images/tama.jpg" alt="Drums" title="Drums"></img>
 
-For me, drums made jazz approachable until my mind, body, and soul coalesced. I'm still learning. Classics have their place, but 
-live trio fusion is where I find peace. 
+For me, drums made jazz approachable until my mind, body, and soul caught up. I'm still learning. 
+
+Live, acoustic, trio fusion is where I find peace. Some would call it *third stream* which is an old term. The fusion here is really a fusion or hybrid of orchestrational elements from classical, combined with improvisational elements of jazz,  where what you get is the more flexible warmth of the same elements that informed classical for hundreds of years.   
 
 I planned to be a classical musician, but I gave up my music scholarship when I dropped out of music school to study computer
-science instead. My parents said a good corporate job would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
+science instead. My parents said a *The Corporation* would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
 
 The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as an art form is that it depends on the artist, the listener, and the artist-listener. Jazz is the greatest triumph of listening as art. 
 Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat Metheny, and a pianist like Marcin Wasilewski, then listen carefully to their transcendent sound. 
@@ -50,8 +51,11 @@ simply a way of waking up to the very life we're living. <footer>- <cite>[John C
 ###### <a name="software"></a>Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
 
-Software started as a *personal* science for me - peeking and poking at *personal* computers. Decades later I practice software as experiments in art and philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
+Software started as a *personal* science for me - peeking and poking at *personal* computers. 
 
+Decades later I practice software as experiments in art and intuitive philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
+
+My work can be thought of as a kind of postmodern retrocomputing, a tongue-in-cheek smirk at the fact that lightweight, minimal approaches scale well without much work.
 My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
@@ -66,3 +70,5 @@ a programmable machine, much as a sculptor shapes clay. Leonardo called music
 *shaping the invisible*, and his phrase is even more apt as a description of
 software. <footer>- <cite>[Alan Kay][3]</cite></footer>
 [3]: https://en.wikipedia.org/wiki/Alan_Kay
+
+What code and jazz share beyond their four-letter-word origins is that both result from liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
