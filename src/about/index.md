@@ -11,7 +11,7 @@ My life's purpose is to ameliorate diabetes for myself and others. Why ameliorat
 
 To that end, I was on the board of directors of my local American Diabetes Association during high school.
 
-I joke with friends and family that *I've cured diabetes*. They laugh out loud. Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. I'm working on a book about that my unique approach to not just surviving, but thriving with diabetes.
+I joke with friends and family that *I've cured diabetes*. They laugh out loud. Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. I'm working on a book about my unique approach to not just surviving, but thriving with diabetes.
 
 
 > Death gives meaning to our lives. It gives importance and value to time. Time would become meaningless if there were too much of it. <footer>- <cite>[Ray Kurzweil][4]</cite></footer> 
