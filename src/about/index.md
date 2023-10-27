@@ -2,20 +2,8 @@
 
 I'm into <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
-My life's purpose is to ameliorate diabetes for myself and others. Why ameliorate? Well, consider the definition:
-
-<dl>
-<dt>ameliorate</dt>
-<dd>make something bad better or more tolerable</dd>
-</dl>
-
-I started young. I was diagnosed with type 1 diabetes at age 7. Joined the board of directors of my local American Diabetes Association chapter during high school.
-
-Now, I joke with friends and family that *I've cured diabetes*. They laugh out loud. 
-
-Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. 
-
-I'm working on a book about my unique approach to not just surviving, but thriving with diabetes.
+My compulsion with health is simple. My diagnosis with ideopathic Type 1 Diabetes Mellitus at age 7 imparted a certain premature maturity on me. I responded as best I could by studying biology, chemistry, and medicine while playing Peter Pan in between.
+As a teenager, I was invited and joined the board of directors of my local American Diabetes Association chapter.
 
 > Death gives meaning to our lives. It gives importance and value to time. Time would become meaningless if there were too much of it. <footer>- <cite>[Ray Kurzweil][4]</cite></footer> 
 [4]: https://www.goodreads.com/quotes/274918-death-gives-meaning-to-our-lives-it-gives-importance-and
@@ -33,15 +21,47 @@ crash. Slow jogging long distances has taught me that [the race is not always to
 
 I've spent a lifetime learning from my childhood diabetes diagnosis by building a protocol of feasting, fasting, and exercise.
 
+**My life's purpose is to ameliorate diabetes for myself and others.** 
+
+Why ameliorate? Well, consider the definition:
+
+<dl>
+<dt>ameliorate</dt>
+<dd>make something bad better or more tolerable</dd>
+</dl>
+
+Now I joke with friends and family that *I've cured diabetes*. They laugh out loud. 
+
+Of course, I haven't actually cured diabetes, but the [path](https://dornsife.usc.edu/news/stories/a-diet-that-mimics-fasting-may-reverse-type-1-and-type-2-diabetes/#:~:text=Longo%20and%20his%20team%20also,could%20alleviate%20diabetes%20in%20humans.) to [remission](https://www.valterlongo.com/diabetes-obesity/) is [clear](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357144/) and the milestones are [clearer](https://www.bbc.com/news/health-39070183) yet. Many of those milestones emerged recently:
+
+* 2019
+    * Adopted a whole-foods, plant-based (WFPB) diet 
+        * Lost ~23 Kg in the process 
+* 2021
+    * Finished the Belmar Bridge half marathon 
+        * Medaled in my age group
+    * HbA1c reached 6.0, below the threshold of T1D diagnosis
+* 2022
+    * Finished the Pittsburgh Marathon
+      * Near slowest marathon times recorded
+        * First half matched my half-marathon (2:10)
+        * Second half took **4 hours**
+    * Rain reminded me of winter 98-99 in Seattle (El Niño)
+* 2023
+    * Shut off my closed-loop hybrid insulin pump for the first time in over two decades
+    * I shed a tear when the cyborg shadow I'd embodied for two decades left my body
+    * HbA1c dipped into the 5's for the first time during the October Experiment
+    * Started work on my book about my unique approach to diabetes
+
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
 
 ###### <a name="music"></a>Music
 <img class="icon-headshot" src="/images/tama.jpg" alt="Drums" title="Drums"></img>
 
-For me, drums made jazz approachable until my mind, body, and soul caught up. I'm still learning. 
+For me, drums made jazz approachable when I was too young and didn't possess the fine motor control skills to master the feel (exteroception). I'm still learning. 
 
-Live, acoustic, trio fusion is where I find peace. Some would call it *third stream* which is an old term. The fusion here is really a fusion or hybrid of orchestrational elements from classical, combined with improvisational elements of jazz,  where what you get is the more flexible warmth of the same elements that informed classical for hundreds of years.   
+Live, acoustic, trio fusion is where I find peace. Some call it [third stream](https://en.wikipedia.org/wiki/Third_stream) which curiously pre-dates *fusion*. 
 
 I planned to be a classical musician, but I gave up my music scholarship when I dropped out of music school to study computer
 science instead. My parents said that *The Corporation* would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
@@ -56,13 +76,14 @@ simply a way of waking up to the very life we're living. <footer>- <cite>[John C
 ###### <a name="software"></a>Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
 
-Software started as a *personal* science for me - peeking and poking at *personal* computers. 
+Software started as a *personal* science for me as an adolescent - peeking and poking at *personal* computers. 
 
 Decades later I practice software as experiments in art and intuitive philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
 
-I like working across the entire spectrum of microcomputing to macrocomputing. 
+I've been fortunate to work across the entire spectrum of software from microcomputing to macrocomputing. 
 
-My work can be thought of as a kind of postmodern retrocomputing, a tongue-in-cheek smirk at the fact that *small pieces, loosely joined* scale well without much work.
+My work is a kind of deceptively postmodern retrocomputing, a tongue-in-cheek smirk at the fact that simple glue code piped together scales well when profiled and performance-tuned on a cycle. The complexity is tamed by keeping an architectural boundary from the dark basement where hackers stay up late to integrate the scary daemons and shadows that dwell there.
+
 My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
@@ -79,4 +100,4 @@ software. <footer>- <cite>[Alan Kay][3]</cite></footer>
 
 ___
 
-What code and jazz share beyond their four-letter-word origins is that both result from ephemeral, liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
+What code and jazz share beyond four-letter-words is that both result from ephemeral, liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is compulsively logical while the other is impulsively emotional. 
