@@ -1,6 +1,6 @@
 ##### About The David formerly known as <s>Dave</s>
 
-The objects of my affection are bikes, drums, and computers. Those objects have led to <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
+I'm into <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
 My life's purpose is to ameliorate diabetes for myself and others. Why ameliorate? Well, consider the definition:
 
@@ -9,10 +9,13 @@ My life's purpose is to ameliorate diabetes for myself and others. Why ameliorat
 <dd>make something bad better or more tolerable</dd>
 </dl>
 
-To that end, I was on the board of directors of my local American Diabetes Association during high school.
+I started young. I was diagnosed with type 1 diabetes at age 7. Joined the board of directors of my local American Diabetes Association chapter during high school.
 
-I joke with friends and family that *I've cured diabetes*. They laugh out loud. Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. I'm working on a book about my unique approach to not just surviving, but thriving with diabetes.
+Now, I joke with friends and family that *I've cured diabetes*. They laugh out loud. 
 
+Of course, I haven't actually cured diabetes, but the path to remission is clear and the milestones are clearer yet. 
+
+I'm working on a book about my unique approach to not just surviving, but thriving with diabetes.
 
 > Death gives meaning to our lives. It gives importance and value to time. Time would become meaningless if there were too much of it. <footer>- <cite>[Ray Kurzweil][4]</cite></footer> 
 [4]: https://www.goodreads.com/quotes/274918-death-gives-meaning-to-our-lives-it-gives-importance-and
@@ -41,7 +44,7 @@ For me, drums made jazz approachable until my mind, body, and soul caught up. I'
 Live, acoustic, trio fusion is where I find peace. Some would call it *third stream* which is an old term. The fusion here is really a fusion or hybrid of orchestrational elements from classical, combined with improvisational elements of jazz,  where what you get is the more flexible warmth of the same elements that informed classical for hundreds of years.   
 
 I planned to be a classical musician, but I gave up my music scholarship when I dropped out of music school to study computer
-science instead. My parents said a *The Corporation* would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
+science instead. My parents said that *The Corporation* would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
 
 The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as an art form is that it depends on the artist, the listener, and the artist-listener. Jazz is the greatest triumph of listening as art. 
 Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat Metheny, and a pianist like Marcin Wasilewski, then listen carefully to their transcendent sound. 
@@ -57,15 +60,16 @@ Software started as a *personal* science for me - peeking and poking at *persona
 
 Decades later I practice software as experiments in art and intuitive philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
 
-My work can be thought of as a kind of postmodern retrocomputing, a tongue-in-cheek smirk at the fact that lightweight, minimal approaches scale well without much work.
+I like working across the entire spectrum of microcomputing to macrocomputing. 
+
+My work can be thought of as a kind of postmodern retrocomputing, a tongue-in-cheek smirk at the fact that *small pieces, loosely joined* scale well without much work.
 My work has spanned:
 
 * [APIs](https://xmlrpc.sourceforge.net/documentation.pdf) and  [Automation](https://www.broadcom.com/products/mainframe/product-portfolio/automation-point)
 * [Cancer](http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf) and [Diabetes](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps#:~:text=they%20craft%20glucose%20meters%20for%20diabetics) 
 * [Design](https://www.fastcompany.com/1279088/inside-maya-designs-innovation-boot-camps) and [Startups](/cobind_retrospective.html) 
 
-But nothing has influenced my work more than <a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Postgres</a>, <a href="https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment">ProxMox</a>, and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Python</a>. All things that are good begin with the letter <strong>P</strong>. 
-
+But nothing has influenced my work more than open source's 3 P's: <a href="https://en.wikipedia.org/wiki/Michael_Stonebraker">Postgres</a>, <a href="https://en.wikipedia.org/wiki/Proxmox_Virtual_Environment">ProxMox</a>, and <a href="https://en.wikipedia.org/wiki/Guido_van_Rossum">Python</a>.
 
 > It is software that gives form and purpose to
 a programmable machine, much as a sculptor shapes clay. Leonardo called music
@@ -73,4 +77,6 @@ a programmable machine, much as a sculptor shapes clay. Leonardo called music
 software. <footer>- <cite>[Alan Kay][3]</cite></footer>
 [3]: https://en.wikipedia.org/wiki/Alan_Kay
 
-What code and jazz share beyond their four-letter-word origins is that both result from liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
+___
+
+What code and jazz share beyond their four-letter-word origins is that both result from ephemeral, liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is logical and compulsive, while the other, emotional and impulsive. 
