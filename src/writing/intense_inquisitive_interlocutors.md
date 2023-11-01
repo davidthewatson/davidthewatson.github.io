@@ -15,7 +15,7 @@ just to write code, but to test, debug, integrate, and deploy code successfully 
 
 Yep, AI isn't able to do all that for you - yet.
 
-And that's because it's own cognitive model is so primitive that its mind is nowhere near the standard
+And that's because its own cognitive model is so primitive that its mind is nowhere near the standard
 established in Julian Jaynes **The Origin of Consciousness in the Breakdown of the Bicameral Mind**. That is,
 current consumer AI can't even pose a question to itself as part of a bicameral Q&A, answer that question in its own mind,
 and return to the root question's resultant veracity, without losing its mind.
