@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="description" content="davidwatson.org">
+<title></title>
+<link rel="stylesheet" href="/css/pico.min.css">
+<link rel="stylesheet" href="/css/styles.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/js/all.min.js" integrity="sha512-naukR7I+Nk6gp7p5TMA4ycgfxaZBJ7MO5iC3Fp6ySQyKFHOGfpkSZkYVWV5R7u7cfAicxanwYQ5D1e17EfJcMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+</head>
+<body>
+  
+  <header class="container">
+  <nav>
+    <ul>
+      <li class="brand">
+        <a href="/">davidwatson.org</a>
+      </li>
+    </ul>
+    <ul>
+      <li>
+        <a href="/about/" alt="about Dave" title="about Dave"><img class="icon-header" src="/images/watson.jpg"
+            alt="Dave" title="Dave"></img></a>
+      </li>
+    </ul>
+  </nav>
+</header>
+<main class="container">
+  <h3>GPT won't replace us, but it will make us better communicators</h3>
+<p>The unforeseen benefit of GPT algorithms is not additive, it's <a href="https://www.nature.com/articles/s41586-021-03380-y">subtractive</a>.</p>
+<p>Like you, I've been reading the hype about how GPT has weaponized NLP and is going to be <a href="https://kitze.io/posts/gpt3-is-the-beginning-of-the-end">the beginning of the end</a> of pretty much everything we know and love from <a href="https://www.wired.com/story/openai-copilot-autocomplete-for-code/">programming</a> to <a href="https://www.theatlantic.com/technology/archive/2022/09/artificial-intelligence-machine-learing-natural-language-processing/661401/">writing</a>. </p>
+<p>While being blown away by some of the quick and seemingly transcendent results that I got from my early experiments with GPT-3, after studying this closely for a while, I realized that what I had seen when I initially described it as magic, was actually a result of starting with the text of an exceptional writer and that text being large enough for the machine to sound like the author without using the author's words verbatim. </p>
+<p>That is, unless you actually are Byung-Chul Han, what you'll get back from GPT-3 is likely less than perfect copy-pasta that sounds a bit uncanny valley. It's a stop along the editing road. I should know, I actually ran GPT-3 through small corpora of text from Han and what I got back was as resplendent as what I had read from Han without being quite as deep or difficult to unpack.</p>
+<p>All else being equal, the smaller the input corpus, the more GPT-3 is just copy-pasta. Where it really shines is when the input corpus is large and the author is a professional. Then the output sounds like the author without plagiarizing a single word. I'm not sure where the threshold is but it's likely similar to the limits on measuring readability metrics.</p>
+<p>It's as if you handed a Han book to your junior copywriter and asked for an abstract. There's actually good value proposition in the traditional academic publishing sense of a Han Reader, but that's beyond the scope of this discussion.</p>
+<p>My stated personal goal was always that I admired the aphorisms of Nietzsche or Szasz but given my ramble-on, stream-of-consciousness writing style, I didn't really want to bring a premature end to the joy I get from writing fast and furious by having automagical transforms. </p>
+<p>GPT-3 is actually quite useful for getting a quick summary or tldr to remove cruft, the kind of sideways writing that's my default mode and takes enormous effort to tighten manually even for an experienced editor. </p>
+<p>There, the value proposition is priceless since we have little way of reducing the stack overflow that our brains face daily as the breadth and depth of information complexity overwhelms even the smartest among us.</p>
+<p>Since the English language presents a choice paradox for writers and speakers alike, it's obvious that less is more when it comes to editing aphorisms. This in spite of the fact that the book's subtitle was <em>more is less</em>. Schwarz was referring to products, of course, not words in a dictionary.</p>
+<p>Quantitatively, you can see how this works:</p>
+<pre><code>╭─watson@acer in ~ took 1ms
+╰─λ wc *.txt
+6  337 2026 1st.txt
+3  109  583 2nd.txt
+3   48  300 3rd.txt
+12  494 2909 total
+</code></pre>
+<p>We go from the original version with 337 words to the version returned from GPT-3 at 109 words - almost exactly 1/3 to the final human-edited version with a 45% reduction from the GPT version but only 14% of the original! There's a reason so many authors refer to this as a kind of automated tldr; or abstract. I'm not sure how long this will take to reach humanities programs but it's probably de rigueur for computer science programs.</p>
+<p>The qualitative statistics like Flesch-Kincaid and the like are not as dramatic but do show an improvement of about a grade level per step in my 3-step experiment.</p>
+<p>I'm satisfied with the result given the work I put into exploring GPT this summer. I'm sure it's nowhere near <a href="https://www.notion.so/blog/introducing-notion-ai">where Notion AI is now</a> but the future is promising for those of us who can write, but are challenged in the reductionist editing process. </p>
+</main>
+  
+  <footer>
+  <nav class="container">
+    <ul>
+      <li><a href="https://github.com/davidthewatson" alt="Github" title="Github"><i
+            class="fa fa-brands fa-github fa-3x"></i></a></li>
+      <li><a href="https://www.linkedin.com/in/davidthewatson/" alt="LinkedIn" title="LinkedIn"><i
+            class="fa fa-brands fa-linkedin fa-3x"></i></a></li>
+      <li><a href="https://stackoverflow.com/users/173308/david-watson" alt="Stack Overflow" title="Stack Overflow"><i
+            class="fa fa-brands fa-stack-overflow fa-3x"></i></a></li>
+    </ul>
+  </nav>
+  <nav class="container">
+    <ul>
+      <li>
+        © <a href="/about/">David Watson</a> 2024
+      </li>
+    </ul>
+  </nav>
+</footer>
+  
+</body>
+</html>
