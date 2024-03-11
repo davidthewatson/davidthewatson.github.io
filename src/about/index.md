@@ -1,12 +1,10 @@
-##### About The David formerly known as <s>Dave</s>
+##### About
 
 I'm into <a href="#health">health</a>, <a href="#music">music</a>, and <a href="#software">software</a>.
 
 My compulsion with health is simple. My diagnosis with Type 1 Diabetes Mellitus at age 7 imparted a certain premature-maturity on me. 
 
-I responded as best I could by studying biology, chemistry, and medicine in [Piaget's concrete operational stage](https://childandfamilyblog.com/piaget-stages-cognitive-development/?gclid=CjwKCAjwv-2pBhB-EiwAtsQZFNRPKXY6iKmVtRQzUxVcM7dZQEFPOMDHwB43F-Jg2y-d9Qkhhi0r2xoCszEQAvD_BwE). This was easy since dad was involved in chemistry and mom was involved in biology. 
-
-The rest of my education in medicine resulted from growing up a latchkey kid in a doctor's office. That's where the docs tutored me during coffee breaks while I read medical school textbooks for fun, playing Peter Pan in between. By the time I got to those courses years later in school, they didn't require much homework.
+I responded as best I could by studying biology and  chemistry in elementary school. 
 
 As a teenager, I was invited and joined the board of directors of my local American Diabetes Association chapter.
 
@@ -35,8 +33,6 @@ Why ameliorate? Well, consider the definition:
 <dd>make something bad better or more tolerable</dd>
 </dl>
 
-I may joke with friends and family that *I've cured diabetes* but they rightfully laugh out loud. The best a patient like me can do is play a doctor on television triaging the trauma. 
-
 Of course, I can't actually cure diabetes, but the [path](https://dornsife.usc.edu/news/stories/a-diet-that-mimics-fasting-may-reverse-type-1-and-type-2-diabetes/#:~:text=Longo%20and%20his%20team%20also,could%20alleviate%20diabetes%20in%20humans.) to [remission](https://www.valterlongo.com/diabetes-obesity/) is [clear](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5357144/) and the milestones are [clearer](https://www.bbc.com/news/health-39070183) yet. Many of those milestones emerged recently:
 
 * 2019
@@ -56,7 +52,9 @@ Of course, I can't actually cure diabetes, but the [path](https://dornsife.usc.e
     * Shut off my insulin pump for the first time in over two decades
     * I shed a tear when the cyborg shadow I'd been haunted by vanished
     * Started work on my book about my unique approach to diabetes
-
+* 2024
+    * Completed the South Park half marathon
+    
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
 
@@ -85,8 +83,6 @@ Software started as a *personal* science for me as an adolescent - peeking and p
 Decades later I practice software as experiments in art and intuitive philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
 
 I've been fortunate to work across the entire spectrum of software from microcomputing to macrocomputing. 
-
-My work is a kind of deceptively postmodern retrocomputing, a tongue-in-cheek smirk at the fact that simple glue code piped together scales well when profiled and performance-tuned on a cycle. The complexity is tamed by keeping an architectural boundary from the dark basement where hackers stay up late to integrate the scary daemons and shadows that dwell there.
 
 My work has spanned:
 
