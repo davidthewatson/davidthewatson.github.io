@@ -64,9 +64,9 @@ img.icon {
 }
 
 img.icon-header {
-  height: 128px;
-  width: 128px;
-  display: block;
+  height: 60.5px;
+  width: 60.5x;
+  display: inline-block;
   border-radius: 50%;
   object-fit: cover;
 }
