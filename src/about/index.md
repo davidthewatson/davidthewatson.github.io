@@ -54,6 +54,7 @@ Of course, I can't actually cure diabetes, but the [path](https://dornsife.usc.e
     * Started work on my book about my unique approach to diabetes
 * 2024
     * Completed the South Park half marathon
+    * Completed the Rabid Raccoon half marathon
     
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig

@@ -16,7 +16,7 @@ The results were much closer to **sensemaking, spiritual, or transcendent**.
 
 Many of the insights are more like the soft sciences (qualitative and phenomenological) and less like the hard sciences (quantitative and empirical).
 
-That's OK. Education can benefit across the spectrum from cradle to crave. 
+That's OK. Education can benefit across the spectrum from cradle to grave. 
 
 Young and old alike benefit when education gets an inexpensive, positive, and scalable  pairing partner between teachers and students. 
 
