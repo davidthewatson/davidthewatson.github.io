@@ -1,3 +1,0 @@
-### Wiki as pattern language
-
-A decade ago, <a href="https://dl.acm.org/doi/10.5555/2725669.2725707">Ward Cunninham wrote a paper about wikis</a> that pointed to a lot of insightful ideas, such as the notion that a wiki is a pattern language, with a tip of the hat to <a href="https://en.wikipedia.org/wiki/Christopher_Alexander">Christopher Alexander</a>, that I'd never realized despite using wikis for decades and having read <a href="https://en.wikipedia.org/wiki/A_Pattern_Language">Christopher Alexander's influential book</a>.
