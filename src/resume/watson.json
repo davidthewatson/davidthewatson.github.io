@@ -1,14 +1,25 @@
 {
   "basics": {
+    "url": {
+      "href": "",
+      "label": ""
+    },
     "name": "David Watson",
-    "headline": "software=sum(code, data, people) x sum(culture, tools)",
     "email": "david@davidwatson.org",
     "phone": "(412) 614-9301",
-    "location": "Pittsburgh, PA",
-    "url": {
-      "label": "",
-      "href": ""
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 9999
     },
+    "headline": "",
+    "location": "Pittsburgh, PA",
     "customFields": [
       {
         "id": "n7iiua49ts82cv7khjpt0l5j",
@@ -16,785 +27,44 @@
         "name": "",
         "value": ""
       }
-    ],
-    "picture": {
-      "url": "",
-      "size": 64,
-      "aspectRatio": 1,
-      "borderRadius": 9999,
-      "effects": {
-        "hidden": false,
-        "border": false,
-        "grayscale": false
-      }
-    }
-  },
-  "sections": {
-    "summary": {
-      "name": "Summary",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "summary",
-      "content": "<p>I help teams go-to-market nimbly by moving ideas from sketch to prototype. As a  technical contributor from R&amp;D labs to startups I've seen both sides now, crafting software that shapes complex data through APIs into usable UI/UX between cloud,  desktop, and mobile.Shipping complete data products and software services makes software's value proposition clear from funding to launch to acquision. </p>"
-    },
-    "awards": {
-      "name": "Awards",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "awards",
-      "items": [
-        {
-          "id": "z6h0of3oe2y4yyr5q43fp6bu",
-          "visible": true,
-          "title": "Top 100 Award",
-          "awarder": "Infoworld",
-          "date": "",
-          "summary": "<p></p>",
-          "url": {
-            "label": "",
-            "href": "https://tinyurl.com/MAYA-DHS"
-          }
-        },
-        {
-          "id": "yruisyc84lz3wrzru0loyup6",
-          "visible": true,
-          "title": "Transformation Fellowship",
-          "awarder": "Idea Foundry",
-          "date": "",
-          "summary": "<p></p>",
-          "url": {
-            "label": "",
-            "href": "https://tinyurl.com/ifretro"
-          }
-        }
-      ]
-    },
-    "certifications": {
-      "name": "Certifications",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "certifications",
-      "items": []
-    },
-    "education": {
-      "name": "Education",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "education",
-      "items": [
-        {
-          "id": "aczrtwz72j7uldtmewpyjccr",
-          "visible": true,
-          "institution": "Duquesne University",
-          "studyType": "BS/BA",
-          "area": "Business, Computer Science, Music",
-          "score": "",
-          "date": "",
-          "summary": "<p></p>",
-          "url": {
-            "label": "",
-            "href": "https://duq.edu/"
-          }
-        }
-      ]
-    },
-    "experience": {
-      "name": "Experience",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "experience",
-      "items": [
-        {
-          "id": "gz10xm20ugr8p8c1m125o2ue",
-          "visible": true,
-          "company": "Caterpillar",
-          "position": "Software Engineering Specialist",
-          "location": "Pittsburgh, PA",
-          "date": "2018-2021",
-          "summary": "<ul><li><p>Assembled Sensor Storage on Kubernetes using Python, Minio, and PostgreSQL with a team of 4 collaborators</p></li><li><p>Built terrain visualization software in C++/gcc on Xilinx ZCU-104 using PYNQ with a team of 4 collaborators</p></li></ul><p></p>",
-          "url": {
-            "label": "",
-            "href": "https://www.cat.com/en_US.html"
-          }
-        },
-        {
-          "id": "wjxgsmxvbs6ybe3cxaq9acuw",
-          "visible": true,
-          "company": "Rent Jungle (RainMaker (RealPage))",
-          "position": "Senior Software Engineer",
-          "location": "Pittsburgh, PA",
-          "date": "2016-2018",
-          "summary": "<ul><li><p>Led weekly retro resulting in 2x better cadence, velocity, and teamwork</p></li><li><p>Crafted crawler using Python, Django, and PostgreSQL on Kubernetes stack</p></li></ul>",
-          "url": {
-            "label": "",
-            "href": "https://www.realpage.com/"
-          }
-        },
-        {
-          "id": "skjhd05ozv25dpcqdd4m88uq",
-          "visible": true,
-          "company": "Wellbridge Health",
-          "position": "VP Product Development",
-          "location": "Pittsburgh, PA",
-          "date": "2015-2016",
-          "summary": "<ul><li><p>Led 4-person interdisciplinary design team through HIPAA-compliant EmberJS SPA MVP designed by MAYA delivered before remote health was common</p></li><li><p>Developed REST API using Python/Django, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.django-rest-framework.org/\">DRF</a> and PostgreSQL serving EmberJS SPA on Aptible with 4-person development team</p></li></ul>",
-          "url": {
-            "label": "",
-            "href": "https://www.wellbridgehealth.com/"
-          }
-        },
-        {
-          "id": "mrn0nfhzgifj4h1ww2yov2ku",
-          "visible": true,
-          "company": "Hire an Esquire (Major, Lindsey, and Africa)",
-          "position": "VP Engineering",
-          "location": "Pittsburgh, PA",
-          "date": "2014",
-          "summary": "<ul><li><p>Led a team of 6 through a lean and agile redesign and refactoring of the entire UI/UX from legacy MVP Franken-Django system for attorneys and agents</p></li><li><p>Reduced daily production firefighting by more than 50% using nimble methods, automated tests, CI/CD, and teachable moments during code review</p></li></ul><p></p>",
-          "url": {
-            "label": "",
-            "href": "https://www.mlaglobal.com/en/services/hire-an-esquire"
-          }
-        },
-        {
-          "id": "uorbq5mdohxpwdwrt6883mj3",
-          "visible": true,
-          "company": "Forever",
-          "position": "Senior Software Developer",
-          "location": "Pittsburgh, PA",
-          "date": "2013-2014",
-          "summary": "<ul><li><p>Prototyped  the sketch our designer called, \"<em>flickr for dead people\"</em> in a couple weeks. Our founder said, \"<em>you hit the ball out-of-the-park</em>\".</p></li><li><p>Enabled the company to move from 0 sales to strong market traction online via e-commerce platform completed working remote-hybrid with Neo, Columbus</p></li></ul>",
-          "url": {
-            "label": "",
-            "href": "https://www.forever.com/"
-          }
-        }
-      ]
-    },
-    "volunteer": {
-      "name": "Volunteering",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "volunteer",
-      "items": [
-        {
-          "id": "iyc5c4av5tcbl82ku6vevzll",
-          "visible": true,
-          "organization": "American Diabetes Assoc.",
-          "position": "Board Member",
-          "location": "Beaver, PA",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": "https://diabetes.org/"
-          }
-        },
-        {
-          "id": "myht0jd67u7mxpjek5hcttaz",
-          "visible": true,
-          "organization": "American Cancer Society",
-          "position": "Driver",
-          "location": "Beaver, PA",
-          "date": "",
-          "summary": "",
-          "url": {
-            "label": "",
-            "href": "https://www.cancer.org/"
-          }
-        }
-      ]
-    },
-    "interests": {
-      "name": "Technical Interests",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "interests",
-      "items": [
-        {
-          "id": "m0eje5n1zokbmjx34x41ijqs",
-          "visible": true,
-          "name": "AI - Beyond Dartmouth",
-          "keywords": []
-        },
-        {
-          "id": "qcqn4za7t8r5x3txkm9zpb62",
-          "visible": true,
-          "name": "Bret Victor's Dynamicland",
-          "keywords": []
-        },
-        {
-          "id": "gr1u24d2r308pkn7ub4yk5g0",
-          "visible": true,
-          "name": "Emergent Systems Architecture",
-          "keywords": []
-        }
-      ]
-    },
-    "languages": {
-      "name": "Programming Languages",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "languages",
-      "items": [
-        {
-          "id": "votbodtew81hb6i2ntur4cq0",
-          "visible": true,
-          "name": "C++",
-          "description": "Microsoft VS Code and GCC",
-          "level": 3
-        },
-        {
-          "id": "nvb86gm5kbqxg3huo4b4uiok",
-          "visible": true,
-          "name": "Markup",
-          "description": "HTML, CSS, MarkDown (MD)",
-          "level": 3
-        },
-        {
-          "id": "siin81n4xayeasdgdf0bbds9",
-          "visible": true,
-          "name": "Perl",
-          "description": "",
-          "level": 1
-        },
-        {
-          "id": "zwuibtcd25fdz5xzawvrkwcq",
-          "visible": true,
-          "name": "Python",
-          "description": "OO, functional, OOA, OOD",
-          "level": 4
-        },
-        {
-          "id": "effrwk6l7apyx93x6163wt6a",
-          "visible": true,
-          "name": "Ruby",
-          "description": "Ruby on Rails (RoR)",
-          "level": 3
-        },
-        {
-          "id": "jgf072u92rsnvnj5do65rw43",
-          "visible": true,
-          "name": "Shell",
-          "description": "bash, fish, zsh",
-          "level": 2
-        }
-      ]
-    },
-    "profiles": {
-      "name": "Socials",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": false,
-      "id": "profiles",
-      "items": []
-    },
-    "projects": {
-      "name": "Projects",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "projects",
-      "items": []
-    },
-    "publications": {
-      "name": "Publications",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "publications",
-      "items": []
-    },
-    "references": {
-      "name": "References",
-      "columns": 1,
-      "separateLinks": true,
-      "visible": true,
-      "id": "references",
-      "items": []
-    },
-    "skills": {
-      "name": "Knowledge and Skills",
-      "columns": 1,
-      "separateLinks": false,
-      "visible": true,
-      "id": "skills",
-      "items": [
-        {
-          "id": "oyxv4i6cd556jgdwz0z8g5xf",
-          "visible": true,
-          "name": "Linux",
-          "description": "",
-          "level": 4,
-          "keywords": [
-            "arch",
-            "debian",
-            "redhat",
-            "fedora",
-            "ubuntu"
-          ]
-        },
-        {
-          "id": "vopk313s8txjvqqa7die2ea5",
-          "visible": true,
-          "name": "MacOS",
-          "description": "",
-          "level": 4,
-          "keywords": [
-            "monterey",
-            "sequoia",
-            "BSD"
-          ]
-        },
-        {
-          "id": "egnzyv60tgpe9agwqzl7kdt0",
-          "visible": true,
-          "name": "Windows",
-          "description": "",
-          "level": 4,
-          "keywords": [
-            "11",
-            "WSL 2"
-          ]
-        },
-        {
-          "id": "hn33hwy8qbwxua4067dtupe5",
-          "visible": true,
-          "name": "Containers",
-          "description": "Docker, Podman",
-          "level": 4,
-          "keywords": []
-        },
-        {
-          "id": "ql4xrbtm6x0lwgg96ivlburz",
-          "visible": true,
-          "name": "Virtualization",
-          "description": "Heroku, Proxmox, Aptible",
-          "level": 4,
-          "keywords": []
-        },
-        {
-          "id": "ccht4rya8xtwoyb2ojgtma3c",
-          "visible": true,
-          "name": "Private Cloud",
-          "description": "Kubernetes, k3s, minikube",
-          "level": 4,
-          "keywords": [
-            "k8s",
-            "helm"
-          ]
-        },
-        {
-          "id": "kvvfhznafpt6c1yvbs8o0ypv",
-          "visible": true,
-          "name": "Public Cloud",
-          "description": "AWS, GCP, Azure",
-          "level": 2,
-          "keywords": [
-            "aws",
-            "gcp",
-            "azure"
-          ]
-        },
-        {
-          "id": "ewu89dwocgsjxwe8ywnrdc0m",
-          "visible": true,
-          "name": "Databases",
-          "description": "MySQL, PostgreSQL, SQLite",
-          "level": 3,
-          "keywords": []
-        },
-        {
-          "id": "bvce3uy7gfp6zxzc2r1try2c",
-          "visible": true,
-          "name": "Frameworks",
-          "description": "Django, Flask, Ruby on Rails",
-          "level": 3,
-          "keywords": [
-            "RoR"
-          ]
-        }
-      ]
-    },
-    "custom": {
-      "ebzonbymrkrnrasq2hdemzxh": {
-        "name": "Open Source & Social",
-        "columns": 1,
-        "separateLinks": false,
-        "visible": true,
-        "id": "ebzonbymrkrnrasq2hdemzxh",
-        "items": [
-          {
-            "id": "q6caz9cnwv4xduu2fvpgz4vh",
-            "visible": true,
-            "name": "My First Contribution",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://tinyurl.com/xmlrpc-servlet"
-            }
-          },
-          {
-            "id": "iz35k1vxtp9wc2u6a78856ai",
-            "visible": true,
-            "name": "My Pull Request on Github",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://tinyurl.com/postgrest-pr"
-            }
-          },
-          {
-            "id": "gk33c1i4uskipcu0lig761yw",
-            "visible": true,
-            "name": "My Github Profile",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://github.com/davidthewatson"
-            }
-          },
-          {
-            "id": "seos0tocfgamyl1dn9yz5opl",
-            "visible": true,
-            "name": "My LinkedIn Profile",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.linkedin.com/in/ne1l/"
-            }
-          }
-        ]
-      },
-      "k2xd2ioy3m7vn8gjpdpdu3bp": {
-        "name": "Continuing Education",
-        "columns": 1,
-        "separateLinks": false,
-        "visible": true,
-        "id": "k2xd2ioy3m7vn8gjpdpdu3bp",
-        "items": [
-          {
-            "id": "d0lt9j2nt55eier6nr2ulsxv",
-            "visible": true,
-            "name": "Git Foundations Workshop",
-            "description": "",
-            "date": "Github",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://github.com/matthewmccullough"
-            }
-          },
-          {
-            "id": "ih935cp79gr9dhty91258sa0",
-            "visible": true,
-            "name": "RDBMS and Internet Application Programming",
-            "description": "",
-            "date": "MIT",
-            "location": "",
-            "summary": "<p></p>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://philip.greenspun.com/teaching/three-day-rdbms/"
-            }
-          },
-          {
-            "id": "wcy5mcpw1c4buucfm5wne8bp",
-            "visible": true,
-            "name": "Python Conference",
-            "description": "",
-            "date": "PyCon",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://us.pycon.org/2019/"
-            }
-          }
-        ]
-      },
-      "kgv1y0jk30kj5nori23wk7ai": {
-        "name": "Custom Section",
-        "columns": 1,
-        "separateLinks": true,
-        "visible": true,
-        "id": "kgv1y0jk30kj5nori23wk7ai",
-        "items": []
-      },
-      "vffoe5bx3i93jakohpc059bj": {
-        "name": "Operating Systems",
-        "columns": 1,
-        "separateLinks": true,
-        "visible": true,
-        "id": "vffoe5bx3i93jakohpc059bj",
-        "items": []
-      },
-      "xhnjy892dutoxjqmwnxrqsgl": {
-        "name": "Experience (continued)",
-        "columns": 1,
-        "separateLinks": false,
-        "visible": true,
-        "id": "xhnjy892dutoxjqmwnxrqsgl",
-        "items": [
-          {
-            "id": "kyuf27ssf1dnyx4mzqsut98n",
-            "visible": true,
-            "name": "Brainstorm SMS Technologies (Mind Matrix)",
-            "description": "Senior Engineer",
-            "date": "2011 - 2012",
-            "location": "Pittsburgh, PA",
-            "summary": "<ul><li><p>Wrote conversational text systems (like twilio) in Python/PostgreSQL</p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.crunchbase.com/organization/smash-technologies"
-            }
-          },
-          {
-            "id": "rq2mhagikt400s6dauyl25tt",
-            "visible": true,
-            "name": "Wellspring Worldwide",
-            "description": "Software Development Manager",
-            "date": "2010-2011",
-            "location": "Pittsburgh, PA",
-            "summary": "<ul><li><p>Pioneered SRE culture from legacy data center to SaaS VMWare CI/CD modernization with a  team of 12 Engineers</p></li><li><p>Built DevOps systems using Capistrano (Ruby), Mechanize (Python), and Selenium with dev team of 2 Sys Ops Engineers and 4 Test Ops Engineers</p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.wellspring.com/"
-            }
-          },
-          {
-            "id": "fj80vo3crqux9u58xqlda195",
-            "visible": true,
-            "name": "Applied Perception (Foster Miller (Qinetiq))",
-            "description": "Project Engineer",
-            "date": "2008-2009",
-            "location": "Cranberry Township, PA",
-            "summary": "<ul><li><p>Visualized XML sonar data in python, consumed by C++ GUI application on Windows</p></li><li><p>Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment</p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.qinetiq.com/en/"
-            }
-          },
-          {
-            "id": "wol51vlkqclhj09p590knnbz",
-            "visible": true,
-            "name": "NOMOS (North American Scientific, Best Medical)",
-            "description": "UI Software Engineer",
-            "date": "2006-2007",
-            "location": "Cranberry Township, PA",
-            "summary": "<ul><li><p>Contributed C++ QA tests and code reviews to CORVUS FDA-regulated radiation oncology product with dev team of 12 and QA team of 4</p></li><li><p>Prototyped wireframes and rendered storyboards in C++/Qt for adaptive 4D treatment planning with multidisciplinary team of 4</p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "http://www.bestmedical.com/"
-            }
-          },
-          {
-            "id": "t99gpohavvt6l3sre22raglj",
-            "visible": true,
-            "name": "MAYA Design (BCG)",
-            "description": "Software Design Engineer",
-            "date": "2004-2006",
-            "location": "Pittsburgh, PA",
-            "summary": "<ul><li><p>Built python REST backends emitting JSON for consumption by AJAX frontends on dev team of 4</p></li><li><p>Demoed GUI floorplan wireless lighting designer in C#.net on Windows for Lutron/Phillips 1 week from designer's sketch on interdisciplinary team </p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.gbbn.com/work/maya-design-headquarters/"
-            }
-          },
-          {
-            "id": "eaesx1b3ce7buc43l6hp07s9",
-            "visible": true,
-            "name": "Cobind",
-            "description": "Founder",
-            "date": "2003-2004",
-            "location": "Pittsburgh, PA",
-            "summary": "<ul><li><p>Collaborated on ideation, vision, and execution of custom Linux Tools startup with my cofounder and our PR consultant</p></li><li><p>Received wide press acclaim around custom Linux products after winning Idea Foundry Fellowship and pairing with our PR consultant</p></li></ul>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://tinyurl.com/cobind"
-            }
-          }
-        ]
-      },
-      "yp9g460vszjcn6qd468r6eqw": {
-        "name": "Books I Believe",
-        "columns": 1,
-        "separateLinks": false,
-        "visible": true,
-        "id": "yp9g460vszjcn6qd468r6eqw",
-        "items": [
-          {
-            "id": "ht09b91q35cydiu7obc6qi90",
-            "visible": true,
-            "name": "Accelerate",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://itrevolution.com/product/accelerate/"
-            }
-          },
-          {
-            "id": "ctyhuokkki7o6vbhj0tawawx",
-            "visible": true,
-            "name": "Crystal Clear",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php"
-            }
-          },
-          {
-            "id": "gbo0sugw4rpt9x8609imbo4j",
-            "visible": true,
-            "name": "Interface Culture",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://archive.org/details/interfaceculture0000john"
-            }
-          },
-          {
-            "id": "ilizkr0yfvovgtx6xv95i8ed",
-            "visible": true,
-            "name": "Lean Software",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://theleanstartup.com/principles"
-            }
-          },
-          {
-            "id": "sur52y6rm31lzvguxxximn0w",
-            "visible": true,
-            "name": "Literate Programming",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://en.wikipedia.org/wiki/Literate_programming#:~:text=Literate%20Programming%20by%20Donald%20Knuth%20is%20the%20seminal%20book%20on%20literate%20programming."
-            }
-          },
-          {
-            "id": "h93hxcqd8k5ep0k7yahq345o",
-            "visible": true,
-            "name": "Peopleware",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://github.com/yilanjueding123/mypdf/blob/master/pdf/Peopleware.Productive.Projects.and.Teams.pdf"
-            }
-          },
-          {
-            "id": "j6qaxxz654wesx2lxpjpcund",
-            "visible": true,
-            "name": "Realizing Empathy",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://blog.realizingempathy.com/2011/04/08/conversation-trust-not-expecting/#:~:text=Son%3A%20When%20you%E2%80%99re,three!%20I%E2%80%99m%20three!%E2%80%9D"
-            }
-          },
-          {
-            "id": "gunmklkhgvdt8urasv1mh01s",
-            "visible": true,
-            "name": "Software Takes Command",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": "https://library.oapen.org/handle/20.500.12657/58738"
-            }
-          }
-        ]
-      }
-    }
+    ]
   },
   "metadata": {
-    "template": "chikorita",
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "letter",
+      "margin": 48,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "<p>I help teams <strong>go-to-market</strong> by<strong> </strong>moving<strong> ideas</strong> from <strong>potential sketch </strong>to<strong> running prototype.</strong> I do this by <strong>writing</strong> - whether <strong>code</strong>, <strong>docs, or glue in-between</strong>. You'll find the mundane <strong>what, when, and how </strong>to the left<strong> below</strong> <strong>experience</strong> and <strong>why </strong>to the right<strong> under worldview</strong>. I believe products benefit when  producers have an action philosophy. My <strong>worldview </strong>reflects the <strong>philosophical</strong> basis of my work including <strong>knowledge</strong>, <strong>beliefs</strong>, <strong>skills</strong> and <strong>values</strong> with personal ratings visualizing how <strong>durable</strong>, <strong>meaningful, and impactful</strong> the work remains.</p><p><strong><em>Shipping a prototype frequently </em> implies<em> iteration - </em></strong> when code is developed and deployed using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/DevOps\"><strong>DevOps</strong></a> pre-shipping and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Site_reliability_engineering\"><strong>SRE</strong></a> post-shipping.  As a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://medium.com/redbubble/individual-contributors-are-really-technical-managers-2266ead8e2fb\"><strong>technical contributor</strong></a> from <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.onepointesolutions.com/blog/what-is-an-rd-lab/\"><strong>R&amp;D labs to startups</strong></a> I've crafted software that shepherds data through <strong>APIs</strong> into <strong>UI/UX</strong> on <strong>cloud,  desktop, and mobile</strong>. Shipping complete <strong>data products</strong> and <strong>software services</strong> makes software's value proposition clear through  <strong>funding, launch, and  acquisition</strong>. </p><p>My interest lie in emerging technology, particularly since the days when hardware and software were tightly bound and tools emerged to fill the gap from HCI like dynamicland to tiling window managers like sway to multiparadigm programming languages like zig all attempt to bridge the chasm between the hardware and the software and fill the mouse's cartesian limitations of data's increasingly outsized dimensionality to flattening desktop metaphors emerged at PARC a half century ago.</p><p></p><p>Moving from the imaginary to the symbolic and the symbolic to the real, only to realize the imperfect, gives us the perfect iterative loop. An iterator which embodies the lack that keeps it real - a perfect model of reality.</p><p>If the interview started with two SWOT questions: Strengths and Weaknesses. My paradoxical answer is that listening allows me to hear things many cannot. Listening also allows me to ignore things many cannot. Like improvisation, the key insight is modality. That's an Opportunity, not a Threat. </p><p>I help teams design and launch technology products from ideas. Ideas sketched from the studio cutting-room floor of signs and symbols. Signifiers  yield to low fidelity prototypes that shape the mere geometry of user interfaces. </p><p>User experience meets user where they are - in their sensations of subconscious experience. </p><p>I write code, docs, and docs-as-code as a synthesis of sensemaking between humans, computers, and data in service of the idea that the best interaction is no conscious interaction and the best user experience is transmuted below the surface, like an iceberg portending positive experience as we evolve from unipolar sensation toward multimodal user experience.</p><p>Well-composed, APIs and HCIs form a bridge into the unintelligible continuously expanding world of data below the surface.</p><p>as data has exploded well beyond UI's dimensions in visualization</p><p>My software work catalyzes the promising potential of intangible ideas into the probable prediction of tangible technology products. by helping teams learn and grow from build-measure-learn cycles.</p><p>From early sketches to prototypes, I shape user interface as a touchstone to user experience below and between the lines of data. </p><p>My code, documentation, and docs-as-code bridge the gaps. </p><p>My overarching goal is to create user experience that transcends mere  geometry with multidimensional meaning beyond data. </p><p>As a technical contributor, I've built software across varied platforms from cloud to desktop to mobile. </p><p>My prototypes grow through stages using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.digitalocean.com/community/tutorials/what-is-immutable-infrastructure\">immutable infrastructure</a>, disposable scaffolding, and immutable ops.</p><p>Shipping data products and software services provide ample evidence of go-to-market readiness and value for funding, launch, and acquisition.</p><p><strong>Shipping data products and software services signifies readiness</strong> for funding, launch, and acquisition whether integration is upright, sideways, or complete. <strong>Shipping product allays diminishing returns and regressions</strong> inherent in any big tech effort whether realized by meaning, money, or both. Maintenance <strong>is</strong> production.</p>",
+    "theme": {
+      "text": "#000000",
+      "primary": "#65a30d",
+      "background": "#ffffff"
+    },
     "layout": [
       [
         [
           "summary",
           "experience",
-          "projects",
-          "references"
+          "projects"
         ],
         [
           "profiles",
           "skills",
           "certifications",
-          "publications",
           "languages"
         ]
       ],
       [
         [
           "custom.xhnjy892dutoxjqmwnxrqsgl",
-          "custom.k2xd2ioy3m7vn8gjpdpdu3bp",
           "education",
           "custom.vffoe5bx3i93jakohpc059bj",
           "custom.kgv1y0jk30kj5nori23wk7ai"
@@ -804,40 +74,784 @@
           "custom.ebzonbymrkrnrasq2hdemzxh",
           "interests",
           "volunteer",
-          "custom.yp9g460vszjcn6qd468r6eqw"
+          "custom.yp9g460vszjcn6qd468r6eqw",
+          "custom.k2xd2ioy3m7vn8gjpdpdu3bp",
+          "references",
+          "publications"
         ]
       ]
     ],
-    "css": {
-      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
-      "visible": false
-    },
-    "page": {
-      "margin": 48,
-      "format": "letter",
-      "options": {
-        "breakLine": true,
-        "pageNumbers": true
-      }
-    },
-    "theme": {
-      "background": "#ffffff",
-      "text": "#000000",
-      "primary": "#475569"
-    },
+    "template": "chikorita",
     "typography": {
       "font": {
+        "size": 12,
         "family": "IBM Plex Sans",
         "subset": "latin",
         "variants": [
           "regular"
-        ],
-        "size": 12
+        ]
       },
-      "lineHeight": 1.5,
       "hideIcons": false,
+      "lineHeight": 1.5,
       "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [
+        {
+          "id": "z6h0of3oe2y4yyr5q43fp6bu",
+          "visible": true,
+          "title": "Top 100 Award",
+          "awarder": "Infoworld",
+          "date": "",
+          "summary": "<p>The MAYA Design team cobbled together parts predating AJAX, web components, and mapping APIs.   They went on to found a...</p><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://realizingempathy.com/\">movement</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.littlemissionstudio.com/\">music school</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">startup</a></p></li></ul><p style=\"text-align: justify\">as teams-of-pairs, coast-to-coast, taming complexity.</p>",
+          "url": {
+            "label": "",
+            "href": "https://tinyurl.com/MAYA-DHS"
+          }
+        },
+        {
+          "id": "yruisyc84lz3wrzru0loyup6",
+          "url": {
+            "href": "https://tinyurl.com/ifretro",
+            "label": ""
+          },
+          "date": "",
+          "title": "Transformation Fellowship",
+          "awarder": "Idea Foundry",
+          "summary": "<p></p>",
+          "visible": true
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
     },
-    "notes": ""
+    "custom": {
+      "ebzonbymrkrnrasq2hdemzxh": {
+        "id": "ebzonbymrkrnrasq2hdemzxh",
+        "name": "Open Source is Social",
+        "items": [
+          {
+            "id": "q6caz9cnwv4xduu2fvpgz4vh",
+            "url": {
+              "href": "https://tinyurl.com/xmlrpc-servlet",
+              "label": ""
+            },
+            "date": "",
+            "name": "My First FOSS Contribution",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "iz35k1vxtp9wc2u6a78856ai",
+            "url": {
+              "href": "https://tinyurl.com/postgrest-pr",
+              "label": ""
+            },
+            "date": "",
+            "name": "My Pull Request on Github",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "lc8gbfutszrf7fw6otsprvs9",
+            "url": {
+              "href": "https://rxresu.me/",
+              "label": ""
+            },
+            "date": "",
+            "name": "My Reactive Resume/Docker",
+            "summary": "<p></p>",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "gk33c1i4uskipcu0lig761yw",
+            "url": {
+              "href": "https://github.com/davidthewatson",
+              "label": ""
+            },
+            "date": "",
+            "name": "My Github Profile",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "seos0tocfgamyl1dn9yz5opl",
+            "url": {
+              "href": "https://www.linkedin.com/in/ne1l/",
+              "label": ""
+            },
+            "date": "",
+            "name": "My LinkedIn Profile",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": false
+      },
+      "k2xd2ioy3m7vn8gjpdpdu3bp": {
+        "id": "k2xd2ioy3m7vn8gjpdpdu3bp",
+        "name": "Continuing Education",
+        "items": [
+          {
+            "id": "d0lt9j2nt55eier6nr2ulsxv",
+            "url": {
+              "href": "https://github.com/matthewmccullough",
+              "label": ""
+            },
+            "date": "",
+            "name": "Git Foundations Workshop",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "ih935cp79gr9dhty91258sa0",
+            "url": {
+              "href": "https://philip.greenspun.com/teaching/three-day-rdbms/",
+              "label": ""
+            },
+            "date": "",
+            "name": "RDBMS @ MIT",
+            "summary": "<p></p>",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "wcy5mcpw1c4buucfm5wne8bp",
+            "url": {
+              "href": "https://us.pycon.org/2019/",
+              "label": ""
+            },
+            "date": "",
+            "name": "PyCon",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": false
+      },
+      "kgv1y0jk30kj5nori23wk7ai": {
+        "id": "kgv1y0jk30kj5nori23wk7ai",
+        "name": "Custom Section",
+        "items": [],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      },
+      "vffoe5bx3i93jakohpc059bj": {
+        "id": "vffoe5bx3i93jakohpc059bj",
+        "name": "Operating Systems",
+        "items": [],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      },
+      "xhnjy892dutoxjqmwnxrqsgl": {
+        "id": "xhnjy892dutoxjqmwnxrqsgl",
+        "name": "Experience (continued)",
+        "items": [
+          {
+            "id": "ub2kig4uu4lii4l61bhhsx4j",
+            "url": {
+              "href": "https://forever.com/",
+              "label": ""
+            },
+            "date": "2013-2014",
+            "name": "Forever",
+            "summary": "<ul><li><p>Prototyped  the sketch our designer called, \"<em>flickr for dead people\"</em> in a couple weeks. Our founder said, \"<em>you hit the ball out-of-the-park</em>\".</p></li><li><p>Enabled the company to move from 0 sales to strong market traction online via e-commerce platform completed working remote-hybrid with Neo, Columbus</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Senior Software Developer"
+          },
+          {
+            "id": "kyuf27ssf1dnyx4mzqsut98n",
+            "url": {
+              "href": "https://www.crunchbase.com/organization/smash-technologies",
+              "label": ""
+            },
+            "date": "2011 - 2012",
+            "name": "SMaSh - Brainstorm SMS Technologies (Mind Matrix)",
+            "summary": "<ul><li><p>Wrote conversational text systems (like twilio) in Python/PostgreSQL</p></li><li><p>Supported large SMS text campaigns from Pittsburgh Steelers to Miller-Coors</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Senior Engineer"
+          },
+          {
+            "id": "rq2mhagikt400s6dauyl25tt",
+            "url": {
+              "href": "https://www.wellspring.com/",
+              "label": ""
+            },
+            "date": "2010-2011",
+            "name": "Wellspring Worldwide",
+            "summary": "<ul><li><p>Pioneered SRE culture from legacy data center to SaaS VMWare CI/CD modernization with a  team of 12 Engineers</p></li><li><p>Built DevOps systems using Capistrano (Ruby), Mechanize (Python), and Selenium with dev team of 2 Sys Ops Engineers and 4 Test Ops Engineers</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Software Development Manager"
+          },
+          {
+            "id": "fj80vo3crqux9u58xqlda195",
+            "url": {
+              "href": "https://www.qinetiq.com/en/",
+              "label": ""
+            },
+            "date": "2008-2009",
+            "name": "Applied Perception (Foster Miller (Qinetiq))",
+            "summary": "<ul><li><p>Visualized XML sonar data in python, consumed by C++ GUI application on Windows</p></li><li><p>Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Cranberry Township, PA",
+            "description": "Project Engineer"
+          },
+          {
+            "id": "wol51vlkqclhj09p590knnbz",
+            "url": {
+              "href": "http://www.bestmedical.com/",
+              "label": ""
+            },
+            "date": "2006-2007",
+            "name": "NOMOS (North American Scientific, Best Medical)",
+            "summary": "<ul><li><p>Visualized XML sonar data in python with C++ GUI application on Windows</p></li><li><p>Ported Microsoft C#.net Windows GUI to C++/Qt/Linux for OCU deployment</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Cranberry Township, PA",
+            "description": "UI Software Engineer"
+          },
+          {
+            "id": "t99gpohavvt6l3sre22raglj",
+            "url": {
+              "href": "https://www.gbbn.com/work/maya-design-headquarters/",
+              "label": ""
+            },
+            "date": "2004-2006",
+            "name": "MAYA Design (BCG)",
+            "summary": "<ul><li><p>Built python REST backends emitting JSON for consumption by AJAX frontends on dev team of 4</p></li><li><p>Demoed GUI floorplan wireless lighting designer in C#.net on Windows for Lutron/Phillips 1 week from designer's sketch on interdisciplinary team </p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Software Design Engineer"
+          },
+          {
+            "id": "eaesx1b3ce7buc43l6hp07s9",
+            "url": {
+              "href": "https://tinyurl.com/cobind",
+              "label": ""
+            },
+            "date": "2003-2004",
+            "name": "Cobind",
+            "summary": "<ul><li><p>Collaborated on ideation, vision, and execution of custom Linux Tools startup with my cofounder and our PR consultant</p></li><li><p>Received wide press acclaim around custom Linux products after winning Idea Foundry Fellowship and pairing with our PR consultant</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Founder"
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": false
+      },
+      "yp9g460vszjcn6qd468r6eqw": {
+        "id": "yp9g460vszjcn6qd468r6eqw",
+        "name": "Knowledge and Beliefs",
+        "items": [
+          {
+            "id": "ht09b91q35cydiu7obc6qi90",
+            "url": {
+              "href": "https://itrevolution.com/product/accelerate/",
+              "label": ""
+            },
+            "date": "",
+            "name": "Accelerate",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "ctyhuokkki7o6vbhj0tawawx",
+            "url": {
+              "href": "https://www.projectsmart.co.uk/lifecycle-and-methodology/7-properties-of-highly-successful-projects-from-crystal-clear.php",
+              "label": ""
+            },
+            "date": "",
+            "name": "Crystal Clear",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "ilizkr0yfvovgtx6xv95i8ed",
+            "url": {
+              "href": "https://theleanstartup.com/principles",
+              "label": ""
+            },
+            "date": "",
+            "name": "Lean Software",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "sur52y6rm31lzvguxxximn0w",
+            "url": {
+              "href": "https://en.wikipedia.org/wiki/Literate_programming#:~:text=Literate%20Programming%20by%20Donald%20Knuth%20is%20the%20seminal%20book%20on%20literate%20programming.",
+              "label": ""
+            },
+            "date": "",
+            "name": "Literate Programming",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "h93hxcqd8k5ep0k7yahq345o",
+            "url": {
+              "href": "https://github.com/yilanjueding123/mypdf/blob/master/pdf/Peopleware.Productive.Projects.and.Teams.pdf",
+              "label": ""
+            },
+            "date": "",
+            "name": "Peopleware",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          },
+          {
+            "id": "j6qaxxz654wesx2lxpjpcund",
+            "url": {
+              "href": "https://blog.realizingempathy.com/2011/04/08/conversation-trust-not-expecting/#:~:text=Son%3A%20When%20you%E2%80%99re,three!%20I%E2%80%99m%20three!%E2%80%9D",
+              "label": ""
+            },
+            "date": "",
+            "name": "Realizing Empathy",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": false
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Worldview",
+      "items": [
+        {
+          "id": "oyxv4i6cd556jgdwz0z8g5xf",
+          "name": "Linux",
+          "level": 4,
+          "visible": true,
+          "keywords": [
+            "arch",
+            "debian",
+            "redhat",
+            "fedora",
+            "ubuntu"
+          ],
+          "description": ""
+        },
+        {
+          "id": "vopk313s8txjvqqa7die2ea5",
+          "name": "MacOS",
+          "level": 4,
+          "visible": true,
+          "keywords": [
+            "monterey",
+            "sequoia",
+            "BSD"
+          ],
+          "description": ""
+        },
+        {
+          "id": "egnzyv60tgpe9agwqzl7kdt0",
+          "name": "Windows",
+          "level": 3,
+          "visible": true,
+          "keywords": [
+            "11",
+            "WSL 2"
+          ],
+          "description": ""
+        },
+        {
+          "id": "hn33hwy8qbwxua4067dtupe5",
+          "name": "Containers",
+          "level": 4,
+          "visible": true,
+          "keywords": [],
+          "description": "Docker, Podman"
+        },
+        {
+          "id": "ql4xrbtm6x0lwgg96ivlburz",
+          "name": "Virtualization",
+          "level": 3,
+          "visible": true,
+          "keywords": [],
+          "description": "Heroku, VMWare"
+        },
+        {
+          "id": "ccht4rya8xtwoyb2ojgtma3c",
+          "name": "Private Cloud",
+          "level": 4,
+          "visible": true,
+          "keywords": [
+            "k8s",
+            "helm"
+          ],
+          "description": "Kubernetes, k3s, minikube"
+        },
+        {
+          "id": "kvvfhznafpt6c1yvbs8o0ypv",
+          "name": "Public Cloud",
+          "level": 2,
+          "visible": true,
+          "keywords": [
+            "aws",
+            "gcp",
+            "azure"
+          ],
+          "description": "AWS, GCP, Azure"
+        },
+        {
+          "id": "ewu89dwocgsjxwe8ywnrdc0m",
+          "name": "Databases",
+          "level": 3,
+          "visible": true,
+          "keywords": [],
+          "description": "MySQL, PostgreSQL, SQLite"
+        },
+        {
+          "id": "bvce3uy7gfp6zxzc2r1try2c",
+          "name": "Frameworks (Scaffolding)",
+          "level": 3,
+          "visible": true,
+          "keywords": [
+            "RoR"
+          ],
+          "description": "Django, Flask, Ruby on Rails"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p><strong>My work turns formless ideas into solid technology products. </strong></p><p>By <strong>making sense of prototypes</strong> together, we arrive at <strong>user interfaces that transcend</strong> geometry.&nbsp;&nbsp;We grow teams to make better products. Conflict to consensus <strong>is</strong> sensemaking - a  care and feeding of teams as a<strong> wormhole from code to culture</strong>.</p><p><strong>Leadership is striving daily to be a good peer regardless of role</strong>, where teams scale better in pairs to meet platform demands using disposable scaffolding, immutable infrastructure, and well-defined ops. <strong>The best leader is the best peer.</strong></p><p><strong>Shipping data products and software services indicates readiness</strong> for funding, launch, and acquisition. Alleviating fears of diminishing returns and regressions by signifying product as production has value, but <strong>maintenance is&nbsp; production</strong>.</p><p><strong>Trading user interface limits for user experience magic beyond data is gold.</strong></p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Socials",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "aczrtwz72j7uldtmewpyjccr",
+          "url": {
+            "href": "https://duq.edu/",
+            "label": ""
+          },
+          "area": "Business, Computer Science, Music",
+          "date": "",
+          "score": "",
+          "summary": "<p></p>",
+          "visible": true,
+          "studyType": "BS/BA",
+          "institution": "Duquesne University"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Technical Interests",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Programming Languages",
+      "items": [
+        {
+          "id": "votbodtew81hb6i2ntur4cq0",
+          "name": "C++",
+          "level": 3,
+          "visible": true,
+          "description": "Microsoft VS Code and GCC"
+        },
+        {
+          "id": "nvb86gm5kbqxg3huo4b4uiok",
+          "name": "Markup",
+          "level": 3,
+          "visible": true,
+          "description": "HTML, CSS, MarkDown (MD)"
+        },
+        {
+          "id": "zwuibtcd25fdz5xzawvrkwcq",
+          "name": "Python",
+          "level": 4,
+          "visible": true,
+          "description": "OO, functional, OOA, OOD"
+        },
+        {
+          "id": "effrwk6l7apyx93x6163wt6a",
+          "name": "Ruby",
+          "level": 3,
+          "visible": true,
+          "description": "Ruby on Rails (RoR)"
+        },
+        {
+          "id": "jgf072u92rsnvnj5do65rw43",
+          "name": "Shell",
+          "level": 2,
+          "visible": true,
+          "description": "bash, fish, zsh"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "shp9roh8j30oqu4qz2wh0ssc",
+          "visible": true,
+          "company": "Freelance",
+          "position": "",
+          "location": "",
+          "date": "2020-2024",
+          "summary": "<ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.cmu.edu/\">Carnegie Mellon University</a> Senior Member of Technical Staff, ETC</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.caterpillar.com/\">Caterpillar</a> Technical Consultant&nbsp;(1099)  GCC/C++/Linux Xilinx ZCU-104 </p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wyvernltd.com/\">Wyvern</a> Technical Consultant (1099)  NodeJS, TypeScript, Docker, k8s</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://davidwatson.org/"
+          }
+        },
+        {
+          "id": "gz10xm20ugr8p8c1m125o2ue",
+          "visible": true,
+          "company": "Caterpillar",
+          "position": "Software Engineering Specialist",
+          "location": "Pittsburgh, PA",
+          "date": "2018-2020",
+          "summary": "<ul><li><p>Assembled Sensor Storage on Kubernetes using Python, Minio, and PostgreSQL with a team of 4 collaborators</p></li><li><p>Built terrain visualization software in C++/gcc on Xilinx ZCU-104 using PYNQ with a team of 4 collaborators</p></li></ul><p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.cat.com/en_US.html"
+          }
+        },
+        {
+          "id": "wjxgsmxvbs6ybe3cxaq9acuw",
+          "url": {
+            "href": "https://www.realpage.com/",
+            "label": ""
+          },
+          "date": "2016-2018",
+          "company": "Rent Jungle (RainMaker (RealPage))",
+          "summary": "<ul><li><p>Led weekly retro resulting in 2x better cadence, velocity, and teamwork</p></li><li><p>Crafted Scrapy crawler on Django, PostgreSQL, Kubernetes stack</p></li></ul>",
+          "visible": true,
+          "location": "Pittsburgh, PA",
+          "position": "Senior Software Engineer"
+        },
+        {
+          "id": "skjhd05ozv25dpcqdd4m88uq",
+          "url": {
+            "href": "https://www.wellbridgehealth.com/",
+            "label": ""
+          },
+          "date": "2015-2016",
+          "company": "Wellbridge Health",
+          "summary": "<ul><li><p>Led 4-person interdisciplinary design team through HIPAA-compliant EmberJS SPA MVP designed by MAYA delivered before remote health was common</p></li><li><p>Developed REST API using Python/Django, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.django-rest-framework.org/\">DRF</a> and PostgreSQL serving EmberJS SPA on Aptible with 4-person development team</p></li></ul>",
+          "visible": true,
+          "location": "Pittsburgh, PA",
+          "position": "VP Product Development"
+        },
+        {
+          "id": "mrn0nfhzgifj4h1ww2yov2ku",
+          "url": {
+            "href": "https://www.mlaglobal.com/en/services/hire-an-esquire",
+            "label": ""
+          },
+          "date": "2014",
+          "company": "Hire an Esquire (Major, Lindsey, and Africa)",
+          "summary": "<ul><li><p>Led a team of 6 through a lean and agile redesign and refactoring of the entire UI/UX from legacy MVP Franken-Django system for attorneys and agents</p></li><li><p>Reduced daily production firefighting by more than 50% using nimble methods, automated tests, CI/CD, and teachable moments during code review</p></li></ul><p></p>",
+          "visible": true,
+          "location": "Pittsburgh, PA",
+          "position": "VP Engineering"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "references": {
+      "id": "references",
+      "name": "References (redacted)",
+      "items": [
+        {
+          "id": "i5q2cprwo4bc4ga891zamaxm",
+          "visible": true,
+          "name": "David Bishop",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/dpbishop/"
+          }
+        },
+        {
+          "id": "jldsaa19ho8mm2fifrwpy4u1",
+          "visible": true,
+          "name": "Lou Bojarski",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/lou-bojarski-8403372/"
+          }
+        },
+        {
+          "id": "ustc54hxp0vcx0hxxgwcfmma",
+          "visible": true,
+          "name": "Craig Maier",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/craigmaier/?originalSubdomain=de"
+          }
+        },
+        {
+          "id": "vwkfmvqb698aicl9zqi5j72s",
+          "visible": true,
+          "name": "Bryan Mills",
+          "description": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/bryan-mills-119b70/"
+          }
+        },
+        {
+          "id": "an2bm0gzqqtvnuimm4zuz09e",
+          "visible": true,
+          "name": "Tom Moertel",
+          "description": "",
+          "summary": "<p></p>",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/tmoertel/"
+          }
+        },
+        {
+          "id": "icfeqj4hjgle8j2m306mufy9",
+          "visible": true,
+          "name": "Elliott Williams",
+          "description": "",
+          "summary": "<p>  </p>",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/elliottw/"
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Emotional Communication",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
   }
 }
