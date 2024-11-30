@@ -1,0 +1,873 @@
+
+
+
+
+
+Hey everyone, welcome back. We're trying something a little different this time. We're taking a deep dive into a career path.
+
+Oh, cool.
+
+The career path of someone named David Watson.
+
+Right.
+
+So, it's not like we're going to try and get him a job or anything, right?
+
+But we're using his career as a blueprint.
+
+Interesting.
+
+To look at the choices he made and see what we can learn from his journey.
+
+Okay. I like it.
+
+Through the world of tech.
+
+Sounds good.
+
+So, one of the first things that jumps out to me is that David doesn't have like a typical straight line career path.
+
+Yeah. And that's something that's becoming increasingly common now anyway, right? You don't have to just work at IBM for 40 years and retire anymore.
+
+Nope.
+
+So, he's hopped between different roles and industries, even took a detour to music school.
+
+That's right.
+
+Which is interesting.
+
+It is interesting.
+
+That suggests that he's not afraid to take risks or explore different paths.
+
+Definitely makes you wonder what prompted those changes. Was he chasing new challenges or following a passion?
+
+Right. or maybe even like economic factors.
+
+Yeah. Navigating those economic shifts,
+
+right? Exactly.
+
+And those are questions that I think we all face in our own careers.
+
+Mhm.
+
+Especially in a field as dynamic as tech.
+
+Okay. So, right at the top of his resume, David includes this quote.
+
+Okay.
+
+The software is the message. Retrospective prototyping is the future now.
+
+Ooh, that's a good one.
+
+Honestly, I think that's kind of cryptic.
+
+Yeah, a little bit.
+
+I don't know what he's talking about.
+
+I think it's a definitely thought provoking
+
+it is
+
+I think the first part the software is the message speaks to the idea that code isn't just about functionality
+
+okay
+
+it's a way of expressing ideas solving problems and shaping how we interact with the world
+
+you know it's more than just the ones and zeros
+
+okay all right I buy that
+
+so what do you think about this retrospective prototyping
+
+I don't know I'm trying to figure that out
+
+it's an interesting one
+
+what do you make of that
+
+I think he's hinting at the power of looking back at past projects.
+
+Okay.
+
+Almost like conducting a post-mortem on your prototypes,
+
+you know,
+
+what worked, what didn't it,
+
+and how can those lessons inform your future choices.
+
+I see. So, it's not just like you move on to the next project, you're taking the time to extract those insights from the previous.
+
+Yeah, precisely.
+
+I like that.
+
+It's about recognizing that failures or even just things that didn't quite work as planned are packed with valuable information.
+
+Yeah, I like that. It turns those so-called failures into learning opportunities.
+
+Exactly.
+
+So, let's jump into David's career trajectory
+
+and see how this retrospective prototyping might have played a role.
+
+Okay.
+
+He starts out at Wyvern working with technologies like Mongo, MySQL, and Docker.
+
+Ah, so like a pretty standard web dev stack.
+
+Yeah.
+
+At least back then.
+
+Yeah.
+
+It is interesting though. You can see even in these early roles his willingness to adopt newer technologies like Docker and Kubernetes.
+
+Yeah.
+
+Which are common now, but back then they were pretty cutting edge.
+
+That's right.
+
+So, he seemed to be drawn to solutions that streamline development and deployment even early on
+
+and then he jumps into freelancing.
+
+Oh.
+
+What do you think that tells us about his approach to work?
+
+Well, I mean, it could mean a couple of things.
+
+Yeah.
+
+It could suggest he values autonomy and flexibility.
+
+Okay.
+
+Freelancing in tech can be challenging,
+
+right?
+
+But it offers the chance to work on a wider variety of projects,
+
+right?
+
+And potentially learn new skills more rapidly.
+
+Then he lands is this consulting gig with Caterpillar. All right. Optimizing FPGA performance.
+
+That's pretty specific.
+
+Yeah, it seems like a pretty specialized niche.
+
+Absolutely. It shows that he's not afraid to dive into those niche areas and acquire deep technical expertise.
+
+Okay.
+
+And look, he even mentions achieving performance gains without complex analysis.
+
+Yeah,
+
+that suggests a knack for finding elegant solutions,
+
+not just brute forcing his way through a problem.
+
+So then this brings us to his stint at at Carne Melon's emerging technology center.
+
+Oh wow. Okay.
+
+Sadly, the details are redacted.
+
+Oh man.
+
+But it sounds like he was working on some cutting edge stuff.
+
+Yeah.
+
+In AI, HCI, and HPC.
+
+That's really intriguing.
+
+I know it's tantalizing.
+
+It is.
+
+But even without knowing the specifics, we can infer that he's seeking out opportunities to work at the forefront of technology, pushing the boundaries of what's possible.
+
+Absolutely.
+
+And then back to Caterpillar.
+
+Back again.
+
+This time as a software engineering specialist.
+
+Okay.
+
+He's talking about dev prod parody and leveraging S3 as a protocol rather than a product.
+
+Interesting.
+
+It seems like he's thinking strategically about how to build scalable and efficient systems.
+
+Yeah, he's definitely not just writing code in a vacuum,
+
+right?
+
+He's thinking about the bigger picture of how technology can solve real world problems and how to build systems that are robust, maintainable, and can evolve over time.
+
+He also mentions collaborating with IT execs on planning for hyperconverged infrastructure.
+
+Okay,
+
+that's a pretty big leap from optimizing FPGAAS.
+
+It is.
+
+It seems like he's comfortable moving between very different levels of technical detail.
+
+Yeah, it speaks to his ability to communicate complex technical concepts to a non-technical audience, right,
+
+which is such a crucial skill for anyone working in tech, especially in leadership positions.
+
+Then we see him at Rent Jungle where he's not just building software,
+
+but also leading weekly retrospectives and focusing on team dynamics.
+
+Interesting. using techniques like affinity diagrams and pair work, things that go beyond just writing chord.
+
+This is where this idea of retrospective prototyping starts to take shape more clearly.
+
+Yeah,
+
+it's not just him reflecting on past projects, right?
+
+But he's building that reflection into the team's workflow,
+
+okay?
+
+They're actively analyzing what's working and what's not and using those insights to continuously improve their process.
+
+So, it's like baking that continuous improvement mindset into the teens DNA. Na.
+
+Exactly.
+
+He's also got this interesting side project, a scrapey crawler over tour to navigate the real estate frontier undetected.
+
+Oh, wow. That's pretty sneaky.
+
+I know, right?
+
+I like it.
+
+It definitely highlights his resourcefulness and comfort working outside the bounds of conventional tools and techniques.
+
+He's not afraid to get creative and find unconventional solutions.
+
+Then another big shift, he becomes VP of product development and at compliance officer at Wellbridge Health.
+
+Wow, he's wearing a lot of hats.
+
+I know. Talk about wearing multiple hats.
+
+That's impressive.
+
+A dual role like that suggests that he's comfortable bridging the gap between the technical and the business side of things.
+
+Yeah, he's thinking about not just how to build the software,
+
+right,
+
+but also how to make sure it meets regulatory requirements and aligns with the overall business strategy.
+
+He even mentions deprecating a legacy app store dependency and working with Maya Design to build a browserbased solution.
+
+Okay,
+
+so it seems like he's not afraid to tackle legacy systems. and modernize them.
+
+He's comfortable working with existing systems,
+
+right?
+
+Identifying areas for improvement and implementing solutions that bring them up to date.
+
+From there, he takes on the role of VP of engineering at hire and esquire.
+
+Okay.
+
+Leading a team through a major redesign. Again, we see that emphasis on moving fast and iterating quickly.
+
+And notice how he emphasizes reducing daily production firefighting by embracing automated tests, CI/CD, and code review.
+
+He's clearly focused on building sustainable systems. and processes,
+
+right?
+
+Not just hacking together quick fixes. It's about long-term stability and maintainability.
+
+Next, we see him at Forever prototyping a full stack solution from Bootstrap to Heroku on Proxmox, GitLab, all in Python 3.
+
+Oh, wow.
+
+He's really comfortable jumping between different tools and platforms.
+
+Yeah, it speaks to his adaptability and his ability to quickly grasp new technologies.
+
+In the tech world, things change so rapidly. So, this ability to learn on the fly is potential.
+
+He even ports the MVP from Python to Ruby on Rails.
+
+Oh, wow.
+
+Showing his willingness to adapt to different languages and frameworks based on the project's needs.
+
+So, he's not dogmatic about any particular technology. He's willing to use the right tool for the job.
+
+And then at Smash, he's writing conversational text systems in Python.
+
+Interesting.
+
+These systems support large SMS text campaigns for major brands like the Pittsburgh Steelers and Miller Kors.
+
+All right. So, he's building solutions that reach a audience.
+
+Yeah. Which is pretty cool.
+
+It is.
+
+After Smash, he takes on the software development manager role at Wellspring.
+
+Okay.
+
+He's responsible for moving a legacy data center. Oh.
+
+With over a million lines of code.
+
+Wow.
+
+To a modern sauce environment.
+
+Oh my god.
+
+That sounds like a massive undertaking.
+
+Yeah, that's a big one.
+
+And he's leading a team of 12 through this transition, right?
+
+Embracing CI/CD, DevOps, and S sur principles.
+
+So, he's clearly comfortable leading largecale technical transformations
+
+and advocating for modern development practices.
+
+And he's still finding time to prototype systems using a mix of Ruby, Python, and Selenium.
+
+It's like he's constantly experimenting and expanding his toolkit.
+
+He's a true polyglot programmer, comfortable working across a wide range of languages and technologies.
+
+This kind of versatility allows him to choose the right tool for the job and adapt to the everanging demands of the tech industry.
+
+Now, we find him at Applied Perception visualizing sonar data for underwater robots.
+
+Oh wow.
+
+He's using Python C++ and working on systems that are literally deployed in the ocean.
+
+That's a change of scenery.
+
+I know, right? Talk about a change of scenery.
+
+It's a testament to his ability to apply his skills across diverse domains,
+
+right?
+
+He's not limited to web development or software engineering in a traditional sense,
+
+right?
+
+He's able to tackle challenges in robotics, data visualization, and even underwater exploration.
+
+And then he ports a Windows application to Linux. for the Talon robot
+
+which is used in explosive ordinance disposal.
+
+Oh wow.
+
+Pretty high stakes stuff.
+
+It is.
+
+It highlights his adaptability and his ability to work across different platforms and operating systems.
+
+He's not just a Windows developer or a Linux developer.
+
+He's a problem solver who can adapt to the specific needs of the project.
+
+His next stop is Nomos.
+
+Okay.
+
+Where he's coding C++ QA tests, maintaining a Pearl code review system, and working on an FDA regulated product.
+
+That's a very different environment from his previous roles.
+
+It is. It shows his ability to work in highly regulated environments where quality and precision are paramount.
+
+He's not just building software for fun,
+
+right?
+
+He's building software that has real world consequences.
+
+And he's taking that responsibility seriously.
+
+He even prototypes wireframes and storyboards and C++ and Pyute for adaptive 40 treatment planning.
+
+Oh wow.
+
+It sounds like he's working on some cutting edge medical technology. Yeah, he's applying his technical skills to a field that has the potential to directly impact people's lives.
+
+Yeah,
+
+it's a reminder that software engineering isn't just about building websites or apps.
+
+It's a powerful tool that can be used to solve a wide range of problems
+
+and make a real difference in the world.
+
+Finally, we arrive at Maya Design, okay,
+
+where he's deploying Python web services, developing solutions for various organizations, and even winning an award for his work.
+
+So, he's back in the world of web development,
+
+but this time he's working on projects with a broader societal impact.
+
+Yeah,
+
+he's building solutions for education research and even homeland security.
+
+That's right.
+
+It's a diverse portfolio that showcases his ability to apply his skills across a range of domains.
+
+He also demonstrates a GUI lighting IoT Ziggb proof of concept.
+
+Okay.
+
+For Philip's executives, taking an idea from sketch to code in just 5 days.
+
+Wow, talk about working under pressure,
+
+right?
+
+It demonstrates his ability to rapidly prototype and communicate complex technical concepts.
+
+Yeah.
+
+Which is a valuable skill in any industry. He's not just a coder.
+
+He's a problem solver, a communicator, and a creative thinker who can bring ideas to life quickly and effectively.
+
+Wow. We've covered a lot of ground, but before we move on, we need to talk about David's experience co-founding Cobine.
+
+Ah, yes. His entrepreneurial endeavor.
+
+This is where we really see his drive to not just work within existing systems, but to create something entirely new.
+
+He had this vision of software and operating systems being tightly integrated at build time.
+
+Okay.
+
+An idea that foreshadowed the rise of the software appliance.
+
+He was ahead of his time recognizing the potential of containerization and virtualization before they became mainstream.
+
+And he received worldwide press after getting an idea Foundry Fellowship, highlighting the recognition of his innovative thinking.
+
+His experience with Cobbind underscores the importance of experimentation and taking risks even if they don't always lead to immediate success.
+
+Right?
+
+The lessons learned from such ventures can be invaluable, shaping future endeavors and providing a unique perspective on the tech landscape.
+
+All right, we've gone through a whirlwind tour of David's work experience, but there's still so much more to unpack. Join us for part two where we'll delve into his education, his commitment to continued learning, and the books that have shaped his thinking.
+
+Sounds good. We'll also explore how all of this ties back to the idea of retrospective prototyping. How can we apply this kind concept to our own careers, learn from our past experiences, and navigate the ever evolving world of technology with purpose and intention. Stay tuned.
+
+Welcome back. So, we just finished exploring the twists and turns of David Watson's career.
+
+Yeah, it's quite a journey.
+
+It is. And now, let's shift gears a bit and take a look at his education.
+
+Sounds good.
+
+His resume mentions Dukame University with a focus on computer science, music education, and technical writing.
+
+Okay, that's an interesting mix.
+
+It is. It seems to confirm that is someone who enjoys blending seemingly different fields.
+
+Yeah. It's not just about the hard technical skills, but also the ability to communicate effectively,
+
+right,
+
+and bring a creative touch to his work.
+
+And under continued education, he lists courses like Git Foundations at GitHub Pyon and even an RBMS course at MIT.
+
+So, he's a lifelong learner.
+
+Yeah, it seems like he's constantly expanding his knowledge base.
+
+That's incredibly important in a fast-paced field like tech.
+
+Yeah. You can't just rely on what you learned. in school,
+
+right?
+
+David's commitment to staying up to date with the latest technologies and methodologies is a great example for anyone in this industry.
+
+Absolutely.
+
+He also includes a list of books on his resume.
+
+Oh, cool.
+
+Including titles like Passion Crystal Clear and Finding Flow. It seems like he's interested in more than just the technical side of things.
+
+Yeah, he's thinking about finding purpose and fulfillment in his work,
+
+which I think we can all relate to.
+
+Absolutely. Who doesn't want to find that sweet spot where work feels both challenging and rewarding,
+
+right? And he even lists lean software as one of his reads.
+
+Okay.
+
+Which ties back to his focus on efficiency and streamlining processes.
+
+It seems like he's not just reading for enjoyment, but also to inform his approach to software development.
+
+Yeah, he's actively seeking out knowledge and applying it to his work,
+
+which is a hallmark of a true professional.
+
+So, thinking back to our earlier discussion about retrospective prototyping, it seems like David's entire career is a form of prototyping in itself. self.
+
+H that's a really interesting way to look at it.
+
+He's constantly experimenting, trying new things, and using those experiences, both good and bad, to shape his future direction.
+
+It's like he's approaching his career with a sense of curiosity.
+
+Yeah.
+
+And a willingness to learn from every experience.
+
+He's not afraid to step outside his comfort zone, to take risks, and to embrace the unknown.
+
+And that kind of mindset can be incredibly valuable no matter what field you're in.
+
+So, what can we as listeners learn from David's story?
+
+Well, I think one of the biggest takeaways is is that a career doesn't have to follow a straight line,
+
+right?
+
+It's okay to explore different options, to try new things, and even to make what might seem like detours along the way.
+
+It's about embracing those twists and turns and recognizing that they can often lead to unexpected opportunities and growth.
+
+Exactly. And I think David's story also highlights the importance of adaptability.
+
+The tech industry is constantly evolving.
+
+Yes.
+
+So being able to learn new skills and adapt to new situations is essential for success.
+
+It's not just about mastering one specific technology or programming language. It's about having a solid foundation and being able to pick up new tools and techniques as needed.
+
+Yeah. And let's not forget the importance of soft skills.
+
+Oh, that's so important.
+
+Like communication, collaboration, and problem solving.
+
+These skills are just as important as technical expertise,
+
+especially as you move into leadership roles.
+
+Absolutely.
+
+David's career demonstrates that being able to effectively communicate with both technical and non-technical audiences to work effectively as part of a team.
+
+Yeah.
+
+And to approach challenges with a creative and adaptable mindset are essential for success in today's tech world.
+
+It's also a reminder that learning is a continuous process.
+
+Right. Keep learning.
+
+Everyone is taking online courses, attending conferences, reading books, or simply being curious and asking questions.
+
+We should all strive to be lifelong learners.
+
+Absolutely. And sometimes the most valuable lessons come from our own experiences, right?
+
+From our successes and our failures alike. That's where the idea of retrospective prototyping comes in, right?
+
+By taking the time to reflect on our past experiences,
+
+we can extract valuable insights that can help us make better decisions in the future.
+
+It's about asking ourselves questions like, "What worked well in this project?"
+
+Yeah. What were the biggest challenges I faced?
+
+All right. What did I learn about myself and my work style?
+
+How did this experience align with my overall career goals?
+
+Yes. And maybe even if I could go back and do it again.
+
+Well, What would I do differently?
+
+Exactly. By taking the time to reflect on these questions, you can start to identify patterns in your work, recognize your strengths and weaknesses,
+
+and make more informed decisions about your future career direction.
+
+For example, let's say you're currently working as a software developer, but you've always been curious about product management.
+
+Okay?
+
+You could start by volunteering for tasks that give you a taste of product management. Yeah. Like gathering user feedback or helping to define product requirements. Treat those opportunities as mini prototypes testing waters and see if that role truly aligns with your interests and skills.
+
+You could also attend industry events, connect with product managers, and read books or articles on the topic.
+
+It's about actively gathering information and using those insights to inform your next career move.
+
+And remember, even if you decide product management isn't the right fit, that failed prototype have provided valuable insights,
+
+right,
+
+that you can apply to other areas of your career. It's like you're constantly refining your understanding of yourself and your place in the ever evolving landscape of the tech industry.
+
+Exactly. And I think that's what makes retrospective prototyping such a powerful concept.
+
+It's not a one-time exercise. No.
+
+It's an ongoing process of reflection, experimentation, and learning that can help us navigate our careers with more purpose and intention.
+
+Absolutely.
+
+So, this brings us to a crucial point. How can we apply the concept of retrospective prototyping to our own lives? and careers,
+
+right? It sounds great in theory.
+
+Yeah.
+
+But how do we actually put it into practice?
+
+That's a great question and it's something we'll explore further in the next part of our deep dive.
+
+Okay, sounds good.
+
+We'll look at concrete examples of how David used retrospective prototyping to navigate his career.
+
+Yeah.
+
+And we'll discuss how you can apply these principles to your own journey.
+
+Looking forward to it.
+
+So, if you're curious about how to learn from your past experiences and make more informed decisions about your future, you won't want to miss the final part of our deep dive. Okay. So, we've explored the many chapters of David Watson's career journey.
+
+Yeah. From web development to robotics,
+
+from leading teams to launching his own startup.
+
+It's really impressive.
+
+Now, let's circle back to this idea of retrospective prototyping.
+
+Okay.
+
+And see if we can extract some practical takeaways,
+
+right? Let's get practical
+
+for our own careers.
+
+Yeah, we've talked about the theory, but how do we actually apply this concept
+
+in a way that helps us make better choices and navigate the twists and turns of our own career? career paths.
+
+So, think about some of the key transitions in David's career.
+
+Okay?
+
+For example, his move from a stable job at Caterpillar to the unpredictable world of freelancing,
+
+right?
+
+What kind of retrospective prototyping might have informed that decision?
+
+Yeah. Maybe he was reflecting on his experiences within a large organization,
+
+okay,
+
+and realized he craved more autonomy or the chance to work on a wider variety of projects.
+
+Maybe he'd taken on freelance projects on the side and found them more fulfilling.
+
+Yeah, that's a good point. his day job.
+
+It's like he was using those freelance projects as mini prototypes.
+
+Yeah.
+
+To test out a different work style and see if it was a good fit.
+
+And even if those early freelance projects weren't perfect,
+
+they provided valuable data points that helped him make a more informed decision.
+
+Yeah.
+
+About whether to take the leap full-time
+
+and think about his time co-founding Cobbind,
+
+right?
+
+While it didn't achieve mainstream success,
+
+yeah,
+
+it seems like a prime example of retrospective prototyping in action.
+
+It's easy to view that experience as a failure,
+
+right?
+
+But through the lens of retrospective prototyping, it becomes a rich learning opportunity.
+
+He gained valuable insights into entrepreneurship,
+
+market dynamics, and the challenges of building a product from scratch.
+
+Those lessons likely informed his later successes, even if they weren't immediately apparent.
+
+It's like each experience, each project becomes a building block in a larger learning process.
+
+And I think the key takeaway here is that retrospective prototyping
+
+Yeah. isn't just about analyzing successes,
+
+right?
+
+It's about embracing so-called failures as valuable sources of information.
+
+So, how can we apply this concept to our own careers?
+
+Yeah.
+
+Even if we're not launching startups or making dramatic career shifts,
+
+well, start by asking yourself some key questions,
+
+okay,
+
+after completing a project or reaching a milestone in your career,
+
+what did I enjoy most about this project?
+
+Yeah. And what were the biggest challenges you faced?
+
+What did I learn about myself? and my work style.
+
+How did this experience align with my overall career goals?
+
+And maybe even if I could go back and do it again, what would I do differently?
+
+By taking the time to reflect on these questions, you can start to identify patterns in your work.
+
+Recognize your strengths and weaknesses and make more informed decisions about your future career direction.
+
+So, for example, let's say you're currently working as a software developer,
+
+okay? But you've always been curious about product management.
+
+You could start by volunteering for tasks that give you a taste of product management,
+
+okay?
+
+Like gathering user feedback or helping to define product requirements,
+
+right? Treat those opportunities as mini prototypes.
+
+Yeah. Testing the waters and seeing if that role truly aligns with your interests and skills.
+
+You could also attend industry events, connect with product managers, and read books or articles on the topic.
+
+Mhm. It's about actively gathering information, right?
+
+And using those insights to inform your next career move.
+
+And remember, even if you decide product management isn't the right fit,
+
+right? that failed prototype has provided valuable insights
+
+that you can apply to other areas of your career.
+
+It's like you're constantly refining your understanding of yourself and your place
+
+in the ever evolving landscape of the tech industry.
+
+Exactly. And I think that's what makes retrospective prototyping such a powerful concept.
+
+It's not a one-time exercise.
+
+No, it's an ongoing process
+
+of reflection, experimentation, and learning that can help us navigate our careers with more purpose and intention.
+
+So, as we wrap up this deep dive into David Watson's career. I think the key takeaway is this,
+
+right?
+
+Embrace the power of retrospective prototyping.
+
+Don't shy away from those what if questions
+
+or those moments of reflection.
+
+View every experience, every project, every challenge as an opportunity to learn and grow.
+
+And remember, your career is not a destination. It's a journey.
+
+So, be curious, be adaptable, and never stop prototyping your way to a fulfilling and impactful future.
+
+Thanks for joining us on this deep dive. I hope you found it as insightful as as we did.
+
+It's been a pleasure.
+
