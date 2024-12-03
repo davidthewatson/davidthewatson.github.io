@@ -1,4 +1,4 @@
-I's difficult to unpack the benefits of personal computing’s insights and innovations given their range. 
+It's difficult to unpack the benefits of personal computing’s insights and innovations given their range. 
 
 Just since Y2K, tech’s boat has an increasingly dark patina resembling culture lately.
 
