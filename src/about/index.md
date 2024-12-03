@@ -6,14 +6,14 @@
 ###### <a name="music"></a>Music
 <img class="icon-headshot" src="/images/tama.jpg" alt="Drums" title="Drums"></img>
 
-For me, drums made jazz approachable when I was too young and didn't possess the fine motor control skills to master the feel (exteroception). I'm still learning. 
-
 Live, acoustic, trio fusion is where I find peace. Some call it [third stream](https://en.wikipedia.org/wiki/Third_stream) which curiously pre-dates *fusion*. 
 
 I planned to be a classical musician, but I gave up my music scholarship when I dropped out of music school to study computer
 science instead. My parents said that *The Corporation* would pay the rent until I realized that my gig money paid the mortgage. I spent years gigging so my time learning music was well-spent.
 
-The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as an art form is that it depends on the artist, the listener, and the artist-listener. Jazz is the greatest triumph of listening as art. 
+The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as an art form is that it depends on the artist, the listener, and the artist-listener, just like GPT. That is, if you think of "listener" as "interlocutor", peer-pair, or human-computer sensemaking partner. ala <a href="https://www.efsa.europa.eu/sites/default/files/event/180918-conference/presentations/20-3_07_Pirolli.pdf">Peter Pirolli</a>. 
+
+Jazz is the greatest triumph of listening as art. 
 Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat Metheny, and a pianist like Marcin Wasilewski, then listen carefully to their transcendent sound. 
 
 > Purposeless play which is an affirmation of life – 
