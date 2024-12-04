@@ -1,0 +1,293 @@
+Hey everyone and welcome back. Today we're going deep on a single source. David Watson's resume, but we're not just going to list off his jobs. No, we're looking for the stuff that's kind of hidden beneath the surface, you know, like what makes him tick, what makes a career interesting. And believe me, this guy has done it all. Robots, real estate, you name it. Even started his own company along the way.
+
+Yeah, it's really fascinating. You can learn so much from a resume like this. It's like a map of someone's professional life.
+
+Exactly. Okay, so Right away, one thing jumps out at me before college even starts. David wins this computer science award, then goes on to study not just computer science, but also music education, A and D, technical writing. It's like he couldn't pick just one thing.
+
+Uh-huh. I know, right? It's pretty rare to see someone combine those interests. Technology, creativity, and communication all in one.
+
+So, what do you think that says about him?
+
+Well, I think it shows he's not afraid to be different, to follow his passions, even if they don't fit the usual mold.
+
+Like, By Matt.
+
+Yeah, exactly. And that kind of thinking can be really valuable these days when so much innovation happens between different fields.
+
+Totally. Okay. So, let's keep digging. One thing I noticed is he uses the title technologist a lot. Even when his job title is something else, software engineer, consultant, whatever, it's always technologist, too.
+
+Huh, that's interesting.
+
+Yeah. It's like it's more than just a job for him,
+
+right? It's like a core part of who he is, like a way of seeing the world. So, it's not just about the technical skills. It's that drive to use technology to solve problems
+
+to make things better. And that's something we can all learn from, I think, no matter what our job is.
+
+Absolutely.
+
+Now, let's look at the industries he's worked in. Healthcare, real estate, robotics, education, even the Pittsburgh Steelers.
+
+Wow, that's quite a range,
+
+right? So, is this someone who's always searching for the perfect fit?
+
+Or maybe he's just not afraid to try new things.
+
+Yeah, maybe he sees every industry as a new puzzle to solve. I like that.
+
+Yeah.
+
+And in today's job market, that willingness to learn and adapt is so important.
+
+For sure. Okay. So, we're seeing someone who's not afraid to be different, who loves to learn and solve problems, and who embraces new challenges,
+
+and he doesn't just stick to one area of expertise either,
+
+right? So, how does that translate into his career progression? Well, he starts out in individual roles, you know, deep in the technical stuff, but then he moves into leadership positions. VP of engineer ing VP of product development.
+
+So, he's not just gaining experience, he's using it to step up and lead.
+
+Yeah. And I wonder if his technical background actually made him a better leader.
+
+It's definitely possible. Leaders who understand the work firsthand, they can be more effective and build stronger teams.
+
+Totally. Okay. So, another interesting thing I noticed, the word prototyping comes up all the time on his resume, often with these cutting edge technologies.
+
+Oh, yeah. So, he's not just following trends, he's actively experimenting and pushing boundaries.
+
+Exactly.
+
+And that's a valuable skill in any field.
+
+Okay, so we're starting to get a picture of this guy. Lifelong learner, loves technology, leads from experience,
+
+and always looking for the next big thing,
+
+right? But there's still so much more to discover. Like, what specific challenges did he face? What projects did he work on?
+
+That's where the resume really comes to life.
+
+Exactly. So, stick around. We're about to dig into the heart of David Watson's career and see what lessons we can learn from his amazing story.
+
+All right. So, let's dive into some of those experiences. One that really stands out to me is his time at Caterpillar.
+
+Oh, yeah. He worked there twice, right?
+
+Yeah, exactly. Different roles each time. First as a software engineering specialist, then later as a technical consultant.
+
+Like he couldn't stay away.
+
+Uh-huh. Right. And both times he's dealing with some serious technical challenges like optimizing code for a terrain visualization system.
+
+Yeah.
+
+Used on those giant cat graders.
+
+Whoa.
+
+Yeah. It's pretty cool. His code is literally helping those massive machines operate.
+
+That's Amazing. It's like he's shaping the physical world with software.
+
+Exactly.
+
+And it wasn't just coding either. He also worked with IT execs on this thing called hyperconverged infrastructure and cloudnative storage.
+
+Oh, yeah. Those are big topics these days.
+
+Yeah. But I got to admit, I don't really get them.
+
+Well, think of it like this. Imagine you're building a house, but instead of having separate rooms for everything, you combine them all into one big open space.
+
+Okay, I kind of see where you're going with this,
+
+right? So, hypercon converged infrastructure, it's like that. It takes all the different parts of a data center, servers, storage, networking, and combines them into one streamlined system.
+
+So, it's all about efficiency then.
+
+Exactly. And cloudnative storage is part of that, too. It's about moving all your data to the cloud,
+
+which makes it more flexible and accessible.
+
+So, David's not just keeping up with technology, he's actually leading the way,
+
+I'd say. So,
+
+okay, so let's move on to Rent Jungle, where he built this web scraper to gather real estate data. He even mentions using tour to avoid detection. Uh-huh. Sounds kind of sneaky,
+
+right?
+
+But it shows he's resourceful. He found a clever way to get the data he needed.
+
+Like a digital detective.
+
+Exactly.
+
+And it wasn't just about collecting data either. He also led these weekly meetings called retrospectives using techniques like affinity diagrams and pair work to improve team communication and efficiency.
+
+So we're seeing those leadership skills again.
+
+Yeah. He's not just managing people, he's actively helping them work better together,
+
+right?
+
+And that focus on improvement continues at Hire and Esquire. where he was VP of engineering. He talks about reducing production firefighting by implementing things like automated tests, continuous integration and delivery and code review.
+
+Those are all essential practices in software development,
+
+but I think some of our listeners might not be familiar with them.
+
+Sure. So, imagine you're building a car with automated testing. You're not just testing the whole car at the end. You're testing each part along the way
+
+to make sure everything works properly.
+
+Exactly. and continuous integration and delivery. That's like having an assembly line for code.
+
+So changes are constantly being integrated and released smoothly.
+
+Ah, so it's all about making the development process faster and more reliable.
+
+Exactly.
+
+And code review is just what it sounds like.
+
+Having other developers check your work.
+
+Yeah.
+
+To catch any errors or potential problems.
+
+So it's all about quality control. Okay. So we've seen David in big companies, but he also co-founded a startup called Coine.
+
+That's right.
+
+Which focused on Linux tools.
+
+So, he's got that entrepreneurial spirit, too.
+
+Yeah. It takes guts to start your own company.
+
+Absolutely.
+
+And even if Cobine didn't become a huge success,
+
+the experience he gained there is invaluable. Totally. It teaches you so much about problem solving and leadership.
+
+All right. So, let's fast forward a bit to his time at Smash where he developed these conversational text systems like early chat bots for clients like the Pittsburgh Steelers and Miller cars. No, he was ahead of the curve on that one,
+
+right?
+
+Chat bots are everywhere now, but back then it was pretty cutting edge stuff.
+
+And speaking of cutting edge, at Applied Perception, he worked on visualizing sonar data for underwater vehicles and porting software for bomb disposal robots.
+
+Okay, that's straight out of a movie.
+
+I know, right?
+
+It shows he's comfortable working with a wide range of technology
+
+and on some pretty intense projects.
+
+Yeah, for sure.
+
+Okay, so one more stop on our tour of David's resume, Wellspring, where he led a team transition from a legacy data center to a more modern agile approach to software development.
+
+That's a huge undertaking.
+
+It is.
+
+And it's something that a lot of companies are struggling with today.
+
+So, he's not just a tech expert. He's a change agent.
+
+I like that.
+
+Leading teams through these complex transitions.
+
+That's a skill that's only becoming more valuable.
+
+Okay. So, we've covered a lot of ground here. But I think there's even more to learn from David's story.
+
+Oh, yeah.
+
+Especially when we look at the specific technologies he's worked with and the projects he's tackled.
+
+That's where we can really see his problem solving process in action.
+
+Exactly. So, let's dig a little deeper. All right. So, we're back and we're looking at the tech side of David's resume, like his experience with meanstack development at Wyvern, even porting old PHP code to a newer system.
+
+Yeah, that's not easy.
+
+It sounds kind of like a headache, actually.
+
+It can be. You got to really understand the old system and make sure the new one is actually better. It's not just about using the latest trendy stuff,
+
+right? It's got to actually solve the problem.
+
+Exactly.
+
+Okay, then. There's his work with Zelink's ZCU104 PYNQ code at Caterpillar. We're talking FPGA feature flags optimization. That's getting pretty deep into hardware.
+
+Yeah, that's impressive. FPGAAS are like customizable computer chips. So, you can tailor the hardware for specific tasks.
+
+Wow. So, it's like he's not just writing software, he's actually shaping the hardware it runs on.
+
+Exactly.
+
+That's pretty next level stuff.
+
+It is.
+
+And then there's his experimentation with GPT
+
+and personal knowledge. management.
+
+Yeah, he's clearly interested in the future of AI
+
+and how it can be used to solve real world problems,
+
+right? And that's something we should all be thinking about. How can we use these new tools to make things better?
+
+Absolutely. But it's not always about the latest and greatest tech either. Like his work with Scrapey at Rent Jungle. Sometimes the best solution is a simple one.
+
+Yeah. Sometimes the old tools are still the best. It's about knowing what to use and when.
+
+And his early work with SMS Tech Systems at Smash. That's a great example of how a seemingly simple technology can have a huge impact.
+
+Exactly. He saw the potential of mobile communication early on,
+
+way before smartphones were even a thing.
+
+Right.
+
+So, looking back at David's entire career, what's the big takeaway here?
+
+Well, I think it shows that a career path doesn't have to be linear. It can be a journey of exploration and discovery.
+
+A choose your own adventure story.
+
+Exactly.
+
+And it's not just about technical skills.
+
+It's about being curious,
+
+adaptable, willing to learn new things,
+
+and always pushing yourself to grow.
+
+Right. So, as we wrap up this deep dive, I want to leave you with a question. If you could design your ideal career path, what elements of David's journey would you borrow?
+
+What excites you?
+
+Yeah.
+
+What do you want to learn? What kind of impact do you want to make?
+
+These are the questions we should all be asking ourselves, no matter what stage of our careers we're in.
+
+Absolutely.
+
+Well, that's it for today's deep dive. We hope you enjoyed exploring the fascinating career of David Watson, and that you learned a few things along the way. Until next time. Keep learning, keep growing, and keep pushing the boundaries of what's possible.
