@@ -1,179 +1,25 @@
-/* Indigo Light scheme (Default) */
-/* Can be forced with data-theme="light" */
-[data-theme="light"],
-:root:not([data-theme="dark"]) {
-  --primary: #3949ab;
-  --primary-hover: #303f9f;
-  --primary-focus: rgba(57, 73, 171, 0.125);
-  --primary-inverse: #FFF;
+small {
+  font-size: 0.9em; /* Adjust as needed */
+  color: #888; /* A common choice for muted text */
 }
 
-/* Indigo Dark scheme (Auto) */
-/* Automatically enabled if user has Dark mode enabled */
-@media only screen and (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    --primary: #3949ab;
-    --primary-hover: #3f51b5;
-    --primary-focus: rgba(57, 73, 171, 0.25);
-    --primary-inverse: #FFF;
-  }
+.brand {
+  /* Add your desired styles here */
+  font-weight: bold; /* Example styling */
+  font-size: 1.2em; /* Example styling */
 }
 
-/* Indigo Dark scheme (Forced) */
-/* Enabled if forced with data-theme="dark" */
-[data-theme="dark"] {
-  --primary: #3949ab;
-  --primary-hover: #3f51b5;
-  --primary-focus: rgba(57, 73, 171, 0.25);
-  --primary-inverse: #FFF;
+.icon-rounded {
+  border-radius: 50%; /* Make the image circular */
+  width: 1m; /* Assuming the font size of `fa-3x` is 3em */
+  height: 1em; /* Assuming the font size of `fa-3x` is 3em */
+  object-fit: cover; /* Ensure image fills the entire area */
 }
 
-/* Indigo (Common styles) */
-:root {
-  --form-element-active-border-color: var(--primary);
-  --form-element-focus-color: var(--primary-focus);
-  --switch-color: var(--primary-inverse);
-  --switch-checked-background-color: var(--primary);
-}
-
-nav li.brand {
-  font-size: xx-large;
-  font-weight: 600;
-  ;
-}
-
-img.portrait {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  float: right;
-}
-
-.dw-org {
-  font-size: 1.5em;
-  font-weight: 400;
-}
-
-img.icon {
-  height: 96px;
-  width: 96px;
-  display: block;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-img.icon-header {
-  height: 60.5px;
-  width: 60.5x;
-  display: inline-block;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-img.icon-headshot {
-  height: 128px;
+.icon-headshot {
   width: 128px;
-  display: block;
+  height: 128px;
   border-radius: 50%;
   object-fit: cover;
   float: right;
-  margin: 10px;
-}
-
-.iframe-container {
-  aspect-ratio: 16/9;
-}
-
-.icon_shadow {
-  height: 80px;
-  width: 80px;
-  border-style: hidden;
-}
-
-table {
-  width: 95%;
-  padding: 4px;
-}
-
-p.title {
-  position: relative;
-  display: grid;
-  left: auto;
-
-}
-
-p.company {
-  position: relative;
-  display: grid;
-  left: 400 px;
-
-}
-
-p.years {
-  position: relative;
-  display: grid;
-  left: 800 px;
-}
-
-table td.address {
-  font-size: medium;
-  line-height: 0.75em;
-}
-
-table.skills tr th {
-  padding: 8px;
-  background-color: lightgray;
-  font-weight: bold;
-  text-align: center;
-}
-
-table.skills tr td {
-  text-align: center;
-  padding: 0;
-}
-
-table.experience tr th {
-  background-color: lightgray;
-  font-weight: bold;
-  padding: 6px;
-}
-
-table.experience tr td {
-  padding: 3px;
-  list-style-type: circle;
-  width: 40%;
-  white-space: nowrap;
-}
-
-table.experience tr:nth-of-type(odd) td:first-child {
-  font-weight: bold;
-}
-
-table.education tr td:first-child {
-  font-weight: bold;
-}
-
-table.education tr td:nth-child(3) {
-  font-weight: bold;
-}
-
-table.open-source tr td:first-child {
-  font-weight: bold;
-}
-
-table.awards tr td:first-child {
-  font-weight: bold;
-}
-
-#wellspring {
-  page-break-before: always;
-}
-
-#short-term-experience {}
-
-#knowledge-and-skills {}
-
-#quotes {
-  padding: 10px;
 }
