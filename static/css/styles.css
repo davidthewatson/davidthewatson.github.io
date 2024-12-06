@@ -41,3 +41,8 @@ small {
     flex-direction: column;
   }
 }
+
+.transcript-section {
+  height: 300px; /* Adjust height as needed */
+  overflow-y: auto; /* Enable vertical scrollbar */
+}
