@@ -35,9 +35,9 @@ small {
   grid-column: 1 / 3; /* Span both columns */
 }
 
-/* Mobile-Specific Styles */
 @media (max-width: 768px) {
   .container.grid {
-    grid-template-columns: 1fr; /* Single-column layout for smaller screens */
+    display: flex;
+    flex-direction: column;
   }
 }
