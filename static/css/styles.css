@@ -1,5 +1,6 @@
 small {
-  font-size: 0.9em; /* Adjust as needed */
+  font-size: 0.5em;
+  font-weight: 200;
   color: #888; /* A common choice for muted text */
 }
 
