@@ -25,7 +25,7 @@
      </section>
      <section class="right-section">
       <h6>The Document <small>(PDF)</small></h6>
-      <embed src="/media/dw21.pdf" type="application/pdf" width="100%" height="600px">
+      <embed src="/media/dw23.pdf" type="application/pdf" width="100%" height="600px">
     </section>
 
     <section class="transcript-section">
@@ -290,5 +290,3 @@
 </p>
 
         </section>
-<main class="container">
-</main>

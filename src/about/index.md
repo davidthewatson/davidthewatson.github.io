@@ -1,9 +1,29 @@
-##### About
+### About
+
+<div class="container"> 
+<small>The Artist-Scientist AKA Weird Beard</small>
+<img src="/images/me.jpg"/>
+</div>
+
+<div class="container"> 
+<small>My dislike of anxiogenic objects for interviews remains.</small>
+<img src="/images/my_work.jpg"/>
+</div>
+
+<div class="container"> 
+<small>Drum or drum not. Percuss is for MDs. A musician, I am.</small>
+<div class="video-wrapper"> 
+  <video controls> 
+    <source src="/media/drums.mov" type="video/mp4"> 
+      Your browser does not support the video tag. 
+  </video> 
+</div>
+</div>
 
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
 
-###### <a name="music"></a>Music
+###### <a name="music"></a>Music, Drums, and All That Jazz
 <img class="icon-headshot" src="/images/tama.jpg" alt="Drums" title="Drums"></img>
 
 Live, acoustic, trio fusion is where I find peace. Some call it [third stream](https://en.wikipedia.org/wiki/Third_stream) which curiously pre-dates *fusion*. 
@@ -20,7 +40,7 @@ Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat
 simply a way of waking up to the very life we're living. <footer>- <cite>[John Cage][2]</cite></footer>
 [2]: https://en.wikipedia.org/wiki/John_Cage 
 
-###### <a name="software"></a>Software
+###### <a name="software"></a>Computer Hardware and The Infinte Extensiblity of Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
 
 Software started as a *personal* science for me as an adolescent - peeking and poking at *personal* computers. 
