@@ -43,11 +43,6 @@ small {
   }
 }
 
-.transcript-section {
-  height: 800px; /* Adjust height as needed */
-  overflow-y: auto; /* Enable vertical scrollbar */
-}
-
 .video-wrapper {
   position: relative;
   width: 100%;
