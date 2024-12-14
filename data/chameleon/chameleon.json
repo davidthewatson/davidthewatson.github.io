@@ -1,0 +1,499 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://www.linkedin.com/in/ne1l/",
+      "label": "https://linkedin.com/in/ne1l"
+    },
+    "name": "David Watson",
+    "email": "david@davidwatson.org",
+    "phone": "(412) 614-9301",
+    "picture": {
+      "url": "http://localhost:9000/default/cm2hwje620000ks2opiqm11ey/pictures/cm2hwje620000ks2opiqm11ey.jpg",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": true,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 9999
+    },
+    "headline": "Complete Systems make Compelling Stories from Insight, Iteration, and Innovation into Prototype, Process, and Product",
+    "location": "Pittsburgh, PA, USA",
+    "customFields": [
+      {
+        "id": "ec3b5nm1ebia9zzr1u3a195n",
+        "icon": "",
+        "name": "",
+        "value": "https://davidwatson.org/"
+      }
+    ]
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "letter",
+      "margin": 48,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "<p></p>",
+    "theme": {
+      "text": "#000000",
+      "primary": "#475569",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "experience",
+          "projects"
+        ],
+        [
+          "profiles",
+          "skills",
+          "certifications",
+          "interests"
+        ]
+      ],
+      [
+        [
+          "custom.xhnjy892dutoxjqmwnxrqsgl",
+          "awards",
+          "education"
+        ],
+        [
+          "volunteer",
+          "publications",
+          "references",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "rhyhorn",
+    "typography": {
+      "font": {
+        "size": 12,
+        "family": "Lato",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": true,
+      "lineHeight": 2,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": false
+    },
+    "custom": {
+      "xhnjy892dutoxjqmwnxrqsgl": {
+        "id": "xhnjy892dutoxjqmwnxrqsgl",
+        "name": "Experience (continued)",
+        "items": [
+          {
+            "id": "r8er6gu7tfnux6vcmhqomm7i",
+            "url": {
+              "href": "https://en.wikipedia.org/wiki/Forever_(website)",
+              "label": ""
+            },
+            "date": "2013-2014",
+            "name": "Forever",
+            "summary": "<ul><li><p>Prototyped  full-stack (Bootstrap to Heroku) on Proxmox-Gitlab quickly on Python 3 before porting MVP from Python to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ruby-lang.org/en/\">Ruby</a> on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubyonrails.org/\">Rails</a> </p></li><li><p>Enabled the company to capture strong market traction in just a year after releasing 1.0 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.netsuite.com/portal/home.shtml\">e-commerce platform</a> finished at Neo</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Senior Software Developer"
+          },
+          {
+            "id": "kyuf27ssf1dnyx4mzqsut98n",
+            "url": {
+              "href": "https://www.crunchbase.com/organization/smash-technologies",
+              "label": ""
+            },
+            "date": "2011 - 2012",
+            "name": "SMaSh - Brainstorm SMS Technologies (Mind Matrix)",
+            "summary": "<ul><li><p>Wrote conversational text systems (like <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.twilio.com/en-us\">twilio</a>) in Python, PostgreSQL,  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://flask.palletsprojects.com/\">Flask</a>, and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://fedoraproject.org/\">Fedora Linux</a></p></li><li><p>Supported large SMS text campaigns from Pittsburgh Steelers to Miller-Coors</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Senior Engineer"
+          },
+          {
+            "id": "rq2mhagikt400s6dauyl25tt",
+            "url": {
+              "href": "https://www.wellspring.com/",
+              "label": ""
+            },
+            "date": "2010-2011",
+            "name": "Wellspring",
+            "summary": "<ul><li><p>Led <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wellspring.com/products/technology-transfer\">Sophia</a> and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.wellspring.com/products/flintbox\">Flintbox</a> teams from 1M SLOC data center to automated SaaS virtualization of CI/CD, DevOps, and SRE code culture</p></li><li><p>Prototyped systems using <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://capistranorb.com/\">Capistrano</a> (Ruby), <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://mechanize.readthedocs.io/en/latest/\">Mechanize</a> (Python), and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.selenium.dev/\">Selenium</a> with team of 4-7  software engineers</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Software Development Manager"
+          },
+          {
+            "id": "fj80vo3crqux9u58xqlda195",
+            "url": {
+              "href": "https://en.wikipedia.org/wiki/Foster-Miller",
+              "label": ""
+            },
+            "date": "2008-2009",
+            "name": "Applied Perception (Foster Miller (Qinetiq))",
+            "summary": "<ul><li><p>Visualized XML sonar data in Python <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser)\">Beautiful Soup</a> server and <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Microsoft_Visual_C%2B%2B\">Microsoft Visual C++</a> GUI client on Windows for <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Unmanned_underwater_vehicle\">UUV</a> deployments</p></li><li><p>Ported Microsoft C# Windows GUI application to C++, Qt, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://ubuntu.com/desktop\">Ubuntu Linux</a> for <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Foster-Miller_TALON#:~:text=The%20robot%20is%20controlled%20through%20a%20two%2Dway%20radio%20or%20fiber%2Doptic%20link%20from%20a%20portable%20or%20wearable%20Operator%20Control%20Unit%20(OCU)%20that%20provides%20continuous%20data%20and%20video%20feedback%20for%20precise%20vehicle%20positioning\">OCU</a> deployment of <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Foster-Miller_TALON\">Talon Robot</a> in EOD applications</p></li></ul>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "Project Engineer"
+          },
+          {
+            "id": "wol51vlkqclhj09p590knnbz",
+            "url": {
+              "href": "http://www.bestmedical.com/",
+              "label": ""
+            },
+            "date": "2006-2007",
+            "name": "NOMOS (North American Scientific, Best Medical)",
+            "summary": "<ul><li><p>Coded C++ QA tests, maintained Perl code review system, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://www.nomos.com/pdf/BN_MB_Corvus_MSF0003_R1_06142016.pdf\">CORVUS</a> FDA-regulated product, team of 12, ~2M SLOC Mac</p></li><li><p>Prototyped wireframes and rendered storyboards in C++/<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/PyQt\">PyQt</a> for adaptive 4D treatment planning with team of 4</p></li></ul><p></p>",
+            "visible": true,
+            "keywords": [],
+            "location": "Pittsburgh, PA",
+            "description": "UI Software Engineer"
+          },
+          {
+            "id": "t99gpohavvt6l3sre22raglj",
+            "visible": true,
+            "name": "MAYA Design (BCG)",
+            "description": "Software Design Engineer",
+            "date": "2004-2006",
+            "location": "Pittsburgh, PA",
+            "summary": "<ul><li><p>Won <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://tinyurl.com/MAYA-DHS\\\">award</a> for <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pypi.org/project/Toolserver/\">python web services</a> emitting JSON to JDA clients on team of 4 developing A+ Schools, 3RC, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/images/dhs.png\">humanservices.net</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://tinyurl.com/MAYA-DHS\\\">Demoed</a> GUI lighting IoT Zigbee PoC in C#.net/COM/Visio on Windows for Phillips execs in 5 days sketch-to-code</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": "https://dl.acm.org/doi/pdf/10.1145/288392.288596"
+            }
+          },
+          {
+            "id": "eaesx1b3ce7buc43l6hp07s9",
+            "visible": true,
+            "name": "Cobind",
+            "description": "Cofounder",
+            "date": "2003-2004",
+            "location": "Pittsburgh, PA",
+            "summary": "<ul><li><p>Designed <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://wplug.org/images/8/82/2004-06-05-cobind-pres.pdf\">DiY Linux Tools</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://lwn.net/Articles/97459/\">YUMGUI</a>, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubenerd.com/p1191/\">Desktop ISO</a> with cofounder; Won worldwide press acclaim after  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://tinyurl.com/ifretro\">Idea Foundry Fellowship</a> GTM</p></li></ul>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": "https://tinyurl.com/cobind"
+            }
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": false
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Tools & Tech",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>A <strong>computer science</strong> award before music school vaulted me into a <strong>computer programming</strong> internship afterward. Designed data products, developed software from shrinkwrap to service, and deployed pipelines of <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">DiY tools</a>. Moved ideas to code, data to science,  and markdown to markup documentation. <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.realizingempathy.com/2011/04/08/#:~:text=david\"><em>Realizing Empathy</em> </a>remains key as users see GPT-LLM's go everywhere sans <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/dw21/index.html\">human-computer-sensemaking</a>.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Socials",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "aczrtwz72j7uldtmewpyjccr",
+          "url": {
+            "href": "https://duq.edu/",
+            "label": ""
+          },
+          "area": "",
+          "date": "BS-BA",
+          "score": "",
+          "summary": "<p></p>",
+          "visible": true,
+          "studyType": "",
+          "institution": "Duquesne University (Core in Computer Science, Music, Technical Writing)"
+        },
+        {
+          "id": "e1xv6vyr1cklu3071wze8d1l",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "",
+          "date": "",
+          "score": "",
+          "summary": "<p></p>",
+          "visible": false,
+          "studyType": "Crystal Clear, Flow (Csikszentmihalyi), Lean Software (Poppendieck, Ries)",
+          "institution": "Books"
+        },
+        {
+          "id": "uo0rq2sfqt3sewymk59dg1kb",
+          "visible": true,
+          "institution": "Continuing Education",
+          "studyType": "",
+          "area": "",
+          "score": "",
+          "date": "MIT Internet App Programming & RDBMS (Stonebraker)",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "q51143il37ravr20zl9iufp3",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "",
+          "date": "",
+          "score": "",
+          "summary": "",
+          "visible": false,
+          "studyType": "Reading, Writing, and Running",
+          "institution": "Passion"
+        },
+        {
+          "id": "m6trnlechmnpilriwlnx4ami",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "",
+          "date": "",
+          "score": "",
+          "summary": "",
+          "visible": false,
+          "studyType": "Reading, Writing, and Running",
+          "institution": "Interests"
+        },
+        {
+          "id": "zvo54zg8spbz5zi9lptyzw7o",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "",
+          "date": "",
+          "score": "",
+          "summary": "<p>Base Camp, Hillary Step, The Summit</p>",
+          "visible": false,
+          "studyType": "Listen Below",
+          "institution": "More interest than time?"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Personal Technical Interests",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Programming Languages",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": false
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "phlfu6zabpfrzumeuk3eb4xu",
+          "visible": true,
+          "company": "Wyvern",
+          "position": "Technologist (1099)",
+          "location": "Nashua, NH",
+          "date": "2023-2024",
+          "summary": "<ul><li><p>Roadmapped legacy code removal and sunsetting with Docker Compose, Kubernetes, and Typescript Stack</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.wyvernltd.com/"
+          }
+        },
+        {
+          "id": "lnqveo73or3kbifohbx2h89l",
+          "visible": true,
+          "company": "Freelance",
+          "position": "Software Design Engineer",
+          "location": "Pittsburgh, PA",
+          "date": "2022",
+          "summary": "<ul><li><p>Prototyped PKM with <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a> and  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier; Experimented with Arch Linux, Rust, Polars;</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://davidwatson.org/top_3_linux_distros_2022.html"
+          }
+        },
+        {
+          "id": "ntt106u31z1v415i8hp0r6cf",
+          "visible": true,
+          "company": "Caterpillar",
+          "position": "Technical Consultant (1099)",
+          "location": "Pittsburgh, PA",
+          "date": "2021",
+          "summary": "<ul><li><p>Optimized ZCU-104 Terrain Visualization port using GCC flags to gain 30% performance boost quickly without deep tools or talent</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.caterpillar.com/"
+          }
+        },
+        {
+          "id": "wj9ju73e2i7l36vaogpgvxzi",
+          "visible": true,
+          "company": "Carnegie Mellon University (Emerging Technology Center (AI Division))",
+          "position": "Senior Member of Technical Staff",
+          "location": "Pittsburgh, PA",
+          "date": "2020",
+          "summary": "<ul><li><p>Artificial Intelligence (AI), Human Computer Interaction (HCI), High Performance Computing (HPC) using Agile, KubeFlow, MLPerf</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.sei.cmu.edu/our-work/agile/"
+          }
+        },
+        {
+          "id": "gz10xm20ugr8p8c1m125o2ue",
+          "url": {
+            "href": "https://www.cat.com/en_US.html",
+            "label": ""
+          },
+          "date": "2018-2020",
+          "company": "Caterpillar",
+          "summary": "<ul><li><p>Assembled Sensor Storage for Edge Network on Kubernetes to achieve <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://12factor.net/dev-prod-parity\">Dev-Prod Parity</a> using S3 as <strong>protocol not product</strong>, like Minio</p></li><li><p>Collaborated with IT execs on planning and implications of <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.min.io/what-it-really-means-to-be-cloud-native-in-the-storage-world/\">cloud native storage</a> burden to declarative vs fixed configuration</p></li></ul>",
+          "visible": true,
+          "location": "Pittsburgh, PA",
+          "position": "Software Engineering Specialist (W-2)"
+        },
+        {
+          "id": "wjxgsmxvbs6ybe3cxaq9acuw",
+          "visible": true,
+          "company": "Rent Jungle (RainMaker (RealPage))",
+          "position": "Senior Software Engineer",
+          "location": "Pittsburgh, PA",
+          "date": "2016-2018",
+          "summary": "<ul><li><p>Led weekly retro resulting in better communication, velocity, and teamwork via agile methods like <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Affinity_diagram\">affinity diagrams </a> and pairs work</p></li><li><p>Crafted <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://scrapy.org/\">Scrapy</a> crawler (python 3)  to cover real estate frontier without detection on Django, PostgreSQL, and Kubernetes</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": "https://www.realpage.com/"
+          }
+        },
+        {
+          "id": "skjhd05ozv25dpcqdd4m88uq",
+          "url": {
+            "href": "https://www.wellbridgehealth.com/",
+            "label": ""
+          },
+          "date": "2015-2016",
+          "company": "Wellbridge Health",
+          "summary": "<ul><li><p>Deprecated legacy App Store dependency using browser-based Ember <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://en.wikipedia.org/wiki/Single-page_application\">SPA</a> MVP designed and delivered in concert with MAYA Design</p></li><li><p>Developed API backend on Python 3 - <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.django-rest-framework.org/\">Django REST Framework</a>, PostgreSQL emitting <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://jsonapi.org/\">JSON API</a> to  Ember SPA on Aptible</p></li></ul>",
+          "visible": true,
+          "location": "Pittsburgh, PA",
+          "position": "VP Product Development, IT Compliance Officer"
+        },
+        {
+          "id": "mrn0nfhzgifj4h1ww2yov2ku",
+          "url": {
+            "href": "https://www.mlaglobal.com/en/services/hire-an-esquire",
+            "label": ""
+          },
+          "date": "2014",
+          "company": "Hire an Esquire (Major, Lindsey, and Africa)",
+          "summary": "<ul><li><p>Led a team of 4 through a <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://hbr.org/2013/05/why-the-lean-start-up-changes-everything\">lean</a> Python 3 redesign and refactoring of the entire UI/UX from legacy MVP Django system</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.usenix.org/sites/default/files/conference/protected-files/srecon18asia_slides_purgason.pdf\">Reduced daily production firefighting</a> by using agile methods, automated tests, CI/CD, code review and design review</p></li></ul>",
+          "visible": false,
+          "location": "Pittsburgh, PA",
+          "position": "VP Engineering"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "references": {
+      "id": "references",
+      "name": "Code",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": false
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Emotional Communication",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": false
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}
