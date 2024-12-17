@@ -43,7 +43,7 @@ simply a way of waking up to the very life we're living. <footer>- <cite>[John C
 ###### <a name="software"></a>Computer Hardware and The Infinte Extensiblity of Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
 
-Software started as a *personal* science for me as an adolescent - peeking and poking at *personal* computers. 
+Software started as a *personal* science for me as an adolescent - peeking and poking at *personal* computers CTM close to the metal, peering and pairing at personal communications CTM close to mind. The only problem is that as personal communication has always been guarded by fear and anxiety, so too have personal communication been siloed and moated by indirection as fear and anxiety been modeled in training data whether intentionally or unintentionally. 
 
 Decades later I practice software as experiments in art and intuitive philosophy, like my <a href="https://www.quantamagazine.org/computer-scientist-donald-knuth-cant-stop-telling-stories-20200416/">heroes</a>. 
 
