@@ -1,9 +1,9 @@
 {
   "basics": {
-    "name": "David Neil Watson",
-    "headline": "",
+    "name": "David Watson",
+    "headline": "Ideation → Iteration → Innovation",
     "email": "david@davidwatson.org",
-    "phone": "(412) 614-9301",
+    "phone": "",
     "location": "Pittsburgh, PA, USA",
     "url": {
       "label": "https://linkedin.com/in/ne1l",
@@ -161,7 +161,7 @@
           "position": "Technologist (1099)",
           "location": "Nashua, NH",
           "date": "2023-2024",
-          "summary": "<ul><li><p>Roadmapped legacy code deprecation with Docker Compose, Kubernetes, and Typescript infrastructure</p></li></ul>",
+          "summary": "<ul><li><p>Roadmapped  legacy code deprecation with team of four favoring Docker, Kubernetes, and Typescript infrastructure</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://www.wyvernltd.com/"
@@ -435,7 +435,7 @@
     }
   },
   "metadata": {
-    "template": "rhyhorn",
+    "template": "onyx",
     "layout": [
       [
         [
