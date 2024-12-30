@@ -1,24 +1,7 @@
 ### About
 
-<div class="container"> 
-<small>The Artist-Scientist AKA Weird Beard</small>
-<img src="/images/me.jpg"/>
-</div>
 
-<div class="container"> 
-<small>My dislike of anxiogenic objects for interviews remains.</small>
-<img src="/images/my_work.jpg"/>
-</div>
-
-<div class="container"> 
-<small>Drum or drum not. Percuss is for MDs. A musician, I am.</small>
-<div class="video-wrapper"> 
-  <video controls> 
-    <source src="/media/drums.mov" type="video/mp4"> 
-      Your browser does not support the video tag. 
-  </video> 
-</div>
-</div>
+<img class="icon-headshot" src="/images/watson.jpg" alt="Drums" title="Drums"></img>
 
 > The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
 [1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
