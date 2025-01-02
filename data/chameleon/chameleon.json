@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "David Watson",
-    "headline": "Ideation → Iteration → Innovation",
+    "headline": "Human-Computer Peer-to-Pair Partner",
     "email": "david@davidwatson.org",
     "phone": "",
     "location": "Pittsburgh, PA, USA",
@@ -18,7 +18,7 @@
       }
     ],
     "picture": {
-      "url": "",
+      "url": "http://localhost:9000/default/cm2hwje620000ks2opiqm11ey/pictures/cm2hwje620000ks2opiqm11ey.jpg",
       "size": 72,
       "aspectRatio": 1,
       "borderRadius": 9999,
@@ -36,7 +36,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>A computer science award before music school catapulted me into a computer programming internship afterward. Designed data products, developed software as a service, and deployed pipelines of <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">tools</a>. Moved ideas to code, data to science,  and markdown to markup documentation. No matter the mode, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.realizingempathy.com/2011/04/08/#:~:text=david\"><em>Realizing Empathy</em> </a> makes consensus in Human-Computer sensemaking possible  in AI interaction.</p>"
+      "content": "<p>A musician before and after I studied the meaning and sense-making  of human-computer science, improvisation and orchestration are my natural sway. I grew up between a clinic, a library, and a music studio. Hence, my multimodal DiY way-of-working combines lab, library, and studio. Flexible to a fault, my biases are easy to state but hard to find : curious and dynamic, empathic and open organizations and culture.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -56,7 +56,7 @@
     },
     "education": {
       "name": "Education",
-      "columns": 1,
+      "columns": 2,
       "separateLinks": false,
       "visible": true,
       "id": "education",
@@ -64,11 +64,11 @@
         {
           "id": "aczrtwz72j7uldtmewpyjccr",
           "visible": true,
-          "institution": "Duquesne University (Core in Computer Science, Music Education, Technical Writing)",
-          "studyType": "",
+          "institution": "Duquesne University (Courses: Business, CS, Tech Writing)",
+          "studyType": "BS",
           "area": "",
           "score": "",
-          "date": "BS-BA",
+          "date": "",
           "summary": "<p></p>",
           "url": {
             "label": "",
@@ -104,10 +104,10 @@
           }
         },
         {
-          "id": "q51143il37ravr20zl9iufp3",
+          "id": "m6trnlechmnpilriwlnx4ami",
           "visible": false,
           "institution": "Passion",
-          "studyType": "Reading, Writing, and Running",
+          "studyType": "Cycling, Reading, Running, Skiing, Writing",
           "area": "",
           "score": "",
           "date": "",
@@ -118,14 +118,14 @@
           }
         },
         {
-          "id": "m6trnlechmnpilriwlnx4ami",
+          "id": "q51143il37ravr20zl9iufp3",
           "visible": false,
-          "institution": "Interests",
-          "studyType": "Reading, Writing, and Running",
+          "institution": "Music",
+          "studyType": "Taught and played Classical and Jazz gigs, Live and Studio",
           "area": "",
           "score": "",
           "date": "",
-          "summary": "",
+          "summary": "<p></p>",
           "url": {
             "label": "",
             "href": ""
@@ -155,13 +155,26 @@
       "id": "experience",
       "items": [
         {
-          "id": "phlfu6zabpfrzumeuk3eb4xu",
+          "id": "ckkevv890wb0k8brdrqireqs",
           "visible": true,
+          "company": "Freelance",
+          "position": "",
+          "location": "",
+          "date": "2020-present",
+          "summary": "<ul><li><p><strong>Solo</strong> Cultivating <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">Cobind</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://no.wikipedia.org/wiki/Cobind_Desktop\">Desktop</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubenerd.com/p1191/\">Community</a> concept from 2004<strong>:</strong>  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://system76.com/cosmic/\">Cosmic</a>, Python, Rust, TWM - where latency matters  <strong>2024 - present</strong></p></li><li><p><strong>Wyvern</strong> (1099) Roadmapped  port of legacy code to Docker, Kubernetes, and Typescript infrastructure  with team of four <strong>2023-2024</strong></p></li><li><p><strong>Paired</strong> with design peer prototyping Personal Knowledge Management on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a>-<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier <strong>2022</strong></p></li><li><p><strong>Caterpillar</strong> (1099) Built ZCU-104 Terrain Visualization using GCC flags for required performance boost for demo GTM decision <strong>2021</strong></p></li><li><p><strong>Carnegie Mellon University</strong> Artificial Intelligence (AI), Human Computer Interaction (HCI), High Performance Computing (HPC) <strong>2020</strong></p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "phlfu6zabpfrzumeuk3eb4xu",
+          "visible": false,
           "company": "Wyvern",
           "position": "Technologist (1099)",
           "location": "Nashua, NH",
           "date": "2023-2024",
-          "summary": "<ul><li><p>Roadmapped  legacy code deprecation with team of four favoring Docker, Kubernetes, and Typescript infrastructure</p></li></ul>",
+          "summary": "<ul><li><p>Roadmapped  port of legacy code to Docker, Kubernetes, and Typescript infrastructure</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://www.wyvernltd.com/"
@@ -169,12 +182,12 @@
         },
         {
           "id": "lnqveo73or3kbifohbx2h89l",
-          "visible": true,
+          "visible": false,
           "company": "Freelance",
           "position": "Software Design Engineer",
           "location": "Pittsburgh, PA",
           "date": "2022",
-          "summary": "<ul><li><p>Prototyped PKM with <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a> and  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier; Experimented with Arch Linux, Rust, Polars;</p></li></ul>",
+          "summary": "<ul><li><p>Prototyped PKM concept with <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a> and  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier; Experimented with Arch Linux, Rust, Polars;</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://davidwatson.org/top_3_linux_distros_2022.html"
@@ -182,7 +195,7 @@
         },
         {
           "id": "ntt106u31z1v415i8hp0r6cf",
-          "visible": true,
+          "visible": false,
           "company": "Caterpillar",
           "position": "Technical Consultant (1099)",
           "location": "Pittsburgh, PA",
@@ -195,7 +208,7 @@
         },
         {
           "id": "wj9ju73e2i7l36vaogpgvxzi",
-          "visible": true,
+          "visible": false,
           "company": "Carnegie Mellon University (Emerging Technology Center (AI Division))",
           "position": "Senior Member of Technical Staff",
           "location": "Pittsburgh, PA",
@@ -210,7 +223,7 @@
           "id": "gz10xm20ugr8p8c1m125o2ue",
           "visible": true,
           "company": "Caterpillar",
-          "position": "Software Engineering Specialist (W-2)",
+          "position": "Software Engineering Specialist",
           "location": "Pittsburgh, PA",
           "date": "2018-2020",
           "summary": "<ul><li><p>Assembled Sensor Storage for Edge Network on Kubernetes to achieve <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://12factor.net/dev-prod-parity\">Dev-Prod Parity</a> using S3 as <strong>protocol not product</strong>, like Minio</p></li><li><p>Collaborated with IT execs on planning and implications of <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://blog.min.io/what-it-really-means-to-be-cloud-native-in-the-storage-world/\">cloud native storage</a> burden to declarative vs fixed configuration</p></li></ul>",
@@ -247,7 +260,7 @@
         },
         {
           "id": "mrn0nfhzgifj4h1ww2yov2ku",
-          "visible": false,
+          "visible": true,
           "company": "Hire an Esquire (Major, Lindsey, and Africa)",
           "position": "VP Engineering",
           "location": "Pittsburgh, PA",
@@ -256,6 +269,19 @@
           "url": {
             "label": "",
             "href": "https://www.mlaglobal.com/en/services/hire-an-esquire"
+          }
+        },
+        {
+          "id": "pmb6lgkko5rapp6wtjnxnga3",
+          "visible": false,
+          "company": "Forever",
+          "position": "Senior Software Developer",
+          "location": "Pittsburgh, PA",
+          "date": "2013-2014",
+          "summary": "<ul><li><p>Prototyped  full-stack (Bootstrap to Heroku) on Proxmox-Gitlab quickly on Python 3 before porting MVP from Python to <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.ruby-lang.org/en/\">Ruby</a> on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubyonrails.org/\">Rails</a> </p></li><li><p>Enabled the company to capture strong market traction in just a year after releasing 1.0 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.netsuite.com/portal/home.shtml\">e-commerce platform</a> finished at Neo</p></li></ul>",
+          "url": {
+            "label": "",
+            "href": ""
           }
         }
       ]
@@ -409,7 +435,7 @@
             "description": "Software Design Engineer",
             "date": "2004-2006",
             "location": "Pittsburgh, PA",
-            "summary": "<ul><li><p>Won <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://tinyurl.com/MAYA-DHS\\\">award</a> for <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://pypi.org/project/Toolserver/\">python web services</a> emitting JSON to JDA clients on team of 4 developing A+ Schools, 3RC, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/images/dhs.png\">humanservices.net</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://tinyurl.com/MAYA-DHS\\\">Demoed</a> GUI lighting IoT Zigbee PoC in Microsoft C#/COM/Visio on Windows for Phillips execs in 5 days sketch-to-code</p></li></ul>",
+            "summary": "<ul><li><p>Won award for python web services emitting JSON to JDA clients on team of 4 developing A+ Schools, 3RC, <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://humanservices.net\">humanservices.net</a></p></li><li><p style=\"text-align: start\">Demoed GUI lighting IoT Zigbee PoC in Microsoft C#/COM/Visio on Windows for Phillips execs in 5 days sketch-to-code</p></li></ul>",
             "keywords": [],
             "url": {
               "label": "",
@@ -483,7 +509,7 @@
     },
     "typography": {
       "font": {
-        "family": "Lato",
+        "family": "PT Sans",
         "subset": "latin",
         "variants": [
           "regular"
@@ -491,9 +517,9 @@
         "size": 12
       },
       "lineHeight": 2,
-      "hideIcons": false,
+      "hideIcons": true,
       "underlineLinks": true
     },
-    "notes": "<p></p>"
+    "notes": "<p>In search of a knowledge management system that scales at the speed of thought. Rules don't scale; hence AI.</p>"
   }
 }
