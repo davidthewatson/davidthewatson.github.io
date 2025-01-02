@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "David Watson",
-    "headline": "Curious Creative Computing Collaborative",
+    "headline": "Human-Computer Peer-to-Pair Partner",
     "email": "david@davidwatson.org",
     "phone": "",
     "location": "Pittsburgh, PA, USA",
@@ -36,7 +36,7 @@
       "separateLinks": true,
       "visible": true,
       "id": "summary",
-      "content": "<p>A musician before and after studying the sensemaking metrics of human-computer science, improvisation and orchestration are my natural ways-of-working. I grew up between a doctor's office and a library. Hence, my multimodal DiY mix combines lab, library, and studio. Flexible to a fault, my biases are easy to state but difficult to find : dynamic, empathic, and open source.</p>"
+      "content": "<p>A musician before and after I studied the meaning and sense-making  of human-computer science, improvisation and orchestration are my natural sway. I grew up between a clinic, a library, and a music studio. Hence, my multimodal DiY way-of-working combines lab, library, and studio. Flexible to a fault, my biases are easy to state but hard to find : curious and dynamic, empathic and open organizations and culture.</p>"
     },
     "awards": {
       "name": "Awards",
@@ -161,7 +161,7 @@
           "position": "",
           "location": "",
           "date": "2020-present",
-          "summary": "<ul><li><p><strong>Solo</strong> Cultivating <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">Cobind</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://no.wikipedia.org/wiki/Cobind_Desktop\">Desktop</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubenerd.com/p1191/\">Community</a> concept from 2004<strong>:</strong> Rust, Cosmic Tiling Window Manager <strong>2024 - present</strong></p></li><li><p><strong>Wyvern</strong> (1099) Roadmapped  port of legacy code to Docker, Kubernetes, and Typescript infrastructure  with team of four <strong>2023-2024</strong></p></li><li><p><strong>Paired</strong> with design peer prototyping Personal Knowledge Management on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a>-<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier <strong>2022</strong></p></li><li><p><strong>Caterpillar</strong> (1099) Built ZCU-104 Terrain Visualization using GCC flags for required performance boost for demo GTM decision <strong>2021</strong></p></li><li><p><strong>Carnegie Mellon University</strong> Artificial Intelligence (AI), Human Computer Interaction (HCI), High Performance Computing (HPC) <strong>2020</strong></p></li></ul>",
+          "summary": "<ul><li><p><strong>Solo</strong> Cultivating <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://davidwatson.org/cobind_retrospective.html\">Cobind</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://no.wikipedia.org/wiki/Cobind_Desktop\">Desktop</a> <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://rubenerd.com/p1191/\">Community</a> concept from 2004<strong>:</strong>  <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://system76.com/cosmic/\">Cosmic</a>, Python, Rust, TWM - where latency matters  <strong>2024 - present</strong></p></li><li><p><strong>Wyvern</strong> (1099) Roadmapped  port of legacy code to Docker, Kubernetes, and Typescript infrastructure  with team of four <strong>2023-2024</strong></p></li><li><p><strong>Paired</strong> with design peer prototyping Personal Knowledge Management on <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/davidthewatson/recursive_summarizer\">GPT</a>-<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://requests.readthedocs.io/en/latest/\">Requests</a> by building corpus from crawled frontier <strong>2022</strong></p></li><li><p><strong>Caterpillar</strong> (1099) Built ZCU-104 Terrain Visualization using GCC flags for required performance boost for demo GTM decision <strong>2021</strong></p></li><li><p><strong>Carnegie Mellon University</strong> Artificial Intelligence (AI), Human Computer Interaction (HCI), High Performance Computing (HPC) <strong>2020</strong></p></li></ul>",
           "url": {
             "label": "",
             "href": ""
