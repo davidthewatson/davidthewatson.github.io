@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+<head>
+  {% include 'partials/_head.html' %}
+</head>
+<body>
+  {% block body %}
+  {% include 'partials/_header.html' %}
+<main class="container">
+  {{ post_content_html | safe }}
+</main>
+  {% endblock %}
+  {% include 'partials/_footer.html' %}
+  {% block footer_js %}{% endblock %}
+</body>
+</html>

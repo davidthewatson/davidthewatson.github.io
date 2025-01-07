@@ -3,8 +3,9 @@
 
 <img class="icon-headshot" src="/images/watson.jpg" alt="Drums" title="Drums"></img>
 
-> The real cycle you're working on is a cycle called yourself. <footer>- <cite>[Robert Pirsig][1]</cite></footer> 
-[1]: https://en.wikipedia.org/wiki/Robert_M._Pirsig
+> The real cycle you're working on is a cycle called yourself.
+> 
+> — [Robert Pirsig](https://en.wikipedia.org/wiki/Robert_M._Pirsig)
 
 ###### <a name="music"></a>Music, Drums, and All That Jazz
 <img class="icon-headshot" src="/images/tama.jpg" alt="Drums" title="Drums"></img>
@@ -19,9 +20,9 @@ The [beauty of jazz](https://thebaffler.com/salvos/jazz-is-freedom-grimstad) as 
 Jazz is the greatest triumph of listening as art. 
 Take a bassist like Ron Carter, a drummer like Bryan Blade, a guitarist like Pat Metheny, and a pianist like Marcin Wasilewski, then listen carefully to their transcendent sound. 
 
-> Purposeless play which is an affirmation of life – 
-simply a way of waking up to the very life we're living. <footer>- <cite>[John Cage][2]</cite></footer>
-[2]: https://en.wikipedia.org/wiki/John_Cage 
+> Purposeless play which is an affirmation of life – simply a way of waking up to the very life we're living.
+>
+> — [John Cage](https://en.wikipedia.org/wiki/John_Cage)
 
 ###### <a name="software"></a>Computer Hardware and The Infinte Extensiblity of Software
 <img class="icon-headshot" src="/images/computer.jpg" alt="Studio" title="Studio"></img> 
@@ -43,9 +44,8 @@ But nothing has influenced my work more than open source's 3 P's: <a href="https
 > It is software that gives form and purpose to
 a programmable machine, much as a sculptor shapes clay. Leonardo called music
 *shaping the invisible*, and his phrase is even more apt as a description of
-software. <footer>- <cite>[Alan Kay][3]</cite></footer>
-[3]: https://en.wikipedia.org/wiki/Alan_Kay
-
+software.
+> - [Alan Kay](https://en.wikipedia.org/wiki/Alan_Kay)
 ___
 
 What code and jazz share beyond four-letter-words is that both result from ephemeral, liminal, modal consciousness and context beyond language. Indeed, in terms of language, one is compulsively logical while the other is impulsively emotional. 

@@ -1,1 +1,5 @@
-<ul><li><a href="cobind_retrospective.html">Cobind Retrospective</a></li><li><a href="dexcom_g6.html">Dexcom G6</a></li><li><a href="tandem_tslim_x2.html">Tandem Tslim X2</a></li><li><a href="tech_and_its_patinaed_boat.html">Tech And Its Patinaed Boat</a></li><li><a href="top_3_linux_distros_2022.html">Top 3 Linux Distros 2022</a></li></ul>
+- [Cobind Retrospective](cobind_retrospective.html)
+- [Dexcom G6](dexcom_g6.html)
+- [Tandem Tslim X2](tandem_tslim_x2.html)
+- [Tech And Its Patinaed Boat](tech_and_its_patinaed_boat.html)
+- [Top 3 Linux Distros 2022](top_3_linux_distros_2022.html)
