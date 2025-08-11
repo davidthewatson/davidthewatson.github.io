@@ -1,0 +1,10 @@
+.circular-image {
+  border-radius: 50%;
+  width: 150px; /* Adjust size */
+  height: 150px; /* Adjust size */
+  box-shadow: 0 0 10px rgba(0,0,0,0.2); /* Drop shadow */
+  object-fit: cover;
+  border: none !important;
+  background-color: transparent !important;
+}
+
