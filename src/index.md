@@ -1,5 +1,0 @@
-- [Cobind Retrospective](cobind_retrospective.html)
-- [Dexcom G6](dexcom_g6.html)
-- [Tandem Tslim X2](tandem_tslim_x2.html)
-- [Tech And Its Patinaed Boat](tech_and_its_patinaed_boat.html)
-- [Top 3 Linux Distros 2022](top_3_linux_distros_2022.html)
